@@ -2902,5 +2902,13 @@
     "is_verified": true,
     "ticker": "SHARKY",
     "decimals": 0
+  },
+  "2729856b1655c93aae32c0605a30e7a4bc1cc2be249cddb99859fee4524f434b59": {
+    "token_id": "2729856b1655c93aae32c0605a30e7a4bc1cc2be249cddb99859fee4524f434b59",
+    "token_policy": "2729856b1655c93aae32c0605a30e7a4bc1cc2be249cddb99859fee4",
+    "token_ascii": "ROCKY",
+    "is_verified": true,
+    "ticker": "ROCKY",
+    "decimals": 0
   }
 }
