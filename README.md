@@ -22,3 +22,6 @@ Example:
     "decimals": 0
   }
 ```
+
+### Please attach png or jpg image file to the description
+![image](https://github.com/CNFT-Predator/verified-tokens/assets/44160230/26b1c721-f4d4-46c9-bd07-6f985bba3c29)
