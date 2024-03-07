@@ -2910,5 +2910,13 @@
     "is_verified": true,
     "ticker": "ROCKY",
     "decimals": 0
+  },
+  "28eaf730995da11bdadf92f0bdee30e7b3055240bba99c028567ca584652454e574946484154": {
+    "token_id": "28eaf730995da11bdadf92f0bdee30e7b3055240bba99c028567ca584652454e574946484154",
+    "token_policy": "28eaf730995da11bdadf92f0bdee30e7b3055240bba99c028567ca58",
+    "token_ascii": "frenwifhat",
+    "is_verified": true,
+    "ticker": "FWH",
+    "decimals": 0
   }
 }
