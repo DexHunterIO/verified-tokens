@@ -2910,5 +2910,13 @@
     "is_verified": true,
     "ticker": "ROCKY",
     "decimals": 0
+  },
+   "31f41d683fef206cda1db27c09d9ace7d72afca38705d0bcedd26ecb53504f4f4445524d414e574946484154": {
+    "token_id": "31f41d683fef206cda1db27c09d9ace7d72afca38705d0bcedd26ecb53504f4f4445524d414e574946484154",
+    "token_policy": "31f41d683fef206cda1db27c09d9ace7d72afca38705d0bcedd26ecb",
+    "token_ascii": "SPOODERMANWIFHAT",
+    "is_verified": true
+    "ticker": "SPOODERMAN",
+    "decimals": 0
   }
 }
