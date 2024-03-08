@@ -2910,5 +2910,12 @@
     "is_verified": true,
     "ticker": "ROCKY",
     "decimals": 0
+  },
+   "f3f98919653f8b209d08b1c3eef407065cf5c45c142fd05221a2ab2450455045574946484154": {
+    "token_id": "f3f98919653f8b209d08b1c3eef407065cf5c45c142fd05221a2ab2450455045574946484154",
+    "token_policy": "f3f98919653f8b209d08b1c3eef407065cf5c45c142fd05221a2ab24",
+    "token_ascii": "PEPEWIFHAT",
+    "is_verified": true,
+    "decimals": 0
   }
 }
