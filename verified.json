@@ -2917,5 +2917,12 @@
     "token_ascii": "PEPEWIFHAT",
     "is_verified": true,
     "decimals": 0
+  },
+  "c6c6dd36080dc5f3a5122c28f6ebed2cd4f216b6558e9a52987da01b534e454b574946484154": {
+    "token_id": "c6c6dd36080dc5f3a5122c28f6ebed2cd4f216b6558e9a52987da01b534e454b574946484154",
+    "token_policy": "c6c6dd36080dc5f3a5122c28f6ebed2cd4f216b6558e9a52987da01b",
+    "token_ascii": "SNEKWIFHAT",
+    "is_verified": true,
+    "decimals": 0
   }
 }
