@@ -2911,11 +2911,155 @@
     "ticker": "ROCKY",
     "decimals": 0
   },
-   "f3f98919653f8b209d08b1c3eef407065cf5c45c142fd05221a2ab2450455045574946484154": {
+  "2cb3b7d8202582be6a13d868e08039737195ba47ea7185dba0a9fd8e4149475054": {
+    "token_id": "2cb3b7d8202582be6a13d868e08039737195ba47ea7185dba0a9fd8e4149475054",
+    "token_policy": "2cb3b7d8202582be6a13d868e08039737195ba47ea7185dba0a9fd8e",
+    "token_ascii": "AIGPT",
+    "is_verified": true,
+    "ticker": "AIGPT",
+    "decimals": 0
+  },
+  "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a442544e": {
+    "token_id": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a442544e",
+    "token_policy": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a4",
+    "token_ascii": "Butane",
+    "is_verified": true,
+    "ticker": "BTN",
+    "decimals": 6
+  },
+  "a782fcfd66604dc7ea63bd52e14566a7d2b7c478e2c6e2ed90f1d4a05459505553": {
+    "token_id": "a782fcfd66604dc7ea63bd52e14566a7d2b7c478e2c6e2ed90f1d4a05459505553",
+    "token_policy": "a782fcfd66604dc7ea63bd52e14566a7d2b7c478e2c6e2ed90f1d4a0",
+    "token_ascii": "TYPUS",
+    "is_verified": true,
+    "ticker": "TYPUS",
+    "decimals": 0
+  },
+  "04e819c9145aa7cc1ef91a8fbc3a31e41fffbb195978e7875ffb93b0534c4f57": {
+    "token_id": "04e819c9145aa7cc1ef91a8fbc3a31e41fffbb195978e7875ffb93b0534c4f57",
+    "token_policy": "04e819c9145aa7cc1ef91a8fbc3a31e41fffbb195978e7875ffb93b0",
+    "token_ascii": "SLOW",
+    "is_verified": true,
+    "ticker": "SLOW",
+    "decimals": 0
+  },
+  "0a6028e083cffe5079c9409b46fdd26cfdb8b7622954cc4f8cb7ca2f42414259484f534b59": {
+    "token_id": "0a6028e083cffe5079c9409b46fdd26cfdb8b7622954cc4f8cb7ca2f42414259484f534b59",
+    "token_policy": "0a6028e083cffe5079c9409b46fdd26cfdb8b7622954cc4f8cb7ca2f",
+    "token_ascii": "Baby Hosky",
+    "is_verified": true,
+    "ticker": "BABYHOSKY",
+    "decimals": 0
+  },
+  "5dc56fd1ce4335f8be2020f3f836cd11022dfbbf462e198a93e9912662757368776966706c616e6573": {
+    "token_id": "5dc56fd1ce4335f8be2020f3f836cd11022dfbbf462e198a93e9912662757368776966706c616e6573",
+    "token_policy": "5dc56fd1ce4335f8be2020f3f836cd11022dfbbf462e198a93e99126",
+    "token_ascii": "bushwifplanes",
+    "is_verified": true,
+    "ticker": "BWP",
+    "decimals": 0
+  },
+  "b255299c2659a06e4bab2bccc9499d84fe08197c9f4026b8936701094348454150": {
+    "token_id": "b255299c2659a06e4bab2bccc9499d84fe08197c9f4026b8936701094348454150",
+    "token_policy": "b255299c2659a06e4bab2bccc9499d84fe08197c9f4026b893670109",
+    "token_ascii": "CHEAP",
+    "is_verified": true,
+    "ticker": "CHEAP",
+    "decimals": 0
+  },
+  "eefcb12ba4f4d83a7a3feccc8cde7cf00445ecc71131e705d7988a870014df104c45565659": {
+    "token_id": "eefcb12ba4f4d83a7a3feccc8cde7cf00445ecc71131e705d7988a870014df104c45565659",
+    "token_policy": "eefcb12ba4f4d83a7a3feccc8cde7cf00445ecc71131e705d7988a87",
+    "token_ascii": "Levvy",
+    "is_verified": true,
+    "ticker": "LEVVY",
+    "decimals": 6
+  },
+  "42ef815cdb3f34771f8f40b57019bc88e30ff1fc3db51d397130803b736e656b776966686174": {
+    "token_id": "42ef815cdb3f34771f8f40b57019bc88e30ff1fc3db51d397130803b736e656b776966686174",
+    "token_policy": "42ef815cdb3f34771f8f40b57019bc88e30ff1fc3db51d397130803b",
+    "token_ascii": "snekfwifhat",
+    "is_verified": true,
+    "ticker": "SWH",
+    "decimals": 0
+  },
+  "defe216460d594211631fcfbd354f361c04645d6a0cfeead3d6f62836c65767679776966686174": {
+    "token_id": "defe216460d594211631fcfbd354f361c04645d6a0cfeead3d6f62836c65767679776966686174",
+    "token_policy": "defe216460d594211631fcfbd354f361c04645d6a0cfeead3d6f6283",
+    "token_ascii": "levvywifhat",
+    "is_verified": true,
+    "ticker": "LWH",
+    "decimals": 0
+  },
+  "e462d8c8fcbaa4b763bcd75493b9afd3b06b8e77c3493fba052144ed6d626f74776966686174": {
+    "token_id": "e462d8c8fcbaa4b763bcd75493b9afd3b06b8e77c3493fba052144ed6d626f74776966686174",
+    "token_policy": "e462d8c8fcbaa4b763bcd75493b9afd3b06b8e77c3493fba052144ed",
+    "token_ascii": "mbotwifhat",
+    "is_verified": true,
+    "ticker": "MBWH",
+    "decimals": 0
+  },
+  "6e6098846537ca48ff18eac70b7f5040c69ba2c5570521b6eb00fdf56461646479": {
+    "token_id": "6e6098846537ca48ff18eac70b7f5040c69ba2c5570521b6eb00fdf56461646479",
+    "token_policy": "6e6098846537ca48ff18eac70b7f5040c69ba2c5570521b6eb00fdf5",
+    "token_ascii": "DADDY",
+    "is_verified": true,
+    "ticker": "DADDY",
+    "decimals": 0
+  },
+  "28eaf730995da11bdadf92f0bdee30e7b3055240bba99c028567ca584652454e574946484154": {
+    "token_id": "28eaf730995da11bdadf92f0bdee30e7b3055240bba99c028567ca584652454e574946484154",
+    "token_policy": "28eaf730995da11bdadf92f0bdee30e7b3055240bba99c028567ca58",
+    "token_ascii": "FRENWIFHAT",
+    "is_verified": true,
+    "ticker": "FWH",
+    "decimals": 0
+  },
+  "b3c84cec96600d5ff1e2c8aaf1089392c9515840f8795f0b25ea3792": {
+    "token_id": "b3c84cec96600d5ff1e2c8aaf1089392c9515840f8795f0b25ea3792",
+    "token_policy": "b3c84cec96600d5ff1e2c8aaf1089392c9515840f8795f0b25ea3792",
+    "token_ascii": "charleswifglasses",
+    "is_verified": true,
+    "ticker": "DVC",
+    "decimals": 0
+  },
+  "f3f98919653f8b209d08b1c3eef407065cf5c45c142fd05221a2ab2450455045574946484154": {
     "token_id": "f3f98919653f8b209d08b1c3eef407065cf5c45c142fd05221a2ab2450455045574946484154",
     "token_policy": "f3f98919653f8b209d08b1c3eef407065cf5c45c142fd05221a2ab24",
     "token_ascii": "PEPEWIFHAT",
     "is_verified": true,
+    "ticker": "PWH"
+  },
+  "33b528c597f912f053db46606b3246e2d7febec8dd0ce945d293f291454c574946484154": {
+    "token_id": "33b528c597f912f053db46606b3246e2d7febec8dd0ce945d293f291454c574946484154",
+    "token_policy": "33b528c597f912f053db46606b3246e2d7febec8dd0ce945d293f291",
+    "token_ascii": "ELWIFHAT",
+    "is_verified": true,
+    "ticker": "ELWIFHAT",
     "decimals": 0
+  },
+  "590f6d119b214cdcf7ef7751f8b7f1de615ff8f6de097a5ce62b257b534841524c": {
+    "token_id": "590f6d119b214cdcf7ef7751f8b7f1de615ff8f6de097a5ce62b257b534841524c",
+    "token_policy": "590f6d119b214cdcf7ef7751f8b7f1de615ff8f6de097a5ce62b257b",
+    "token_ascii": "SHARL",
+    "is_verified": true,
+    "ticker": "SHARL",
+    "decimals": 0
+  },
+  "c058aa2ab98a6a89bac4b216b0a045f9ea33a0148e6cad07c241364659554745": {
+    "token_id": "c058aa2ab98a6a89bac4b216b0a045f9ea33a0148e6cad07c241364659554745",
+    "token_policy": "c058aa2ab98a6a89bac4b216b0a045f9ea33a0148e6cad07c2413646",
+    "token_ascii": "denald trumpo",
+    "is_verified": true,
+    "ticker": "YUGE",
+    "decimals": 0
+  },
+  "4981b9bdaf6477b21b8c88a03041a4f365915b6dbe29e2dd714586ba4d45535349": {
+    "token_id": "4981b9bdaf6477b21b8c88a03041a4f365915b6dbe29e2dd714586ba4d45535349",
+    "token_policy": "4981b9bdaf6477b21b8c88a03041a4f365915b6dbe29e2dd714586ba",
+    "token_ascii": "MESSI",
+    "is_verified": true,
+    "ticker": "MESSI",
+    "decimals": 6
   }
 }
