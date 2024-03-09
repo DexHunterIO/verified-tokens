@@ -2918,4 +2918,11 @@
     "is_verified": true,
     "decimals": 0
   }
+   "c058aa2ab98a6a89bac4b216b0a045f9ea33a0148e6cad07c241364659554745": {
+    "token_id": "c058aa2ab98a6a89bac4b216b0a045f9ea33a0148e6cad07c241364659554745",
+    "token_policy": "c058aa2ab98a6a89bac4b216b0a045f9ea33a0148e6cad07c2413646",
+    "token_ascii": "denald trumpo",
+    "is_verified": true,
+    "ticker": "YUGE"
+    "decimals": 0
 }
