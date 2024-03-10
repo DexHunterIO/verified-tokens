@@ -387,6 +387,14 @@
     "is_verified": true,
     "ticker": "QAI"
   },
+  "af03770556f3312d90523bc6a743ec2fb61e2eae47519faecf5127c3575342": {
+    "token_id": "af03770556f3312d90523bc6a743ec2fb61e2eae47519faecf5127c3575342",
+    "token_policy": "af03770556f3312d90523bc6a743ec2fb61e2eae47519faecf5127c3",
+    "token_ascii": "WallStreetBets Token",
+    "is_verified": true,
+    "ticker": "WSB",
+    "decimals": 0
+  }
   "20cd68533b47565f3c61efb39c30fdace9963bfa4c0060b613448e3c50524f584945": {
     "token_id": "20cd68533b47565f3c61efb39c30fdace9963bfa4c0060b613448e3c50524f584945",
     "token_policy": "20cd68533b47565f3c61efb39c30fdace9963bfa4c0060b613448e3c",
