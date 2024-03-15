@@ -3077,5 +3077,12 @@
     "is_verified": true,
     "ticker": "MESSI",
     "decimals": 6
-  }
+  },
+  "4be8cf2541c893eb7cb9de168380e8598455ee522ec78bde27a35eb04d69644b6e69676874": {
+        "token_id": "4be8cf2541c893eb7cb9de168380e8598455ee522ec78bde27a35eb04d69644b6e69676874",
+        "token_policy": "4be8cf2541c893eb7cb9de168380e8598455ee522ec78bde27a35eb0",
+        "token_ascii": "MidKnight",
+        "is_verified": true,
+        "ticker": "mid"
+    }
 }
