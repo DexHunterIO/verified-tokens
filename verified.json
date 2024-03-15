@@ -3079,3 +3079,12 @@
     "decimals": 6
   }
 }
+,
+
+    "c1cc5b4b5abab35083102db53969b8ceaa75486752a14c46259a720b43617264616e6f20546f6b656e204d696e746572": {
+        "token_id": "c1cc5b4b5abab35083102db53969b8ceaa75486752a14c46259a720b43617264616e6f20546f6b656e204d696e746572",
+        "token_policy": "c1cc5b4b5abab35083102db53969b8ceaa75486752a14c46259a720b",
+        "token_ascii": "Cardano Token Minter",
+        "is_verified": true
+    }
+}
