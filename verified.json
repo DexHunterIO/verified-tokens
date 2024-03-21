@@ -3077,5 +3077,13 @@
     "is_verified": true,
     "ticker": "MESSI",
     "decimals": 6
+  },
+  "ac40dd8285d206e5111836e3e8a8467d1ef4bb673c45218fedfba68056454e": {
+    "token_id": "ac40dd8285d206e5111836e3e8a8467d1ef4bb673c45218fedfba68056454e",
+    "token_policy": "ac40dd8285d206e5111836e3e8a8467d1ef4bb673c45218fedfba680",
+    "token_ascii": "VENOM",
+    "is_verified": true,
+    "ticker": "VEN",
+    "decimals": 0
   }
 }
