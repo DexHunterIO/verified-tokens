@@ -3077,5 +3077,13 @@
     "is_verified": true,
     "ticker": "MESSI",
     "decimals": 6
+  },
+  "ddbef492ff8eaf95691c3aa1fec8519ef4991145a8a36bc2a23f178550454c46": {
+    "token_id": "ddbef492ff8eaf95691c3aa1fec8519ef4991145a8a36bc2a23f178550454c46",
+    "token_policy": "ddbef492ff8eaf95691c3aa1fec8519ef4991145a8a36bc2a23f1785",
+    "token_ascii": "PELF",
+    "is_verified": true,
+    "ticker": "PELF",
+    "decimals": 0
   }
 }
