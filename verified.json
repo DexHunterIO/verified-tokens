@@ -3077,5 +3077,13 @@
     "is_verified": true,
     "ticker": "MESSI",
     "decimals": 6
-  }
+  },
+  "a90d1702625ee4ebcee3b3649708cbcbb163f50db9663308acc9650e4d414e45": {
+    "token_id": "a90d1702625ee4ebcee3b3649708cbcbb163f50db9663308acc9650e4d414e45",
+    "token_policy": "a90d1702625ee4ebcee3b3649708cbcbb163f50db9663308acc9650e",
+    "token_ascii": "MANE",
+    "is_verified": true,
+    "ticker": "MANE",
+    "decimals": 6
+}
 }
