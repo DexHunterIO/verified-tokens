@@ -3095,4 +3095,11 @@
     "ticker": "VEN",
     "decimals": 0
   }
-}
+} "c6f572d78f750774c58d55e36bcc05e29e000a85cf6b5459c64abe37": {
+    "token_id": "c6f572d78f750774c58d55e36bcc05e29e000a85cf6b5459c64abe37",
+    "token_policy": "c6f572d78f750774c58d55e36bcc05e29e000a85cf6b5459c64abe37",
+    "token_ascii": "ECOBITCOIN",
+    "is_verified": true,
+    "ticker": "EBTC",
+    "decimals": 8
+  }
