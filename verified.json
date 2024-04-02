@@ -3094,5 +3094,13 @@
     "is_verified": true,
     "ticker": "VEN",
     "decimals": 0
+  },
+  "615597811be9cbf1b00c2c00c614d0baf0abf62405c2f0a40b2cab4f48574946": {
+    "token_id": "615597811be9cbf1b00c2c00c614d0baf0abf62405c2f0a40b2cab4f48574946",
+    "token_policy": "615597811be9cbf1b00c2c00c614d0baf0abf62405c2f0a40b2cab4f",
+    "token_ascii": "HOSKYWIFHAT",
+    "is_verified": true,
+    "ticker": "HWIF",
+    "decimals": 0
   }
 }
