@@ -3102,5 +3102,13 @@
     "is_verified": true,
     "ticker": "BOIS",
     "decimals": 0
+  },
+  "af9e11896a80f2ec249f5733849af88401557961ccb3729784f2637b567361756365": {
+    "token_id": "af9e11896a80f2ec249f5733849af88401557961ccb3729784f2637b567361756365",
+    "token_policy": "af9e11896a80f2ec249f5733849af88401557961ccb3729784f2637b",
+    "token_ascii": "Vsauce",
+    "is_verified": true,
+    "ticker": "Vsauce",
+    "decimals": 0
   }
 }
