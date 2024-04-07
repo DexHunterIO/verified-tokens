@@ -3110,5 +3110,13 @@
     "is_verified": true,
     "ticker": "Vsauce",
     "decimals": 0
+  },
+  "c15be893ef2c9aa7c6370322f2d433ad171a9e0df52610ca6883a060434154": {
+    "token_id": "c15be893ef2c9aa7c6370322f2d433ad171a9e0df52610ca6883a060434154",
+    "token_policy": "c15be893ef2c9aa7c6370322f2d433ad171a9e0df52610ca6883a060",
+    "token_ascii": "CAT",
+    "is_verified": true,
+    "ticker": "CAT",
+    "decimals": 0
   }
 }
