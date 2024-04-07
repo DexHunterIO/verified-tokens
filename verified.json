@@ -3110,5 +3110,13 @@
     "is_verified": true,
     "ticker": "Vsauce",
     "decimals": 0
+  },
+   "069050cab76605dc9962221aa0ea146cad5cd620e161ee03cf3aebc250455045444f47": {
+    "token_id": "069050cab76605dc9962221aa0ea146cad5cd620e161ee03cf3aebc250455045444f47",
+    "token_policy": "069050cab76605dc9962221aa0ea146cad5cd620e161ee03cf3aebc2",
+    "token_ascii": "PEPEDOG",
+    "is_verified": true,
+    "ticker": "PEPEDOG",
+    "decimals": 0,
   }
 }
