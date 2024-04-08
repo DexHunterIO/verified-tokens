@@ -15,6 +15,14 @@
     "ticker": "BONK",
     "decimals": 0
   },
+  "f5c776f63e91773d742625abc186d246fc2bd15623b43d5583427ff644495353": {
+    "token_id": "f5c776f63e91773d742625abc186d246fc2bd15623b43d5583427ff644495353",
+    "token_policy": "f5c776f63e91773d742625abc186d246fc2bd15623b43d5583427ff6",
+    "token_ascii": "DISS",
+    "is_verified": true,
+    "ticker": "DISS",
+    "decimals": 0
+  }
 {
   "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54": {
     "token_id": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54",
