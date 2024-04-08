@@ -6,7 +6,15 @@
     "is_verified": true,
     "ticker": "GLDSNEK",
   },
-
+{ 
+  "436713331a99dd419c19f10d65d50d1af641d7c7abba6ab323e8ea2c424f4e4b": {
+    "token_id": "436713331a99dd419c19f10d65d50d1af641d7c7abba6ab323e8ea2c424f4e4b",
+    "token_policy": "436713331a99dd419c19f10d65d50d1af641d7c7abba6ab323e8ea2c",
+    "token_ascii": "BONK",
+    "is_verified": true,
+    "ticker": "BONK",
+    "decimals": 0
+  }.
 {
   "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54": {
     "token_id": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54",
