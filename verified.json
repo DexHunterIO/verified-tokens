@@ -3135,5 +3135,13 @@
     "is_verified": true,
     "ticker": "PEPEDOG",
     "decimals": 0,
+  },
+   "f13515ca37ae4a0cf44f13860f325f0d017ee9988f2e7598c06e1d9a42554653": {
+    "token_id": "f13515ca37ae4a0cf44f13860f325f0d017ee9988f2e7598c06e1d9a42554653",
+    "token_policy": "f13515ca37ae4a0cf44f13860f325f0d017ee9988f2e7598c06e1d9a",
+    "token_ascii": "Buffer",
+    "is_verified": true,
+    "ticker": "BUFS",
+    "decimals": 0,
   }
 }
