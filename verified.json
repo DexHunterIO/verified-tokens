@@ -3143,5 +3143,13 @@
     "is_verified": true,
     "ticker": "PEPEDOG",
     "decimals": 0,
-  }
+  }, 
+  "1cd92100fc05fce7416b3857a079780164eeaf8f5613f4b814f24e09426f6f6e436f696e": {
+    "token_id": "1cd92100fc05fce7416b3857a079780164eeaf8f5613f4b814f24e09426f6f6e436f696e",
+    "token_policy": "1cd92100fc05fce7416b3857a079780164eeaf8f5613f4b814f24e09",
+    "token_ascii": "BoonCoin",
+    "is_verified": true,
+    "ticker": "BOON",
+    "decimals": 0,
+  },
 }
