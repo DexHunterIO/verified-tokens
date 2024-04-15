@@ -3152,4 +3152,12 @@
     "ticker": "BOON",
     "decimals": 0,
   },
+   "98f4dfbb7459e204a1eb370a03f07ffb710df123e1ad6bd5474a23c04645544348": {
+    "token_id": "98f4dfbb7459e204a1eb370a03f07ffb710df123e1ad6bd5474a23c04645544348",
+    "token_policy": "98f4dfbb7459e204a1eb370a03f07ffb710df123e1ad6bd5474a23c0",
+    "token_ascii": "Fetch Coin",
+    "is_verified": true,
+    "ticker": "FETCH",
+    "decimals": 0,
+  },
 }
