@@ -365,7 +365,7 @@
   "473e6a5a73108783abdd8b540eb0bca7265741d1f1e8fa55b0e8ef32646567656e": {
     "token_id": "473e6a5a73108783abdd8b540eb0bca7265741d1f1e8fa55b0e8ef32646567656e",
     "token_policy": "473e6a5a73108783abdd8b540eb0bca7265741d1f1e8fa55b0e8ef32",
-    "token_ascii": "🧠",
+    "token_ascii": "\ud83e\udde0",
     "is_verified": true,
     "ticker": "DEG"
   },
@@ -3156,5 +3156,13 @@
     "is_verified": true,
     "ticker": "FETCH",
     "decimals": 0
+  },
+  "2ff5222d3d6f86163b8bba702ccf647591a2df17c47ac7c66794fd2d474159534e454b": {
+    "token_id": "2ff5222d3d6f86163b8bba702ccf647591a2df17c47ac7c66794fd2d474159534e454b",
+    "token_policy": "2ff5222d3d6f86163b8bba702ccf647591a2df17c47ac7c66794fd2d",
+    "token_ascii": "GAYSNEK",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "GAYSNEK"
   }
 }
