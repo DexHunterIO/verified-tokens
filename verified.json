@@ -3160,4 +3160,12 @@
     "ticker": "FETCH",
     "decimals": 0,
   },
+  "3e66bc57dde088f983ea41c67f92a1b267d04ecd16c07145eb126cc8536e656b576966486174": {
+        "token_id": "3e66bc57dde088f983ea41c67f92a1b267d04ecd16c07145eb126cc8536e656b576966486174",
+        "token_policy": "3e66bc57dde088f983ea41c67f92a1b267d04ecd16c07145eb126cc8",
+        "token_ascii": "SnekWifHat ",
+        "is_verified": true,
+        "decimals": "0",
+        "ticker": "SNEKWIF"
+    }
 }
