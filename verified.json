@@ -4,9 +4,8 @@
     "token_policy": "cdbbe391853676285131fe2de250e274dbeb5f9d98344e86c7b383d9",
     "token_ascii": "GOLDENSNAKES",
     "is_verified": true,
-    "ticker": "GLDSNEK",
+    "ticker": "GLDSNEK"
   },
-{ 
   "58ad4a35e6e40d7e5833af259531dfb660d31b805166839d3fac305a4a45535553": {
     "token_id": "58ad4a35e6e40d7e5833af259531dfb660d31b805166839d3fac305a4a45535553",
     "token_policy": "58ad4a35e6e40d7e5833af259531dfb660d31b805166839d3fac305a",
@@ -15,7 +14,6 @@
     "ticker": "JESUS",
     "decimals": 4
   },
-{ 
   "436713331a99dd419c19f10d65d50d1af641d7c7abba6ab323e8ea2c424f4e4b": {
     "token_id": "436713331a99dd419c19f10d65d50d1af641d7c7abba6ab323e8ea2c424f4e4b",
     "token_policy": "436713331a99dd419c19f10d65d50d1af641d7c7abba6ab323e8ea2c",
@@ -31,8 +29,7 @@
     "is_verified": true,
     "ticker": "DISS",
     "decimals": 0
-  }
-{
+  },
   "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54": {
     "token_id": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54",
     "token_policy": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb00",
@@ -3119,7 +3116,7 @@
     "is_verified": true,
     "ticker": "VEN",
     "decimals": 0
-     },
+  },
   "0d35eed3136d050365ef5c3dac5f55e87510d3e27dd79180370ac0f6424f4953": {
     "token_id": "0d35eed3136d050365ef5c3dac5f55e87510d3e27dd79180370ac0f6424f4953",
     "token_policy": "0d35eed3136d050365ef5c3dac5f55e87510d3e27dd79180370ac0f6",
@@ -3136,28 +3133,28 @@
     "ticker": "Vsauce",
     "decimals": 0
   },
-   "069050cab76605dc9962221aa0ea146cad5cd620e161ee03cf3aebc250455045444f47": {
+  "069050cab76605dc9962221aa0ea146cad5cd620e161ee03cf3aebc250455045444f47": {
     "token_id": "069050cab76605dc9962221aa0ea146cad5cd620e161ee03cf3aebc250455045444f47",
     "token_policy": "069050cab76605dc9962221aa0ea146cad5cd620e161ee03cf3aebc2",
     "token_ascii": "PEPEDOG",
     "is_verified": true,
     "ticker": "PEPEDOG",
-    "decimals": 0,
-  }, 
+    "decimals": 0
+  },
   "1cd92100fc05fce7416b3857a079780164eeaf8f5613f4b814f24e09426f6f6e436f696e": {
     "token_id": "1cd92100fc05fce7416b3857a079780164eeaf8f5613f4b814f24e09426f6f6e436f696e",
     "token_policy": "1cd92100fc05fce7416b3857a079780164eeaf8f5613f4b814f24e09",
     "token_ascii": "BoonCoin",
     "is_verified": true,
     "ticker": "BOON",
-    "decimals": 0,
+    "decimals": 0
   },
-   "98f4dfbb7459e204a1eb370a03f07ffb710df123e1ad6bd5474a23c04645544348": {
+  "98f4dfbb7459e204a1eb370a03f07ffb710df123e1ad6bd5474a23c04645544348": {
     "token_id": "98f4dfbb7459e204a1eb370a03f07ffb710df123e1ad6bd5474a23c04645544348",
     "token_policy": "98f4dfbb7459e204a1eb370a03f07ffb710df123e1ad6bd5474a23c0",
     "token_ascii": "Fetch Coin",
     "is_verified": true,
     "ticker": "FETCH",
-    "decimals": 0,
-  },
+    "decimals": 0
+  }
 }
