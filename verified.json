@@ -3172,5 +3172,13 @@
     "is_verified": true,
     "decimals": 0,
     "ticker": "tt2"
+  },
+  "00bd05dbd23638fdb52a20296e09aff5b4534b73c9a882d81cd9a6f7534e454b574946424c554e54": {
+    "token_id": "00bd05dbd23638fdb52a20296e09aff5b4534b73c9a882d81cd9a6f7534e454b574946424c554e54",
+    "token_policy": "00bd05dbd23638fdb52a20296e09aff5b4534b73c9a882d81cd9a6f7",
+    "token_ascii": "SNEK WIF BLUNT",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "SNEKBLUNT"
   }
 }
