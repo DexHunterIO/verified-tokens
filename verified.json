@@ -3157,6 +3157,14 @@
     "ticker": "FETCH",
     "decimals": 0
   },
+  "8bbe29d43fa1da348ccad87f4dc42105be23d54c26bc99d230df8620626b76": {
+    "token_id": "8bbe29d43fa1da348ccad87f4dc42105be23d54c26bc99d230df8620626b76",
+    "token_policy": "8bbe29d43fa1da348ccad87f4dc42105be23d54c26bc99d230df8620",
+    "token_ascii": "BKV",
+    "is_verified": true,
+    "ticker": "BKV",
+    "decimals": 4
+  },
   "2ff5222d3d6f86163b8bba702ccf647591a2df17c47ac7c66794fd2d474159534e454b": {
     "token_id": "2ff5222d3d6f86163b8bba702ccf647591a2df17c47ac7c66794fd2d474159534e454b",
     "token_policy": "2ff5222d3d6f86163b8bba702ccf647591a2df17c47ac7c66794fd2d",
