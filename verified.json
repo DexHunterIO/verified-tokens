@@ -3157,6 +3157,14 @@
     "ticker": "FETCH",
     "decimals": 0
   },
+  "2ff5222d3d6f86163b8bba702ccf647591a2df17c47ac7c66794fd2d474159534e454b": {
+    "token_id": "2ff5222d3d6f86163b8bba702ccf647591a2df17c47ac7c66794fd2d474159534e454b",
+    "token_policy": "2ff5222d3d6f86163b8bba702ccf647591a2df17c47ac7c66794fd2d",
+    "token_ascii": "GAYSNEK",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "GAYSNEK"
+  },
   "b6ed558174257901e7a03064a0bd4355a8dd5c64f3398e7ab94c00e154657374696e67566572696669636174696f6e": {
     "token_id": "b6ed558174257901e7a03064a0bd4355a8dd5c64f3398e7ab94c00e154657374696e67566572696669636174696f6e",
     "token_policy": "b6ed558174257901e7a03064a0bd4355a8dd5c64f3398e7ab94c00e1",
