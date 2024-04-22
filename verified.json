@@ -3196,5 +3196,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "CHUNGUS"
+  },
+  "20efaf13727eea5813e57530f1f9bb60fa8a986056b48c4b89d59b414769726c4672656e": {
+    "token_id": "20efaf13727eea5813e57530f1f9bb60fa8a986056b48c4b89d59b414769726c4672656e",
+    "token_policy": "20efaf13727eea5813e57530f1f9bb60fa8a986056b48c4b89d59b41",
+    "token_ascii": "GIRLFREN",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "GIRLFREN"
   }
 }
