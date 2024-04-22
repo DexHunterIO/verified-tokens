@@ -3189,6 +3189,14 @@
     "decimals": 0,
     "ticker": "SNEKBLUNT"
   },
+  "797400c83a4ae9a3fc4ab3f1eab4f754448ae53178e88e42d82ee0c850495045": {
+    "token_id": "797400c83a4ae9a3fc4ab3f1eab4f754448ae53178e88e42d82ee0c850495045",
+    "token_policy": "797400c83a4ae9a3fc4ab3f1eab4f754448ae53178e88e42d82ee0c8",
+    "token_ascii": "PIPE",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "PIPE"
+  },
   "185a438a9ec5179950165c8d14f1b070159c10c4039ac3ffc939ae3c4269674368756e677573": {
     "token_id": "185a438a9ec5179950165c8d14f1b070159c10c4039ac3ffc939ae3c4269674368756e677573",
     "token_policy": "185a438a9ec5179950165c8d14f1b070159c10c4039ac3ffc939ae3c",
