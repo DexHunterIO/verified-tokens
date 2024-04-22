@@ -3189,6 +3189,14 @@
     "decimals": 0,
     "ticker": "SNEKBLUNT"
   },
+  "185a438a9ec5179950165c8d14f1b070159c10c4039ac3ffc939ae3c4269674368756e677573": {
+    "token_id": "185a438a9ec5179950165c8d14f1b070159c10c4039ac3ffc939ae3c4269674368756e677573",
+    "token_policy": "185a438a9ec5179950165c8d14f1b070159c10c4039ac3ffc939ae3c",
+    "token_ascii": "Big Chungus",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CHUNGUS"
+  },
   "20efaf13727eea5813e57530f1f9bb60fa8a986056b48c4b89d59b414769726c4672656e": {
     "token_id": "20efaf13727eea5813e57530f1f9bb60fa8a986056b48c4b89d59b414769726c4672656e",
     "token_policy": "20efaf13727eea5813e57530f1f9bb60fa8a986056b48c4b89d59b41",
