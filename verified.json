@@ -3221,6 +3221,13 @@
     "ticker": "BUFS",
     "decimals": 0
   },
+  "246d6a8493dd02c1243ccae10b3275f318e4f3144140d05c4c28c422536e556b": {
+    "token_id": "246d6a8493dd02c1243ccae10b3275f318e4f3144140d05c4c28c422536e556b",
+    "token_policy": "246d6a8493dd02c1243ccae10b3275f318e4f3144140d05c4c28c422",
+    "token_ascii": "SnUk",
+    "is_verified": true,
+    "ticker": "SnUk",
+  },
   "0f08a3904d9506fdcd86a9fea7bb4e9564704b7526d43071fa545f45534e454b4d414745": {
     "token_id": "0f08a3904d9506fdcd86a9fea7bb4e9564704b7526d43071fa545f45534e454b4d414745",
     "token_policy": "0f08a3904d9506fdcd86a9fea7bb4e9564704b7526d43071fa545f45",
