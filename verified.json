@@ -3220,5 +3220,13 @@
     "is_verified": true,
     "ticker": "BUFS",
     "decimals": 0
+      },
+  "246d6a8493dd02c1243ccae10b3275f318e4f3144140d05c4c28c422536e556b": {
+    "token_id": "246d6a8493dd02c1243ccae10b3275f318e4f3144140d05c4c28c422536e556b",
+    "token_policy": "246d6a8493dd02c1243ccae10b3275f318e4f3144140d05c4c28c422",
+    "token_ascii": "SnUk",
+    "is_verified": true,
+    "ticker": "SnUk",
+    "decimals": 0
   }
 }
