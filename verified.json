@@ -3234,5 +3234,13 @@
     "token_ascii": "SNEK MAGE",
     "is_verified": true,
     "decimals": 0
+  },
+  "cc17ba7ae06b8adffb081b7df40472466f71fae7195b7b06d9223c0d4d757374616368696f": {
+    "token_id": "cc17ba7ae06b8adffb081b7df40472466f71fae7195b7b06d9223c0d4d757374616368696f",
+    "token_policy": "cc17ba7ae06b8adffb081b7df40472466f71fae7195b7b06d9223c0d",
+    "token_ascii": "Mustachio",
+    "is_verified": true,
+    "decimals": "6",
+    "ticker": "Mustachio"
   }
 }
