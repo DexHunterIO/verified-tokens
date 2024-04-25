@@ -3251,12 +3251,20 @@
     "decimals": 0,
     "ticker": "GldSnUk"
   },
-  "f2f58bc4b6b6a8a580a6ea3c0416cd97a46d53b6b99a83a2601f6b1a50415041534e454b": {
-    "token_id": "f2f58bc4b6b6a8a580a6ea3c0416cd97a46d53b6b99a83a2601f6b1a50415041534e454b",
-    "token_policy": "f2f58bc4b6b6a8a580a6ea3c0416cd97a46d53b6b99a83a2601f6b1a",
-    "token_ascii": "PAPA SNEK",
+  "6ee39023e771131b8904cb6e4d5e1e217beba9c90022676b13b454cc534e454b4d4158494e47": {
+    "token_id": "6ee39023e771131b8904cb6e4d5e1e217beba9c90022676b13b454cc534e454b4d4158494e47",
+    "token_policy": "6ee39023e771131b8904cb6e4d5e1e217beba9c90022676b13b454cc",
+    "token_ascii": "SNEKMAXING",
     "is_verified": true,
-    "decimals": 0,
-    "ticker": "PAPASNEK"
+    "decimals": "0",
+    "ticker": "SNEKMAX"
+  },
+  "f2f58bc4b6b6a8a580a6ea3c0416cd97a46d53b6b99a83a2601f6b1a50415041534e454b": {
+  "token_id": "f2f58bc4b6b6a8a580a6ea3c0416cd97a46d53b6b99a83a2601f6b1a50415041534e454b",
+  "token_policy": "f2f58bc4b6b6a8a580a6ea3c0416cd97a46d53b6b99a83a2601f6b1a",
+  "token_ascii": "PAPA SNEK",
+  "is_verified": true,
+  "decimals": 0,
+  "ticker": "PAPASNEK"
   }
 }
