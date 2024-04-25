@@ -3250,5 +3250,13 @@
     "is_verified": true,
     "decimals": 0,
     "ticker": "GldSnUk"
+  },
+  "6ee39023e771131b8904cb6e4d5e1e217beba9c90022676b13b454cc534e454b4d4158494e47": {
+    "token_id": "6ee39023e771131b8904cb6e4d5e1e217beba9c90022676b13b454cc534e454b4d4158494e47",
+    "token_policy": "6ee39023e771131b8904cb6e4d5e1e217beba9c90022676b13b454cc",
+    "token_ascii": "SNEKMAXING",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SNEKMAX"
   }
 }
