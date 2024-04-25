@@ -3242,5 +3242,13 @@
     "is_verified": true,
     "decimals": "6",
     "ticker": "Mustachio"
+  },
+  "9ef9caf7fcc2df8b391af9b7073a7ed6db24f8b0c2675b7c5d8fc88b476f6c64536e556b": {
+    "token_id": "9ef9caf7fcc2df8b391af9b7073a7ed6db24f8b0c2675b7c5d8fc88b476f6c64536e556b",
+    "token_policy": "9ef9caf7fcc2df8b391af9b7073a7ed6db24f8b0c2675b7c5d8fc88b",
+    "token_ascii": "GoldSnUk",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "GldSnUk"
   }
 }
