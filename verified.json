@@ -3258,5 +3258,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "SNEKMAX"
+  },
+  "f2f58bc4b6b6a8a580a6ea3c0416cd97a46d53b6b99a83a2601f6b1a50415041534e454b": {
+  "token_id": "f2f58bc4b6b6a8a580a6ea3c0416cd97a46d53b6b99a83a2601f6b1a50415041534e454b",
+  "token_policy": "f2f58bc4b6b6a8a580a6ea3c0416cd97a46d53b6b99a83a2601f6b1a",
+  "token_ascii": "PAPA SNEK",
+  "is_verified": true,
+  "decimals": 0,
+  "ticker": "PAPASNEK"
   }
 }
