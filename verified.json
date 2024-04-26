@@ -3273,5 +3273,13 @@
     "token_ascii": "GRANDMA SNEK",
     "is_verified": true,
     "decimals": 0
+  },
+  "f3cc62cf87860dd554324a52b85e602509cef47f980f92d0f34290eb536e656b5768616c65": {
+    "token_id": "f3cc62cf87860dd554324a52b85e602509cef47f980f92d0f34290eb536e656b5768616c65",
+    "token_policy": "f3cc62cf87860dd554324a52b85e602509cef47f980f92d0f34290eb",
+    "token_ascii": "Snek Whale",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "WHALE"
   }
 }
