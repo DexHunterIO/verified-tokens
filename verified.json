@@ -3273,5 +3273,13 @@
     "token_ascii": "GRANDMA SNEK",
     "is_verified": true,
     "decimals": 0
+  },
+  "6cb8c8082d7a2f0acd9d411fa62c1a30e3a3a8965001e680fe1aa85556696265636174": {
+    "token_id": "6cb8c8082d7a2f0acd9d411fa62c1a30e3a3a8965001e680fe1aa85556696265636174",
+    "token_policy": "6cb8c8082d7a2f0acd9d411fa62c1a30e3a3a8965001e680fe1aa855",
+    "token_ascii": "Vibecat",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "VIBE"
   }
 }
