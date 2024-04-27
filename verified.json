@@ -3281,5 +3281,13 @@
     "is_verified": true,
     "decimals": 0,
     "ticker": "WHALE"
+  },
+  "171d22558d8e33136285426e3d96bbfcab72ff0123b16481d3f96d8e476f6c6679": {
+    "token_id": "171d22558d8e33136285426e3d96bbfcab72ff0123b16481d3f96d8e476f6c6679",
+    "token_policy": "171d22558d8e33136285426e3d96bbfcab72ff0123b16481d3f96d8e",
+    "token_ascii": "Golfy",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "GOLFY"
   }
 }
