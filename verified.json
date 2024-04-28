@@ -3297,5 +3297,13 @@
     "is_verified": true,
     "decimals": 0,
     "ticker": "GOLFY"
+  },
+  "7ed3e6da499143ca5b86f027e341815a7344158275f322051dca537c43617264616e6f": {
+    "token_id": "7ed3e6da499143ca5b86f027e341815a7344158275f322051dca537c43617264616e6f",
+    "token_policy": "7ed3e6da499143ca5b86f027e341815a7344158275f322051dca537c",
+    "token_ascii": "Cardano",
+    "is_verified": true,
+    "decimals": "6",
+    "ticker": "ADA"
   }
 }
