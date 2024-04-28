@@ -3297,5 +3297,13 @@
     "is_verified": true,
     "decimals": 0,
     "ticker": "GOLFY"
+  },
+  "3bbddae6b3898ae8253483d2fa4fbaf75f836dac2f973bee570677ab4c696c536e656b6b6965": {
+    "token_id": "3bbddae6b3898ae8253483d2fa4fbaf75f836dac2f973bee570677ab4c696c536e656b6b6965",
+    "token_policy": "3bbddae6b3898ae8253483d2fa4fbaf75f836dac2f973bee570677ab",
+    "token_ascii": "Lil Snekkie",
+    "is_verified": true,
+    "decimals": "9",
+    "ticker": "Lil"
   }
 }
