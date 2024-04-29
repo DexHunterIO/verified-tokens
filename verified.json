@@ -3313,5 +3313,13 @@
     "is_verified": true,
     "decimals": "9",
     "ticker": "Lil"
+  },
+  "a28e39262d5c6c6ce4a5369812a5c2edfb72312a1a9f961fdde4cd3748554c56494e": {
+    "token_id": "a28e39262d5c6c6ce4a5369812a5c2edfb72312a1a9f961fdde4cd3748554c56494e",
+    "token_policy": "a28e39262d5c6c6ce4a5369812a5c2edfb72312a1a9f961fdde4cd37",
+    "token_ascii": "HULVIN",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "HULVIN"
   }
 }
