@@ -3321,5 +3321,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "CNUTS"
+  },
+  "59bc0484225992f0fafffc472784f89f1c75e496cb570ec2922b9243444344": {
+    "token_id": "59bc0484225992f0fafffc472784f89f1c75e496cb570ec2922b9243444344",
+    "token_policy": "59bc0484225992f0fafffc472784f89f1c75e496cb570ec2922b9243",
+    "token_ascii": "Degen Creepy Dough",
+    "is_verified": true,
+    "ticker": "DCD",
+    "decimals": 6
   }
 }
