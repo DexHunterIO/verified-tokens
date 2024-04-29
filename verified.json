@@ -3313,5 +3313,13 @@
     "is_verified": true,
     "decimals": "9",
     "ticker": "Lil"
+  },
+  "f6935753e74d2e2a2c3a24965ec25a7baaa5b0034c6bc5a075c856d043617264616e6f4e757473": {
+    "token_id": "f6935753e74d2e2a2c3a24965ec25a7baaa5b0034c6bc5a075c856d043617264616e6f4e757473",
+    "token_policy": "f6935753e74d2e2a2c3a24965ec25a7baaa5b0034c6bc5a075c856d0",
+    "token_ascii": "Cardano Nuts",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CNUTS"
   }
 }
