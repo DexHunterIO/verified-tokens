@@ -14,6 +14,14 @@
     "ticker": "JESUS",
     "decimals": 4
   },
+   "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784534d4f4b45534d4f4b45": {
+    "token_id": "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784534d4f4b45534d4f4b45",
+    "token_policy": "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784534d4f4b45",
+    "token_ascii": "SMOKE",
+    "is_verified": true,
+    "ticker": "SMOKE",
+    "decimals": 0
+  },
   "436713331a99dd419c19f10d65d50d1af641d7c7abba6ab323e8ea2c424f4e4b": {
     "token_id": "436713331a99dd419c19f10d65d50d1af641d7c7abba6ab323e8ea2c424f4e4b",
     "token_policy": "436713331a99dd419c19f10d65d50d1af641d7c7abba6ab323e8ea2c",
