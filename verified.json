@@ -3337,5 +3337,13 @@
     "is_verified": true,
     "ticker": "DCD",
     "decimals": 6
+  },
+  "fb59da920d029dde957b556d981046a9102698ed70797da5908e4634454c454d454e54": {
+    "token_id": "fb59da920d029dde957b556d981046a9102698ed70797da5908e4634454c454d454e54",
+    "token_policy": "fb59da920d029dde957b556d981046a9102698ed70797da5908e4634",
+    "token_ascii": "Element Token",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ELEMENT"
   }
 }
