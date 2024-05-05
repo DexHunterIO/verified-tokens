@@ -14,7 +14,7 @@
     "ticker": "JESUS",
     "decimals": 4
   },
-   "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784534d4f4b45534d4f4b45": {
+  "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784534d4f4b45534d4f4b45": {
     "token_id": "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784534d4f4b45534d4f4b45",
     "token_policy": "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784534d4f4b45",
     "token_ascii": "SMOKE",
@@ -3345,5 +3345,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "ELEMENT"
+  },
+  "e4e55840913a7b5058e8591fc3d4d19574511e137b50e82f754a2ac3476d436174": {
+    "token_id": "e4e55840913a7b5058e8591fc3d4d19574511e137b50e82f754a2ac3476d436174",
+    "token_policy": "e4e55840913a7b5058e8591fc3d4d19574511e137b50e82f754a2ac3",
+    "token_ascii": "GmCat",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "GMGM"
   }
 }
