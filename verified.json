@@ -3362,4 +3362,12 @@
     "decimals": "8",
     "ticker": "CCH"
   }
+ "73fb7c05e7637620cea42af24969c43171c05b7bad545236ca48c247": {
+    "token_id": "73fb7c05e7637620cea42af24969c43171c05b7bad545236ca48c247000643b0424147",
+    "token_policy": "73fb7c05e7637620cea42af24969c43171c05b7bad545236ca48c247",
+    "token_ascii": "BAG",
+    "is_verified": true,
+    "ticker": "BAG",
+    "decimals": "0"
+  }
 }
