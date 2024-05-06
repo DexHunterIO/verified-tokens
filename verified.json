@@ -3353,5 +3353,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "GMGM"
+  },
+  "9470e6d3f76f3ab5168bb9ea0c6ee87e3c115e07d394aa6e07ea8adb43434": {
+    "token_id": "9470e6d3f76f3ab5168bb9ea0c6ee87e3c115e07d394aa6e07ea8adb43434",
+    "token_policy": "9470e6d3f76f3ab5168bb9ea0c6ee87e3c115e07d394aa6e07ea8adb",
+    "token_ascii": "Cardano Cash",
+    "is_verified": true,
+    "decimals": "8",
+    "ticker": "CCH"
   }
 }
