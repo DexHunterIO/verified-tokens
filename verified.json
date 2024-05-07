@@ -3371,3 +3371,11 @@
     "decimals": "0"
   }
 }
+ "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a796f796f": {
+    "token_id": "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a796f796f",
+    "token_policy": "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a",
+    "token_ascii": "yoyo",
+    "is_verified": true,
+    "ticker": "yoyo",
+    "decimals": "0"
+  }
