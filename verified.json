@@ -2958,6 +2958,14 @@
     "ticker": "SHARKY",
     "decimals": 0
   },
+  "8e7e4b2059110de1bf2a576ea2a0898762026e4181c9515e625c8f0747454b4b4f": {
+    "token_id": "8e7e4b2059110de1bf2a576ea2a0898762026e4181c9515e625c8f0747454b4b4f",
+    "token_policy": "8e7e4b2059110de1bf2a576ea2a0898762026e4181c9515e625c8f07",
+    "token_ascii": "AdaGekkos",
+    "is_verified": true,
+    "ticker": "GEKKO",
+    "decimals": 0
+  }
   "2729856b1655c93aae32c0605a30e7a4bc1cc2be249cddb99859fee4524f434b59": {
     "token_id": "2729856b1655c93aae32c0605a30e7a4bc1cc2be249cddb99859fee4524f434b59",
     "token_policy": "2729856b1655c93aae32c0605a30e7a4bc1cc2be249cddb99859fee4",
