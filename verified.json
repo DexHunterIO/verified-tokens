@@ -6,6 +6,14 @@
     "is_verified": true,
     "ticker": "GLDSNEK"
   },
+  "ffc6be3ebb47df8a8e24b5ae6a904c4789f22b979148b118fbf38ff74a45535553": {
+    "token_id": "ffc6be3ebb47df8a8e24b5ae6a904c4789f22b979148b118fbf38ff74a45535553",
+    "token_policy": "ffc6be3ebb47df8a8e24b5ae6a904c4789f22b979148b118fbf38ff7",
+    "token_ascii": "JESUS",
+    "is_verified": true,
+    "ticker": "JESUS",
+    "decimals": 0
+  },
   "58ad4a35e6e40d7e5833af259531dfb660d31b805166839d3fac305a4a45535553": {
     "token_id": "58ad4a35e6e40d7e5833af259531dfb660d31b805166839d3fac305a4a45535553",
     "token_policy": "58ad4a35e6e40d7e5833af259531dfb660d31b805166839d3fac305a",
@@ -3380,10 +3388,10 @@
   }
 }
  "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a796f796f": {
-    "token_id": "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a796f796f",
-    "token_policy": "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a",
-    "token_ascii": "yoyo",
-    "is_verified": true,
-    "ticker": "yoyo",
-    "decimals": "0"
-  }
+  "token_id": "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a796f796f",
+  "token_policy": "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a",
+  "token_ascii": "yoyo",
+  "is_verified": true,
+  "ticker": "yoyo",
+  "decimals": "0"
+}
