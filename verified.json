@@ -2973,7 +2973,7 @@
     "is_verified": true,
     "ticker": "GEKKO",
     "decimals": 0
-  }
+  },
   "2729856b1655c93aae32c0605a30e7a4bc1cc2be249cddb99859fee4524f434b59": {
     "token_id": "2729856b1655c93aae32c0605a30e7a4bc1cc2be249cddb99859fee4524f434b59",
     "token_policy": "2729856b1655c93aae32c0605a30e7a4bc1cc2be249cddb99859fee4",
@@ -3377,30 +3377,21 @@
     "is_verified": true,
     "decimals": "8",
     "ticker": "CCH"
-  }
- "73fb7c05e7637620cea42af24969c43171c05b7bad545236ca48c247": {
-    "token_id": "73fb7c05e7637620cea42af24969c43171c05b7bad545236ca48c247000643b0424147",
-    "token_policy": "73fb7c05e7637620cea42af24969c43171c05b7bad545236ca48c247",
-    "token_ascii": "BAG",
+  },
+  "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a796f796f": {
+    "token_id": "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a796f796f",
+    "token_policy": "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a",
+    "token_ascii": "yoyo",
     "is_verified": true,
-    "ticker": "BAG",
+    "ticker": "yoyo",
     "decimals": "0"
-  }
-}
- "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a796f796f": {
-  "token_id": "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a796f796f",
-  "token_policy": "4de6d521917287784f5498ecaf1c49933c0ca3a6c857b691c9203c4a",
-  "token_ascii": "yoyo",
-  "is_verified": true,
-  "ticker": "yoyo",
-  "decimals": "0"
-},
- "4de3c5d6b555c99c7f56a1f917567288f025f337cdf233d99e462a1353737373": {
+  },
+  "4de3c5d6b555c99c7f56a1f917567288f025f337cdf233d99e462a1353737373": {
     "token_id": "4de3c5d6b555c99c7f56a1f917567288f025f337cdf233d99e462a1353737373",
     "token_policy": "4de3c5d6b555c99c7f56a1f917567288f025f337cdf233d99e462a13",
     "token_ascii": "Ssss",
     "is_verified": true,
     "ticker": "Sssssss",
     "decimals": "0"
- }
+  }
 }
