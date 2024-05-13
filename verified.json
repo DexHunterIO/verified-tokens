@@ -3393,5 +3393,13 @@
     "is_verified": true,
     "ticker": "Sssssss",
     "decimals": "0"
-  }
+  },
+  "68d321288fcbf4870b12af5984a3c91338b9db622f2320b5f7ff7ff64e4f5345": {
+        "token_id": "68d321288fcbf4870b12af5984a3c91338b9db622f2320b5f7ff7ff64e4f5345",
+        "token_policy": "68d321288fcbf4870b12af5984a3c91338b9db622f2320b5f7ff7ff6",
+        "token_ascii": "NOSE",
+        "is_verified": true,
+        "decimals": "0",
+        "ticker": "NOSE"
+    }
 }
