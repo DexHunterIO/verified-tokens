@@ -3417,5 +3417,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "NOSE"
+  },
+  "654c8af46b504732df1a103e54abeac57ef5c6b6b2b59f1f13e1a70f414d43": {
+    "token_id": "654c8af46b504732df1a103e54abeac57ef5c6b6b2b59f1f13e1a70f414d43",
+    "token_policy": "654c8af46b504732df1a103e54abeac57ef5c6b6b2b59f1f13e1a70f",
+    "token_ascii": "AMC",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "AMC"
   }
 }
