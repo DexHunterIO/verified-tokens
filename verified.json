@@ -3393,5 +3393,29 @@
     "is_verified": true,
     "ticker": "Sssssss",
     "decimals": "0"
+  },
+  "e4b8e9d247d9aa043bb9e13b38989b11b02c595450e6313aebdf6c1f47616d6553746f70": {
+    "token_id": "e4b8e9d247d9aa043bb9e13b38989b11b02c595450e6313aebdf6c1f47616d6553746f70",
+    "token_policy": "e4b8e9d247d9aa043bb9e13b38989b11b02c595450e6313aebdf6c1f",
+    "token_ascii": "GameStop",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "GME"
+  },
+  "f60a4f663426455ed2aa913701e70c855b088757b2e59dba418bc5135061696458504f": {
+    "token_id": "f60a4f663426455ed2aa913701e70c855b088757b2e59dba418bc5135061696458504f",
+    "token_policy": "f60a4f663426455ed2aa913701e70c855b088757b2e59dba418bc513",
+    "token_ascii": "PaidXPO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PDXPO"
+  },
+  "68d321288fcbf4870b12af5984a3c91338b9db622f2320b5f7ff7ff64e4f5345": {
+    "token_id": "68d321288fcbf4870b12af5984a3c91338b9db622f2320b5f7ff7ff64e4f5345",
+    "token_policy": "68d321288fcbf4870b12af5984a3c91338b9db622f2320b5f7ff7ff6",
+    "token_ascii": "NOSE",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NOSE"
   }
 }
