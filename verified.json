@@ -3425,5 +3425,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "AMC"
+  },
+  "66b9cee475ffde130bca5deba4a08f776e4da6976ba93d5bad2e6150474f4154": {
+    "token_id": "66b9cee475ffde130bca5deba4a08f776e4da6976ba93d5bad2e6150474f4154",
+    "token_policy": "66b9cee475ffde130bca5deba4a08f776e4da6976ba93d5bad2e6150",
+    "token_ascii": "GOAT",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "GOAT"
   }
 }
