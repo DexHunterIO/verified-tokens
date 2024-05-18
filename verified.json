@@ -14,6 +14,14 @@
     "ticker": "JESUS",
     "decimals": 0
   },
+  "d7644db0d5fbfa30aa93ea4de20c0372a2fc0539c850ae49ccfd600453484e454b": {
+    "token_id": "d7644db0d5fbfa30aa93ea4de20c0372a2fc0539c850ae49ccfd600453484e454b",
+    "token_policy": "d7644db0d5fbfa30aa93ea4de20c0372a2fc0539c850ae49ccfd6004",
+    "token_ascii": "SHNEK",
+    "is_verified": true,
+    "ticker": "SHNEK",
+    "decimals": 0
+  },
   "58ad4a35e6e40d7e5833af259531dfb660d31b805166839d3fac305a4a45535553": {
     "token_id": "58ad4a35e6e40d7e5833af259531dfb660d31b805166839d3fac305a4a45535553",
     "token_policy": "58ad4a35e6e40d7e5833af259531dfb660d31b805166839d3fac305a",
