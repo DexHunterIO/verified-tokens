@@ -1263,6 +1263,14 @@
     "is_verified": true,
     "ticker": "$LOBSTER"
   },
+  "6a0f6c32b77596240ff8bc78e1c334fa9bd2131750f47f3afb36b1b24d4f4749": {
+    "token_id": "6a0f6c32b77596240ff8bc78e1c334fa9bd2131750f47f3afb36b1b24d4f4749",
+    "token_policy": "6a0f6c32b77596240ff8bc78e1c334fa9bd2131750f47f3afb36b1b2",
+    "token_ascii": "MOGI",
+    "is_verified": true,
+    "ticker": "MOGI",
+    "decimals": 0
+  },
   "521ec1ae6f87ec944a4b32890d62cd4a243d612f80fe26db999628f05757": {
     "token_id": "521ec1ae6f87ec944a4b32890d62cd4a243d612f80fe26db999628f05757",
     "token_policy": "521ec1ae6f87ec944a4b32890d62cd4a243d612f80fe26db999628f0",
