@@ -2322,6 +2322,14 @@
     "is_verified": true,
     "ticker": "HACHI"
   },
+  "49f73e253e373cfe7832e3e10256260424d91dd4af6a7388a155101b424f4f5a59": {
+    "token_id": "49f73e253e373cfe7832e3e10256260424d91dd4af6a7388a155101b424f4f5a59",
+    "token_policy": "49f73e253e373cfe7832e3e10256260424d91dd4af6a7388a155101b",
+    "token_ascii": "BOOZY",
+    "is_verified": true,
+    "ticker": "BOOZY",
+    "decimals": 0
+  }, 
   "a1c94e56e4b24945338f2779e33b02e52fdd30d5f279c6131cc43c7c42555a5a": {
     "token_id": "a1c94e56e4b24945338f2779e33b02e52fdd30d5f279c6131cc43c7c42555a5a",
     "token_policy": "a1c94e56e4b24945338f2779e33b02e52fdd30d5f279c6131cc43c7c",
