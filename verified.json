@@ -3425,5 +3425,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "AMC"
+  },
+  "06923cb16372e0fd468e45a664caab2ec8d6a3d99f8622a623e44bef57616341726e6f6c6473": {
+    "token_id": "06923cb16372e0fd468e45a664caab2ec8d6a3d99f8622a623e44bef57616341726e6f6c6473",
+    "token_policy": "06923cb16372e0fd468e45a664caab2ec8d6a3d99f8622a623e44bef",
+    "token_ascii": "WacArnolds",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "WAC"
   }
 }
