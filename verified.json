@@ -3425,5 +3425,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "AMC"
+  },
+  "bd64679d9fdf60b5c92e01865f56c1de5c4f9d4c9534961834f9e9aa426c61636b486f6c65436f696e": {
+    "token_id": "bd64679d9fdf60b5c92e01865f56c1de5c4f9d4c9534961834f9e9aa426c61636b486f6c65436f696e",
+    "token_policy": "bd64679d9fdf60b5c92e01865f56c1de5c4f9d4c9534961834f9e9aa",
+    "token_ascii": "Black Hole Coin",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BHC"
   }
 }
