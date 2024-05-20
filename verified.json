@@ -3426,6 +3426,14 @@
     "decimals": "0",
     "ticker": "AMC"
   },
+  "5e6b3b8563ae073f0afa58969c9b81bde0d40ab435d42cf3f60abf14424541564552424f4e47": {
+    "token_id": "5e6b3b8563ae073f0afa58969c9b81bde0d40ab435d42cf3f60abf14424541564552424f4e47",
+    "token_policy": "5e6b3b8563ae073f0afa58969c9b81bde0d40ab435d42cf3f60abf14",
+    "token_ascii": "BEAVERBONG",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BONG"
+},
   "bb09a5fe9c086f18be62bcf1885f784593e5d275b524c7cfbf2b39fd6675636b617065736f6369657479": {
     "token_id": "bb09a5fe9c086f18be62bcf1885f784593e5d275b524c7cfbf2b39fd6675636b617065736f6369657479",
     "token_policy": "bb09a5fe9c086f18be62bcf1885f784593e5d275b524c7cfbf2b39fd",
