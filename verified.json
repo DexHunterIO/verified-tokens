@@ -3426,6 +3426,14 @@
     "decimals": "0",
     "ticker": "AMC"
   },
+  "84e9b53236781e25504c698c8ed4b8896205e46e1f0328e47837baa6534e4f51": {
+    "token_id": "84e9b53236781e25504c698c8ed4b8896205e46e1f0328e47837baa6534e4f51",
+    "token_policy": "84e9b53236781e25504c698c8ed4b8896205e46e1f0328e47837baa6",
+    "token_ascii": "SNOQ",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SNOQ"
+},
   "5e6b3b8563ae073f0afa58969c9b81bde0d40ab435d42cf3f60abf14424541564552424f4e47": {
     "token_id": "5e6b3b8563ae073f0afa58969c9b81bde0d40ab435d42cf3f60abf14424541564552424f4e47",
     "token_policy": "5e6b3b8563ae073f0afa58969c9b81bde0d40ab435d42cf3f60abf14",
