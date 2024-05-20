@@ -3433,5 +3433,21 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "BONG"
+},
+  "bb09a5fe9c086f18be62bcf1885f784593e5d275b524c7cfbf2b39fd6675636b617065736f6369657479": {
+    "token_id": "bb09a5fe9c086f18be62bcf1885f784593e5d275b524c7cfbf2b39fd6675636b617065736f6369657479",
+    "token_policy": "bb09a5fe9c086f18be62bcf1885f784593e5d275b524c7cfbf2b39fd",
+    "token_ascii": "fuckapesociety",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FAS"
+},
+  "4c96bd0c444531e18342031bd30ec1471a3f24016298252d4de7fdc8436972636c65": {
+    "token_id": "4c96bd0c444531e18342031bd30ec1471a3f24016298252d4de7fdc8436972636c65",
+    "token_policy": "4c96bd0c444531e18342031bd30ec1471a3f24016298252d4de7fdc8",
+    "token_ascii": "Circle",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CIRCLE"
   }
 }
