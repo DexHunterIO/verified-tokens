@@ -3457,5 +3457,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "CIRCLE"
+  },
+  "38b3cad295f286376c57b2df1858132170771e11a8eeedd600f0d173445748": {
+    "token_id": "38b3cad295f286376c57b2df1858132170771e11a8eeedd600f0d173445748",
+    "token_policy": "38b3cad295f286376c57b2df1858132170771e11a8eeedd600f0d173",
+    "token_ascii": "Dodowifhat",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DWH"
   }
 }
