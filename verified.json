@@ -3433,7 +3433,7 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "SNOQ"
-},
+  },
   "5e6b3b8563ae073f0afa58969c9b81bde0d40ab435d42cf3f60abf14424541564552424f4e47": {
     "token_id": "5e6b3b8563ae073f0afa58969c9b81bde0d40ab435d42cf3f60abf14424541564552424f4e47",
     "token_policy": "5e6b3b8563ae073f0afa58969c9b81bde0d40ab435d42cf3f60abf14",
@@ -3441,7 +3441,7 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "BONG"
-},
+  },
   "bb09a5fe9c086f18be62bcf1885f784593e5d275b524c7cfbf2b39fd6675636b617065736f6369657479": {
     "token_id": "bb09a5fe9c086f18be62bcf1885f784593e5d275b524c7cfbf2b39fd6675636b617065736f6369657479",
     "token_policy": "bb09a5fe9c086f18be62bcf1885f784593e5d275b524c7cfbf2b39fd",
@@ -3449,7 +3449,7 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FAS"
-},
+  },
   "4c96bd0c444531e18342031bd30ec1471a3f24016298252d4de7fdc8436972636c65": {
     "token_id": "4c96bd0c444531e18342031bd30ec1471a3f24016298252d4de7fdc8436972636c65",
     "token_policy": "4c96bd0c444531e18342031bd30ec1471a3f24016298252d4de7fdc8",
@@ -3457,5 +3457,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "CIRCLE"
+  },
+  "86ef0802f4066ad1acfb821620a722545c68fb57d6ff197f62786f9b414e4459": {
+    "token_id": "86ef0802f4066ad1acfb821620a722545c68fb57d6ff197f62786f9b414e4459",
+    "token_policy": "86ef0802f4066ad1acfb821620a722545c68fb57d6ff197f62786f9b",
+    "token_ascii": "ANDY",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ANDY"
   }
 }
