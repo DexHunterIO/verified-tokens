@@ -3457,5 +3457,29 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "CIRCLE"
+  },
+  "38b3cad295f286376c57b2df1858132170771e11a8eeedd600f0d173445748": {
+    "token_id": "38b3cad295f286376c57b2df1858132170771e11a8eeedd600f0d173445748",
+    "token_policy": "38b3cad295f286376c57b2df1858132170771e11a8eeedd600f0d173",
+    "token_ascii": "Dodowifhat",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DWH"
+  },
+  "86ef0802f4066ad1acfb821620a722545c68fb57d6ff197f62786f9b414e4459": {
+    "token_id": "86ef0802f4066ad1acfb821620a722545c68fb57d6ff197f62786f9b414e4459",
+    "token_policy": "86ef0802f4066ad1acfb821620a722545c68fb57d6ff197f62786f9b",
+    "token_ascii": "ANDY",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ANDY"
+  },
+  "106bbdeb2ddfe31ee229a04fce4e41f100a9f672c88a2ebf580e96ad736e656b62616e6b": {
+    "token_id": "106bbdeb2ddfe31ee229a04fce4e41f100a9f672c88a2ebf580e96ad736e656b62616e6b",
+    "token_policy": "106bbdeb2ddfe31ee229a04fce4e41f100a9f672c88a2ebf580e96ad",
+    "token_ascii": "snekbank",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "snekbank"
   }
 }
