@@ -3489,5 +3489,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "PIGEON"
+  },
+  "548c390391253aff00af9c95ae310f00803fd28035a6ed6f17c1e5e2424147": {
+    "token_id": "548c390391253aff00af9c95ae310f00803fd28035a6ed6f17c1e5e2424147",
+    "token_policy": "548c390391253aff00af9c95ae310f00803fd28035a6ed6f17c1e5e2",
+    "token_ascii": "BAG",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BAG"
   }
 }
