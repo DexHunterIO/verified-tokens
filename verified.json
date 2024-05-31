@@ -3497,5 +3497,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "BAG"
+  },
+  "b17b04ec0b8fa48613d7c80bc09a810e8bc8297cbbb6e9f4949fd8424e4f454c": {
+    "token_id": "b17b04ec0b8fa48613d7c80bc09a810e8bc8297cbbb6e9f4949fd8424e4f454c",
+    "token_policy": "b17b04ec0b8fa48613d7c80bc09a810e8bc8297cbbb6e9f4949fd842",
+    "token_ascii": "NOEL",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NOEL"
   }
 }
