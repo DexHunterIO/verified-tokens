@@ -3497,5 +3497,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "BAG"
+  },
+  "74ef0a0d0707abd8306e011fd1c92cce021c9fab86f1e990418bb589534b494e4e4552": {
+    "token_id": "74ef0a0d0707abd8306e011fd1c92cce021c9fab86f1e990418bb589534b494e4e4552",
+    "token_policy": "74ef0a0d0707abd8306e011fd1c92cce021c9fab86f1e990418bb589",
+    "token_ascii": "SKINNER",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "SKINN"
   }
 }
