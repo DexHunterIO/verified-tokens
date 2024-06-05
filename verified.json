@@ -3497,5 +3497,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "BAG"
+  },
+  "d13b40ca9a8ad68797281433f2677e483e31b1fe50b586eb57752ef4454154": {
+    "token_id": "d13b40ca9a8ad68797281433f2677e483e31b1fe50b586eb57752ef4454154",
+    "token_policy": "d13b40ca9a8ad68797281433f2677e483e31b1fe50b586eb57752ef4",
+    "token_ascii": "EAT",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "EAT"
   }
 }
