@@ -3505,5 +3505,37 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "cummi"
+  },
+  "81517e121b4cf9224d8b299a548b22659ea701015b1bc9737c1fe63d534c554e41": {
+    "token_id": "81517e121b4cf9224d8b299a548b22659ea701015b1bc9737c1fe63d534c554e41",
+    "token_policy": "81517e121b4cf9224d8b299a548b22659ea701015b1bc9737c1fe63d",
+    "token_ascii": "SLUNA",
+    "is_verified": true,
+    "decimals": "9",
+    "ticker": "SLUNA"
+  },
+  "b17b04ec0b8fa48613d7c80bc09a810e8bc8297cbbb6e9f4949fd8424e4f454c": {
+    "token_id": "b17b04ec0b8fa48613d7c80bc09a810e8bc8297cbbb6e9f4949fd8424e4f454c",
+    "token_policy": "b17b04ec0b8fa48613d7c80bc09a810e8bc8297cbbb6e9f4949fd842",
+    "token_ascii": "NOEL",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NOEL"
+  },
+  "74ef0a0d0707abd8306e011fd1c92cce021c9fab86f1e990418bb589534b494e4e4552": {
+    "token_id": "74ef0a0d0707abd8306e011fd1c92cce021c9fab86f1e990418bb589534b494e4e4552",
+    "token_policy": "74ef0a0d0707abd8306e011fd1c92cce021c9fab86f1e990418bb589",
+    "token_ascii": "SKINNER",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "SKINN"
+  },
+  "d13b40ca9a8ad68797281433f2677e483e31b1fe50b586eb57752ef4454154": {
+    "token_id": "d13b40ca9a8ad68797281433f2677e483e31b1fe50b586eb57752ef4454154",
+    "token_policy": "d13b40ca9a8ad68797281433f2677e483e31b1fe50b586eb57752ef4",
+    "token_ascii": "EAT",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "EAT"
   }
 }
