@@ -3497,5 +3497,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "BAG"
+  },
+  "c7cf1e1db27888c48823a2093408f3f4e2e68188ad6bf0a8e113764343756d6d69": {
+    "token_id": "c7cf1e1db27888c48823a2093408f3f4e2e68188ad6bf0a8e113764343756d6d69",
+    "token_policy": "c7cf1e1db27888c48823a2093408f3f4e2e68188ad6bf0a8e1137643",
+    "token_ascii": "cummi",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "cummi"
   }
 }
