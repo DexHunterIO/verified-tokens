@@ -3497,5 +3497,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "BAG"
-  }
+  },
+  "649432b109bf540b43adf39e5b2d80f7767d43aef7553e9f8c4b8b734348494c4c": {
+    "token_id": "649432b109bf540b43adf39e5b2d80f7767d43aef7553e9f8c4b8b734348494c4c",
+    "token_policy": "649432b109bf540b43adf39e5b2d80f7767d43aef7553e9f8c4b8b73",
+    "token_ascii": "CHILL",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CHILL"
+    }
 }
