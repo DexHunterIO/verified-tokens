@@ -3490,6 +3490,14 @@
     "decimals": "0",
     "ticker": "PIGEON"
   },
+  "61fe4feee9d051c75b20d11701c3154ae95d9857bd429ffb85087eae526578": {
+    "token_id": "61fe4feee9d051c75b20d11701c3154ae95d9857bd429ffb85087eae526578",
+    "token_policy": "61fe4feee9d051c75b20d11701c3154ae95d9857bd429ffb85087eae",
+    "token_ascii": "Rex",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Rex"
+  },
   "548c390391253aff00af9c95ae310f00803fd28035a6ed6f17c1e5e2424147": {
     "token_id": "548c390391253aff00af9c95ae310f00803fd28035a6ed6f17c1e5e2424147",
     "token_policy": "548c390391253aff00af9c95ae310f00803fd28035a6ed6f17c1e5e2",
