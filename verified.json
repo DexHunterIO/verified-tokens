@@ -3505,5 +3505,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "CHILL"
+  },
+  "052eb48c15335f435915a26dafe42d5ba4689e0f6331394504be70c64c4742545149413253": {
+    "token_id": "052eb48c15335f435915a26dafe42d5ba4689e0f6331394504be70c64c4742545149413253",
+    "token_policy": "052eb48c15335f435915a26dafe42d5ba4689e0f6331394504be70c6",
+    "token_ascii": "LGBTQIA2S",
+    "is_verified": true,
+    "decimals": "2",
+    "ticker": "LGBTQIA2S"
   }
 }
