@@ -3505,5 +3505,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "CHILL"
+  },
+  "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f": {
+    "token_id": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f",
+    "token_policy": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a",
+    "token_ascii": "DANZO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DANZO"
   }
 }
