@@ -3506,6 +3506,14 @@
     "decimals": "0",
     "ticker": "CHILL"
   },
+  "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f": {
+    "token_id": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f",
+    "token_policy": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a",
+    "token_ascii": "DANZO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DANZO"
+  },
   "052eb48c15335f435915a26dafe42d5ba4689e0f6331394504be70c64c4742545149413253": {
     "token_id": "052eb48c15335f435915a26dafe42d5ba4689e0f6331394504be70c64c4742545149413253",
     "token_policy": "052eb48c15335f435915a26dafe42d5ba4689e0f6331394504be70c6",
