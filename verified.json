@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "d4b6196dc4e9f87fb8820440e230fa7d2d24994d588850e7cf141d4950656572526576696577436f696e": {
+    "token_id": "d4b6196dc4e9f87fb8820440e230fa7d2d24994d588850e7cf141d4950656572526576696577436f696e",
+    "token_policy": "d4b6196dc4e9f87fb8820440e230fa7d2d24994d588850e7cf141d49",
+    "token_ascii": "Peer Review Coin",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PRC"
   }
 }
