@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "247e05da0db8e0ab21581e493d14f538fc3a7af9e2ae4cf584692b754a657375734675636b696e67436872697374": {
+    "token_id": "247e05da0db8e0ab21581e493d14f538fc3a7af9e2ae4cf584692b754a657375734675636b696e67436872697374",
+    "token_policy": "247e05da0db8e0ab21581e493d14f538fc3a7af9e2ae4cf584692b75",
+    "token_ascii": "Jesus Fucking Christ",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "JFC"
   }
 }
