@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "f78ef886af204d6ffc008bd656387cc69b04a6f3e653d86936738981427574636865724368616e67486f736b696e736f6e": {
+    "token_id": "f78ef886af204d6ffc008bd656387cc69b04a6f3e653d86936738981427574636865724368616e67486f736b696e736f6e",
+    "token_policy": "f78ef886af204d6ffc008bd656387cc69b04a6f3e653d86936738981",
+    "token_ascii": "Butcher Chang Hoskinson",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BUCH"
   }
 }
