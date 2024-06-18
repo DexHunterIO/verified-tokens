@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "e6e620f54d857f9918ae64ceadae274939222e9a468932f2776ea5f743524f4355": {
+    "token_id": "e6e620f54d857f9918ae64ceadae274939222e9a468932f2776ea5f743524f4355",
+    "token_policy": "e6e620f54d857f9918ae64ceadae274939222e9a468932f2776ea5f7",
+    "token_ascii": "CROCU",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CROCU"
   }
 }
