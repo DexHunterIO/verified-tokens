@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "27be64565f934951eddb524726108af1945f220f935bf01a7fa8dc96436861726c6573486f736b696e736f6e": {
+    "token_id": "27be64565f934951eddb524726108af1945f220f935bf01a7fa8dc96436861726c6573486f736b696e736f6e",
+    "token_policy": "27be64565f934951eddb524726108af1945f220f935bf01a7fa8dc96",
+    "token_ascii": "Charles Hoskinson",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "HOSKINSON"
   }
 }
