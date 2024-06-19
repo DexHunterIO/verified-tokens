@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "b6d682206d9a4b169b421124800bc51d94f39c804350bc2bf7f03d224d656c6f6e": {
+    "token_id": "b6d682206d9a4b169b421124800bc51d94f39c804350bc2bf7f03d224d656c6f6e",
+    "token_policy": "b6d682206d9a4b169b421124800bc51d94f39c804350bc2bf7f03d22",
+    "token_ascii": "Melon",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MELON"
   }
 }
