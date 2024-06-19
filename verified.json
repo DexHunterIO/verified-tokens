@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "b38abbae2d31f45c022293fbd6814ca3fefed71ac5abdf0ae4b1bdf6646174636f696e": {
+    "token_id": "b38abbae2d31f45c022293fbd6814ca3fefed71ac5abdf0ae4b1bdf6646174636f696e",
+    "token_policy": "b38abbae2d31f45c022293fbd6814ca3fefed71ac5abdf0ae4b1bdf6",
+    "token_ascii": "datcoin",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DAT"
   }
 }
