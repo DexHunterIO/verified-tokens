@@ -3570,14 +3570,6 @@
     "decimals": "0",
     "ticker": "BBB"
   },
-  "9a56cc79f329a9a5a1ca835343f61c915f93eb838ac263e50eac454a42616442616442616279": {
-    "token_id": "9a56cc79f329a9a5a1ca835343f61c915f93eb838ac263e50eac454a42616442616442616279",
-    "token_policy": "9a56cc79f329a9a5a1ca835343f61c915f93eb838ac263e50eac454a",
-    "token_ascii": "Bad Bad Baby",
-    "is_verified": true,
-    "decimals": "0",
-    "ticker": "BBB"
-  },
   "dccc63b4f39352591f2c096598f644def1d150b1c4484419279307034769726c506967": {
     "token_id": "dccc63b4f39352591f2c096598f644def1d150b1c4484419279307034769726c506967",
     "token_policy": "dccc63b4f39352591f2c096598f644def1d150b1c448441927930703",
