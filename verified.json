@@ -3553,5 +3553,53 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "b38abbae2d31f45c022293fbd6814ca3fefed71ac5abdf0ae4b1bdf6646174636f696e": {
+    "token_id": "b38abbae2d31f45c022293fbd6814ca3fefed71ac5abdf0ae4b1bdf6646174636f696e",
+    "token_policy": "b38abbae2d31f45c022293fbd6814ca3fefed71ac5abdf0ae4b1bdf6",
+    "token_ascii": "datcoin",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DAT"
+  },
+  "420d2299be39dd17e32157f2c24a18cb8fd251c59dc193a8f399b74642616442616442616279": {
+    "token_id": "420d2299be39dd17e32157f2c24a18cb8fd251c59dc193a8f399b74642616442616442616279",
+    "token_policy": "420d2299be39dd17e32157f2c24a18cb8fd251c59dc193a8f399b746",
+    "token_ascii": "Bad Bad Baby",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BBB"
+  },
+  "9a56cc79f329a9a5a1ca835343f61c915f93eb838ac263e50eac454a42616442616442616279": {
+    "token_id": "9a56cc79f329a9a5a1ca835343f61c915f93eb838ac263e50eac454a42616442616442616279",
+    "token_policy": "9a56cc79f329a9a5a1ca835343f61c915f93eb838ac263e50eac454a",
+    "token_ascii": "Bad Bad Baby",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BBB"
+  },
+  "dccc63b4f39352591f2c096598f644def1d150b1c4484419279307034769726c506967": {
+    "token_id": "dccc63b4f39352591f2c096598f644def1d150b1c4484419279307034769726c506967",
+    "token_policy": "dccc63b4f39352591f2c096598f644def1d150b1c448441927930703",
+    "token_ascii": "GirlPig",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PIG"
+  },
+  "150b4ad1f428ac425efad7339f2462ba17256396724147065b5c24025448455245414c43415244414e4f": {
+    "token_id": "150b4ad1f428ac425efad7339f2462ba17256396724147065b5c24025448455245414c43415244414e4f",
+    "token_policy": "150b4ad1f428ac425efad7339f2462ba17256396724147065b5c2402",
+    "token_ascii": "THE REAL CARDANO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CARDANO"
+  },
+  "be30d405da8309b741242d9b03d85b4fc03666465a95d893338513bb434855434b": {
+    "token_id": "be30d405da8309b741242d9b03d85b4fc03666465a95d893338513bb434855434b",
+    "token_policy": "be30d405da8309b741242d9b03d85b4fc03666465a95d893338513bb",
+    "token_ascii": "CHUCK",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CHUCK"
   }
 }
