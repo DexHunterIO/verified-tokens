@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "0c247eee339a70e7f2ffa93ae5874652ba82498b5f296719a613c399566572795269736b79496e76657374696e67": {
+    "token_id": "0c247eee339a70e7f2ffa93ae5874652ba82498b5f296719a613c399566572795269736b79496e76657374696e67",
+    "token_policy": "0c247eee339a70e7f2ffa93ae5874652ba82498b5f296719a613c399",
+    "token_ascii": "Very Risky Investing",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "VRI"
   }
 }
