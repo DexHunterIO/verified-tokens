@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "656c2b17dc6c0bac65fb7f4ed6174c014d8bd18c8d1e41af3671359f50554d41": {
+    "token_id": "656c2b17dc6c0bac65fb7f4ed6174c014d8bd18c8d1e41af3671359f50554d41",
+    "token_policy": "656c2b17dc6c0bac65fb7f4ed6174c014d8bd18c8d1e41af3671359f",
+    "token_ascii": "PUMA",
+    "is_verified": true,
+    "decimals": "2",
+    "ticker": "PUMA"
   }
 }
