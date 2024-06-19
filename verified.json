@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "150b4ad1f428ac425efad7339f2462ba17256396724147065b5c24025448455245414c43415244414e4f": {
+    "token_id": "150b4ad1f428ac425efad7339f2462ba17256396724147065b5c24025448455245414c43415244414e4f",
+    "token_policy": "150b4ad1f428ac425efad7339f2462ba17256396724147065b5c2402",
+    "token_ascii": "THE REAL CARDANO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CARDANO"
   }
 }
