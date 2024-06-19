@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "9a56cc79f329a9a5a1ca835343f61c915f93eb838ac263e50eac454a42616442616442616279": {
+    "token_id": "9a56cc79f329a9a5a1ca835343f61c915f93eb838ac263e50eac454a42616442616442616279",
+    "token_policy": "9a56cc79f329a9a5a1ca835343f61c915f93eb838ac263e50eac454a",
+    "token_ascii": "Bad Bad Baby",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BBB"
   }
 }
