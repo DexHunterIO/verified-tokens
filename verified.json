@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "cf17af62fd77840139e3e55c2dd9e7223d78488f9b1c66231a1d18cc4e696b65576966486174": {
+    "token_id": "cf17af62fd77840139e3e55c2dd9e7223d78488f9b1c66231a1d18cc4e696b65576966486174",
+    "token_policy": "cf17af62fd77840139e3e55c2dd9e7223d78488f9b1c66231a1d18cc",
+    "token_ascii": "NikeWifHat",
+    "is_verified": true,
+    "decimals": "5",
+    "ticker": "NikeW"
   }
 }
