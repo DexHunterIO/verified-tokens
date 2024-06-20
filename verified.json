@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "67af719e6f501425ea66d5a85e1292ed6c8293c65ff295d6493b1b8848617264616e6f": {
+    "token_id": "67af719e6f501425ea66d5a85e1292ed6c8293c65ff295d6493b1b8848617264616e6f",
+    "token_policy": "67af719e6f501425ea66d5a85e1292ed6c8293c65ff295d6493b1b88",
+    "token_ascii": "Hardano",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Hardano"
   }
 }
