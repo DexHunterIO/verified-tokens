@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "261fa966fffd32c4c95a9426b3de1d8408d66edc0e3e7262e0921f774d616b6543617264616e6f4772656174416761696e": {
+    "token_id": "261fa966fffd32c4c95a9426b3de1d8408d66edc0e3e7262e0921f774d616b6543617264616e6f4772656174416761696e",
+    "token_policy": "261fa966fffd32c4c95a9426b3de1d8408d66edc0e3e7262e0921f77",
+    "token_ascii": "Make Cardano Great Again",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MCGA"
   }
 }
