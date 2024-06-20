@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "b910b1b05e224b93123f704f975ee1bc2d523d4445d850a8d4e3655a4e696b61": {
+    "token_id": "b910b1b05e224b93123f704f975ee1bc2d523d4445d850a8d4e3655a4e696b61",
+    "token_policy": "b910b1b05e224b93123f704f975ee1bc2d523d4445d850a8d4e3655a",
+    "token_ascii": "Nika",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Nika"
   }
 }
