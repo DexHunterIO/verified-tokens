@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "72e867f02903afb99a88a3c8c330d0fa80a9fd219217d1454a281ab84b617261636f696e": {
+    "token_id": "72e867f02903afb99a88a3c8c330d0fa80a9fd219217d1454a281ab84b617261636f696e",
+    "token_policy": "72e867f02903afb99a88a3c8c330d0fa80a9fd219217d1454a281ab8",
+    "token_ascii": "Karacoin",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "KARA"
   }
 }
