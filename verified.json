@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "dc3de95cc533093d38ded1450a862a57495c08f893033640e81e9527416469646173": {
+    "token_id": "dc3de95cc533093d38ded1450a862a57495c08f893033640e81e9527416469646173",
+    "token_policy": "dc3de95cc533093d38ded1450a862a57495c08f893033640e81e9527",
+    "token_ascii": "Adidas",
+    "is_verified": true,
+    "decimals": "8",
+    "ticker": "Adidas"
   }
 }
