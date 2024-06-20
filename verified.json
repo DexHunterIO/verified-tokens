@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "64db4a30311e7e7d78437a1c05144ffbe3c920d7a227bc7392240bce43616e616461": {
+    "token_id": "64db4a30311e7e7d78437a1c05144ffbe3c920d7a227bc7392240bce43616e616461",
+    "token_policy": "64db4a30311e7e7d78437a1c05144ffbe3c920d7a227bc7392240bce",
+    "token_ascii": "Canada",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CAD"
   }
 }
