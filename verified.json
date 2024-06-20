@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "223069303d23badd5260608a2de39c4d8a072ac56c64c16c2454b1014c616d706f": {
+    "token_id": "223069303d23badd5260608a2de39c4d8a072ac56c64c16c2454b1014c616d706f",
+    "token_policy": "223069303d23badd5260608a2de39c4d8a072ac56c64c16c2454b101",
+    "token_ascii": "Lampo",
+    "is_verified": true,
+    "decimals": "6",
+    "ticker": "LAMPO"
   }
 }
