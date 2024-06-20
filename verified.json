@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "c6396228fdc27ebe4b600f4562fb95d384883b2b4db579bfaee1d8144861776b547561684769726c": {
+    "token_id": "c6396228fdc27ebe4b600f4562fb95d384883b2b4db579bfaee1d8144861776b547561684769726c",
+    "token_policy": "c6396228fdc27ebe4b600f4562fb95d384883b2b4db579bfaee1d814",
+    "token_ascii": "Hawk Tuah Girl",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "HawkTuah"
   }
 }
