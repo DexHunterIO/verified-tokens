@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "874e0be8a078d1e7c94b5463050b4b1fec021c8a2f718fce32e79763434c494e4943": {
+    "token_id": "874e0be8a078d1e7c94b5463050b4b1fec021c8a2f718fce32e79763434c494e4943",
+    "token_policy": "874e0be8a078d1e7c94b5463050b4b1fec021c8a2f718fce32e79763",
+    "token_ascii": "CLINIC",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CLINIC"
   }
 }
