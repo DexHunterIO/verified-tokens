@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "05e1f8298560c85f03248a7b3e5322f12e27e4cdc1378a4f3bc51083526565626f6b61486f736b696e736f6e": {
+    "token_id": "05e1f8298560c85f03248a7b3e5322f12e27e4cdc1378a4f3bc51083526565626f6b61486f736b696e736f6e",
+    "token_policy": "05e1f8298560c85f03248a7b3e5322f12e27e4cdc1378a4f3bc51083",
+    "token_ascii": "Reeboka Hoskinson",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Reeboka"
   }
 }
