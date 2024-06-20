@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "2f175398ba8ccdf5c1b7ab6e15053d0e7c18cef256f21dd8602de8da4261636f6e": {
+    "token_id": "2f175398ba8ccdf5c1b7ab6e15053d0e7c18cef256f21dd8602de8da4261636f6e",
+    "token_policy": "2f175398ba8ccdf5c1b7ab6e15053d0e7c18cef256f21dd8602de8da",
+    "token_ascii": "Bacon",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Bacon"
   }
 }
