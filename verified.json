@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "5d65a794da6183468d49e722230bfc9724b22f107f24f9f9ecfd969d506570656f6e414441": {
+    "token_id": "5d65a794da6183468d49e722230bfc9724b22f107f24f9f9ecfd969d506570656f6e414441",
+    "token_policy": "5d65a794da6183468d49e722230bfc9724b22f107f24f9f9ecfd969d",
+    "token_ascii": "Pepe on ADA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Pepe"
   }
 }
