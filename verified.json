@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "1c1661d0425a8b576ecf1bc33c16baee5862ab17e9cb943e2bfdc77c43617374726f": {
+    "token_id": "1c1661d0425a8b576ecf1bc33c16baee5862ab17e9cb943e2bfdc77c43617374726f",
+    "token_policy": "1c1661d0425a8b576ecf1bc33c16baee5862ab17e9cb943e2bfdc77c",
+    "token_ascii": "Castro",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CAS"
   }
 }
