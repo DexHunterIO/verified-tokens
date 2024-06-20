@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
-  }
+  },
+  "03c0225d6a1cd28af310d1eba9039c995da91f2ab5292d576b6fb5f94652455941": {
+    "token_id": "03c0225d6a1cd28af310d1eba9039c995da91f2ab5292d576b6fb5f94652455941",
+    "token_policy": "03c0225d6a1cd28af310d1eba9039c995da91f2ab5292d576b6fb5f9",
+    "token_ascii": "FREYA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FREYA"
+    }
 }
