@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
-  }
+  },
+  "320369c22975c0c1da4ece524f71a40d20ed9676d704ce712a04a1ff424251": {
+    "token_id": "320369c22975c0c1da4ece524f71a40d20ed9676d704ce712a04a1ff424251",
+    "token_policy": "320369c22975c0c1da4ece524f71a40d20ed9676d704ce712a04a1ff",
+    "token_ascii": "BBQ",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BBQ"
+    }
 }
