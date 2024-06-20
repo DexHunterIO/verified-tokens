@@ -3553,5 +3553,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "8eb315835768c21e2a595ca80b88a31675292d75fc62e0c27e7d256e42554c4c": {
+    "token_id": "8eb315835768c21e2a595ca80b88a31675292d75fc62e0c27e7d256e42554c4c",
+    "token_policy": "8eb315835768c21e2a595ca80b88a31675292d75fc62e0c27e7d256e",
+    "token_ascii": "BULL",
+    "is_verified": true,
+    "decimals": "7",
+    "ticker": "BULL"
   }
 }
