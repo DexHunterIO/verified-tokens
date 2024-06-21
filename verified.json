@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "c9195fa387c29841c284a751b0b4fe63926999b787f3bf00936b17074661696e74696e67476f6174": {
+    "token_id": "c9195fa387c29841c284a751b0b4fe63926999b787f3bf00936b17074661696e74696e67476f6174",
+    "token_policy": "c9195fa387c29841c284a751b0b4fe63926999b787f3bf00936b1707",
+    "token_ascii": "Fainting Goat",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "GOATY"
   }
 }
