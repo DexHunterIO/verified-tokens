@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "1776064a9ad8f5c3986cd5c50725edd191cafb6bbb9caa380858c5be4a616d626f6e": {
+    "token_id": "1776064a9ad8f5c3986cd5c50725edd191cafb6bbb9caa380858c5be4a616d626f6e",
+    "token_policy": "1776064a9ad8f5c3986cd5c50725edd191cafb6bbb9caa380858c5be",
+    "token_ascii": "Jambon",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Jambon"
   }
 }
