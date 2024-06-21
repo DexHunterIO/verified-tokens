@@ -3553,5 +3553,100 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "Rex"
+  },
+  "db5d31c279e11dd462411b2e6e41156fed77e29cf73695b3009aa7004f6c65": {
+    "token_id": "db5d31c279e11dd462411b2e6e41156fed77e29cf73695b3009aa7004f6c65",
+    "token_policy": "db5d31c279e11dd462411b2e6e41156fed77e29cf73695b3009aa700",
+    "token_ascii": "Ole",
+    "is_verified": true,
+    "decimals": "0"
+  },
+  "3017dfab757a588e0fe2ba637288a19f64781483c28de8164a0229fc4e494b454749524c": {
+    "token_id": "3017dfab757a588e0fe2ba637288a19f64781483c28de8164a0229fc4e494b454749524c",
+    "token_policy": "3017dfab757a588e0fe2ba637288a19f64781483c28de8164a0229fc",
+    "token_ascii": "NIKEGIRL",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NIKEGIRL"
+  },
+  "3a5f460bfeccb10795a3f6c989a3b805854c1501f61db7ab73fd61c6424c5545": {
+    "token_id": "3a5f460bfeccb10795a3f6c989a3b805854c1501f61db7ab73fd61c6424c5545",
+    "token_policy": "3a5f460bfeccb10795a3f6c989a3b805854c1501f61db7ab73fd61c6",
+    "token_ascii": "BLUE",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BLUE"
+  },
+  "b910b1b05e224b93123f704f975ee1bc2d523d4445d850a8d4e3655a4e696b61": {
+    "token_id": "b910b1b05e224b93123f704f975ee1bc2d523d4445d850a8d4e3655a4e696b61",
+    "token_policy": "b910b1b05e224b93123f704f975ee1bc2d523d4445d850a8d4e3655a",
+    "token_ascii": "Nika",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Nika"
+  },
+  "5c807808333445175a565bf2b2ee285c69fe1100d3f2439e744f24a45357494e45": {
+    "token_id": "5c807808333445175a565bf2b2ee285c69fe1100d3f2439e744f24a45357494e45",
+    "token_policy": "5c807808333445175a565bf2b2ee285c69fe1100d3f2439e744f24a4",
+    "token_ascii": "SWINE",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SWINE"
+  },
+  "05e1f8298560c85f03248a7b3e5322f12e27e4cdc1378a4f3bc51083526565626f6b61486f736b696e736f6e": {
+    "token_id": "05e1f8298560c85f03248a7b3e5322f12e27e4cdc1378a4f3bc51083526565626f6b61486f736b696e736f6e",
+    "token_policy": "05e1f8298560c85f03248a7b3e5322f12e27e4cdc1378a4f3bc51083",
+    "token_ascii": "Reeboka Hoskinson",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Reeboka"
+  },
+  "cf17af62fd77840139e3e55c2dd9e7223d78488f9b1c66231a1d18cc4e696b65576966486174": {
+    "token_id": "cf17af62fd77840139e3e55c2dd9e7223d78488f9b1c66231a1d18cc4e696b65576966486174",
+    "token_policy": "cf17af62fd77840139e3e55c2dd9e7223d78488f9b1c66231a1d18cc",
+    "token_ascii": "NikeWifHat",
+    "is_verified": true,
+    "decimals": "5",
+    "ticker": "NikeW"
+  },
+  "dc3de95cc533093d38ded1450a862a57495c08f893033640e81e9527416469646173": {
+    "token_id": "dc3de95cc533093d38ded1450a862a57495c08f893033640e81e9527416469646173",
+    "token_policy": "dc3de95cc533093d38ded1450a862a57495c08f893033640e81e9527",
+    "token_ascii": "Adidas",
+    "is_verified": true,
+    "decimals": "8",
+    "ticker": "Adidas"
+  },
+  "72e867f02903afb99a88a3c8c330d0fa80a9fd219217d1454a281ab84b617261636f696e": {
+    "token_id": "72e867f02903afb99a88a3c8c330d0fa80a9fd219217d1454a281ab84b617261636f696e",
+    "token_policy": "72e867f02903afb99a88a3c8c330d0fa80a9fd219217d1454a281ab8",
+    "token_ascii": "Karacoin",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "KARA"
+  },
+  "5167012fbcc4376b7ddd02d1a053d30520b5f3e6a30584c8ac28ddc3444f4e4b": {
+    "token_id": "5167012fbcc4376b7ddd02d1a053d30520b5f3e6a30584c8ac28ddc3444f4e4b",
+    "token_policy": "5167012fbcc4376b7ddd02d1a053d30520b5f3e6a30584c8ac28ddc3",
+    "token_ascii": "DONK",
+    "is_verified": true,
+    "decimals": "3",
+    "ticker": "DONK"
+  },
+  "67af719e6f501425ea66d5a85e1292ed6c8293c65ff295d6493b1b8848617264616e6f": {
+    "token_id": "67af719e6f501425ea66d5a85e1292ed6c8293c65ff295d6493b1b8848617264616e6f",
+    "token_policy": "67af719e6f501425ea66d5a85e1292ed6c8293c65ff295d6493b1b88",
+    "token_ascii": "Hardano",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Hardano"
+  },
+  "cf3be2c0cfaa6a0f3d7003e8576094ad092d4f6d8db42fa88531b69a42554c4c": {
+    "token_id": "cf3be2c0cfaa6a0f3d7003e8576094ad092d4f6d8db42fa88531b69a42554c4c",
+    "token_policy": "cf3be2c0cfaa6a0f3d7003e8576094ad092d4f6d8db42fa88531b69a",
+    "token_ascii": "BULL",
+    "is_verified": true,
+    "decimals": "3",
+    "ticker": "BULL"
   }
 }
