@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "3d8490ef3ffb41056dc8619d0bc56276955010fcad6f62747df5e0054f696c65724769726c": {
+    "token_id": "3d8490ef3ffb41056dc8619d0bc56276955010fcad6f62747df5e0054f696c65724769726c",
+    "token_policy": "3d8490ef3ffb41056dc8619d0bc56276955010fcad6f62747df5e005",
+    "token_ascii": "Oiler Girl",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TiTs"
   }
 }
