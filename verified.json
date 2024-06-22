@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "424acb306644943ca11df06ab88ac07fb3e3985119443d83d0df5a914368616f73": {
+    "token_id": "424acb306644943ca11df06ab88ac07fb3e3985119443d83d0df5a914368616f73",
+    "token_policy": "424acb306644943ca11df06ab88ac07fb3e3985119443d83d0df5a91",
+    "token_ascii": "Chaos",
+    "is_verified": true,
+    "decimals": "5",
+    "ticker": "Chaos"
   }
 }
