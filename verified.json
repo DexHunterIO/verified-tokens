@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "edd1ec013f69d39204e6dc35b50f84ea62073095f94600df43822f28446f7a6572": {
+    "token_id": "edd1ec013f69d39204e6dc35b50f84ea62073095f94600df43822f28446f7a6572",
+    "token_policy": "edd1ec013f69d39204e6dc35b50f84ea62073095f94600df43822f28",
+    "token_ascii": "Dozer",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Dozer"
   }
 }
