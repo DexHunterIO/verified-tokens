@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "0b2ca3dbfd6609bc5ad3a3429e33bb7783716333bf86e7f066c8c8c75061626c6f73476f6f64626f79": {
+    "token_id": "0b2ca3dbfd6609bc5ad3a3429e33bb7783716333bf86e7f066c8c8c75061626c6f73476f6f64626f79",
+    "token_policy": "0b2ca3dbfd6609bc5ad3a3429e33bb7783716333bf86e7f066c8c8c7",
+    "token_ascii": "Pablos Goodboy",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "GOODBOY"
   }
 }
