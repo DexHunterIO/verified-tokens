@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "06e4768ff0ed1470f97d5c1e67242ab9c52c471288d1c90c334782ec5441434f": {
+    "token_id": "06e4768ff0ed1470f97d5c1e67242ab9c52c471288d1c90c334782ec5441434f",
+    "token_policy": "06e4768ff0ed1470f97d5c1e67242ab9c52c471288d1c90c334782ec",
+    "token_ascii": "TACO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TACO"
   }
 }
