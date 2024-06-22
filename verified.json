@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "877e942c32522045a623e7a49d3bb8fe0fbe8a41c5c79d040d3d0a205741474d49": {
+    "token_id": "877e942c32522045a623e7a49d3bb8fe0fbe8a41c5c79d040d3d0a205741474d49",
+    "token_policy": "877e942c32522045a623e7a49d3bb8fe0fbe8a41c5c79d040d3d0a20",
+    "token_ascii": "WAGMI",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "WAGMI"
   }
 }
