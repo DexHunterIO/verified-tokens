@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "e31c253eb102882461cdcdce2320fee246201131dca34a7c415b581a41646469646173": {
+    "token_id": "e31c253eb102882461cdcdce2320fee246201131dca34a7c415b581a41646469646173",
+    "token_policy": "e31c253eb102882461cdcdce2320fee246201131dca34a7c415b581a",
+    "token_ascii": "Addidas",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Addidas"
   }
 }
