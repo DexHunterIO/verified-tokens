@@ -2,7 +2,7 @@ Verified tokens are searchable by name; it's not an endorsement of the project. 
 
 <img width="183" alt="Screenshot 2024-03-09 at 16 03 42" src="https://github.com/CNFT-Predator/verified-tokens/assets/44160230/cda80cd1-5cef-4232-81e1-4345881971c9">
 
-### Please attach png or jpg image file to the description
+### Please attach png or jpg image file to the description and DM on twitter from official token account
 ![image](https://github.com/CNFT-Predator/verified-tokens/assets/44160230/26b1c721-f4d4-46c9-bd07-6f985bba3c29)
 
 #### Please attach verification payment of 100 ADA to the following address as tx hash to the description
