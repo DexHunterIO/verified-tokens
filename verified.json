@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "69d3fe3d5a0ecf2c7fbcbe3a16ac452aa80a719b21fd728f0e8ad633525542414b": {
+    "token_id": "69d3fe3d5a0ecf2c7fbcbe3a16ac452aa80a719b21fd728f0e8ad633525542414b",
+    "token_policy": "69d3fe3d5a0ecf2c7fbcbe3a16ac452aa80a719b21fd728f0e8ad633",
+    "token_ascii": "RUBAK",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "RUBAK"
   }
 }
