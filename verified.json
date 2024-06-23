@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "c07ac13a1767c2bdc89b00061e50a2d5a3bb3345129fd2778ad9321250696e6b446f6c7068696e414441": {
+    "token_id": "c07ac13a1767c2bdc89b00061e50a2d5a3bb3345129fd2778ad9321250696e6b446f6c7068696e414441",
+    "token_policy": "c07ac13a1767c2bdc89b00061e50a2d5a3bb3345129fd2778ad93212",
+    "token_ascii": "Pink Dolphin ADA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Pink"
   }
 }
