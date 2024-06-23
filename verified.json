@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "f93dfff2a55cf59e51d0bd1dc56096dd49bd6ca8cfe0a1df4be940705745414b534155434543415244414e4f53494d50424f5953": {
+    "token_id": "f93dfff2a55cf59e51d0bd1dc56096dd49bd6ca8cfe0a1df4be940705745414b534155434543415244414e4f53494d50424f5953",
+    "token_policy": "f93dfff2a55cf59e51d0bd1dc56096dd49bd6ca8cfe0a1df4be94070",
+    "token_ascii": "WEAK SAUCE CARDANO SIMP BOYS",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SIMPBOYS"
   }
 }
