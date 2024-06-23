@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "4525c9fe73cf74768f65239ebc4ed936bb59138501add127182d75c34552474f": {
+    "token_id": "4525c9fe73cf74768f65239ebc4ed936bb59138501add127182d75c34552474f",
+    "token_policy": "4525c9fe73cf74768f65239ebc4ed936bb59138501add127182d75c3",
+    "token_ascii": "ERGO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ERG"
   }
 }
