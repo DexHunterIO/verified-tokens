@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "d3a792e47c997bab88cd0f24f8e1e79ff6ba0c4ab4613e3db5f904b448617070794c6974746c65506967": {
+    "token_id": "d3a792e47c997bab88cd0f24f8e1e79ff6ba0c4ab4613e3db5f904b448617070794c6974746c65506967",
+    "token_policy": "d3a792e47c997bab88cd0f24f8e1e79ff6ba0c4ab4613e3db5f904b4",
+    "token_ascii": "Happy Little Pig",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "HLP"
   }
 }
