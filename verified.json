@@ -3648,5 +3648,12 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
-  }
+  },
+  "c80d335ae2206381ae3dfe07b1ef38e43af95736e7f5d4f150663c255241555349": {
+    "token_id": "c80d335ae2206381ae3dfe07b1ef38e43af95736e7f5d4f150663c255241555349",
+    "token_policy": "c80d335ae2206381ae3dfe07b1ef38e43af95736e7f5d4f150663c25",
+    "token_ascii": "RAUSI",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "RAUSI"
 }
