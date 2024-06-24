@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "02263307d3381bd4ffc5a648eda9e37ad627368d92b423ad5b12e00542757463686572": {
+    "token_id": "02263307d3381bd4ffc5a648eda9e37ad627368d92b423ad5b12e00542757463686572",
+    "token_policy": "02263307d3381bd4ffc5a648eda9e37ad627368d92b423ad5b12e005",
+    "token_ascii": "Butcher",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Butcher"
   }
 }
