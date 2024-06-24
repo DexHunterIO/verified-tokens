@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "13218f16523b116719a8b4b97ada5d307aab9609ca756736c3945689426f737342616279436861726c6573": {
+    "token_id": "13218f16523b116719a8b4b97ada5d307aab9609ca756736c3945689426f737342616279436861726c6573",
+    "token_policy": "13218f16523b116719a8b4b97ada5d307aab9609ca756736c3945689",
+    "token_ascii": "BossBabyCharles",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BBC"
   }
 }
