@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "64b15dac6383b2df4b0aff6d8931e06eaced4d6ce507434a96ac0b795452554d50": {
+    "token_id": "64b15dac6383b2df4b0aff6d8931e06eaced4d6ce507434a96ac0b795452554d50",
+    "token_policy": "64b15dac6383b2df4b0aff6d8931e06eaced4d6ce507434a96ac0b79",
+    "token_ascii": "TRUMP",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TRUMP"
   }
 }
