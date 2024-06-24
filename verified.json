@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "d2e02822850a9f931e5f98f5088649edc724d54131bc830047070a714170706c656368697073": {
+    "token_id": "d2e02822850a9f931e5f98f5088649edc724d54131bc830047070a714170706c656368697073",
+    "token_policy": "d2e02822850a9f931e5f98f5088649edc724d54131bc830047070a71",
+    "token_ascii": "Applechips",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "APPCHIPS"
   }
 }
