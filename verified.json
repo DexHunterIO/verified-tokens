@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "afb9bbb23ec7db7e2b2d388348d11cd1230bca7227a869af8b070cce456e67696e656572": {
+    "token_id": "afb9bbb23ec7db7e2b2d388348d11cd1230bca7227a869af8b070cce456e67696e656572",
+    "token_policy": "afb9bbb23ec7db7e2b2d388348d11cd1230bca7227a869af8b070cce",
+    "token_ascii": "Engineer",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "IOHK"
   }
 }
