@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "7f96f7f3f309e5cbe11aa284f175439e798731395929ce4baa9bc381436c617943617473536f6369657479": {
+    "token_id": "7f96f7f3f309e5cbe11aa284f175439e798731395929ce4baa9bc381436c617943617473536f6369657479",
+    "token_policy": "7f96f7f3f309e5cbe11aa284f175439e798731395929ce4baa9bc381",
+    "token_ascii": "Clay Cats Society ",
+    "is_verified": true,
+    "decimals": "3",
+    "ticker": "CCAT"
   }
 }
