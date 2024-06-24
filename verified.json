@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "3bf05bc1506c3b7c42aa0eb17f0d08dc7567cb4c7e6609890f9dafd2426f6f6b6f664e696b65": {
+    "token_id": "3bf05bc1506c3b7c42aa0eb17f0d08dc7567cb4c7e6609890f9dafd2426f6f6b6f664e696b65",
+    "token_policy": "3bf05bc1506c3b7c42aa0eb17f0d08dc7567cb4c7e6609890f9dafd2",
+    "token_ascii": "Book of Nike",
+    "is_verified": true,
+    "decimals": "6",
+    "ticker": "BONE"
   }
 }
