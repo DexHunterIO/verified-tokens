@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "53ab3b216fb82525c7ceeb18acadab4382b613621b97defa059ffe4c4d61736f6e": {
+    "token_id": "53ab3b216fb82525c7ceeb18acadab4382b613621b97defa059ffe4c4d61736f6e",
+    "token_policy": "53ab3b216fb82525c7ceeb18acadab4382b613621b97defa059ffe4c",
+    "token_ascii": "Mason",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Mason"
   }
 }
