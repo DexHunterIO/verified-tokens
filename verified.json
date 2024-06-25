@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "eda69ce0f80d0f2ff78892b07fe648ec5bf5375afc1ed545278cb15043686169726d616e4d656f77": {
+    "token_id": "eda69ce0f80d0f2ff78892b07fe648ec5bf5375afc1ed545278cb15043686169726d616e4d656f77",
+    "token_policy": "eda69ce0f80d0f2ff78892b07fe648ec5bf5375afc1ed545278cb150",
+    "token_ascii": "Chairman Meow",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MEOW"
   }
 }
