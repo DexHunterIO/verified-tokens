@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "3b8315125b1374ee2d8917031a1eb7280892e23d51f6ea62d98711b24f696e6b": {
+    "token_id": "3b8315125b1374ee2d8917031a1eb7280892e23d51f6ea62d98711b24f696e6b",
+    "token_policy": "3b8315125b1374ee2d8917031a1eb7280892e23d51f6ea62d98711b2",
+    "token_ascii": "Oink",
+    "is_verified": true,
+    "decimals": "4",
+    "ticker": "Oink"
   }
 }
