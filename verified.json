@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "0e9cfdebac829861bafffae8306d302d070af4fbc51d7a78cb79d6935472756d70414441": {
+    "token_id": "0e9cfdebac829861bafffae8306d302d070af4fbc51d7a78cb79d6935472756d70414441",
+    "token_policy": "0e9cfdebac829861bafffae8306d302d070af4fbc51d7a78cb79d693",
+    "token_ascii": "Trump ADA ",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Trump"
   }
 }
