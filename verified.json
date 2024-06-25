@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "f1e497560a029125a90b40d475e4eed9dd117026e4271760243795924841574b5f545541485f414441": {
+    "token_id": "f1e497560a029125a90b40d475e4eed9dd117026e4271760243795924841574b5f545541485f414441",
+    "token_policy": "f1e497560a029125a90b40d475e4eed9dd117026e427176024379592",
+    "token_ascii": "HAWK_TUAH_ADA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "HAWK"
   }
 }
