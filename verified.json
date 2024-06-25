@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "c0d5c7b526faad6559cc240174bddd0739bdc1f5d4ca517213cb64e653686f67676f7468": {
+    "token_id": "c0d5c7b526faad6559cc240174bddd0739bdc1f5d4ca517213cb64e653686f67676f7468",
+    "token_policy": "c0d5c7b526faad6559cc240174bddd0739bdc1f5d4ca517213cb64e6",
+    "token_ascii": "Shoggoth",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "GOTH"
   }
 }
