@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "5014b28ddb38401e2c2d0efa3a1f290dbdc391b3682088b1efc1df134d616b696e6743617264616e6f5374726f6e676572": {
+    "token_id": "5014b28ddb38401e2c2d0efa3a1f290dbdc391b3682088b1efc1df134d616b696e6743617264616e6f5374726f6e676572",
+    "token_policy": "5014b28ddb38401e2c2d0efa3a1f290dbdc391b3682088b1efc1df13",
+    "token_ascii": "Making Cardano Stronger",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DDOS"
   }
 }
