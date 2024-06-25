@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "fa2710af66e0a1b00bf05ce6230c1029ae66e31824268dc4746ac0d646524e4b": {
+    "token_id": "fa2710af66e0a1b00bf05ce6230c1029ae66e31824268dc4746ac0d646524e4b",
+    "token_policy": "fa2710af66e0a1b00bf05ce6230c1029ae66e31824268dc4746ac0d6",
+    "token_ascii": "FRNK",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FRNK"
   }
 }
