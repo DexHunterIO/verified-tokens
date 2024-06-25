@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "cbed52ccdf43e66ce74d06ec5abc00609fde6126e478f385e34da54f4d6f6f6e4c6967687473": {
+    "token_id": "cbed52ccdf43e66ce74d06ec5abc00609fde6126e478f385e34da54f4d6f6f6e4c6967687473",
+    "token_policy": "cbed52ccdf43e66ce74d06ec5abc00609fde6126e478f385e34da54f",
+    "token_ascii": "MoonLights",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MOON"
   }
 }
