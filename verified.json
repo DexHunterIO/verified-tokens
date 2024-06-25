@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "a7edfef8b6c241a5b99f3219da4a9d059f755f58c238d07c56fa24be556e6465666561746564436861726c6573": {
+    "token_id": "a7edfef8b6c241a5b99f3219da4a9d059f755f58c238d07c56fa24be556e6465666561746564436861726c6573",
+    "token_policy": "a7edfef8b6c241a5b99f3219da4a9d059f755f58c238d07c56fa24be",
+    "token_ascii": "UndefeatedCharles",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "UCS"
   }
 }
