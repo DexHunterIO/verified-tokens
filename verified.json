@@ -30,6 +30,14 @@
     "ticker": "SMOKE",
     "decimals": 0
   },
+  "ea02c99c0668891d6b7cdc49e075cbddf9cd5b89404e5a8a8e5d7016534c4f5020436f696e": {
+    "token_id": "ea02c99c0668891d6b7cdc49e075cbddf9cd5b89404e5a8a8e5d7016534c4f5020436f696e",
+    "token_policy": "ea02c99c0668891d6b7cdc49e075cbddf9cd5b89404e5a8a8e5d7016",
+    "token_ascii": "$SLOP Coin",
+    "is_verified": true,
+    "ticker": "SLOP",
+    "decimals": 0
+  },
   "436713331a99dd419c19f10d65d50d1af641d7c7abba6ab323e8ea2c424f4e4b": {
     "token_id": "436713331a99dd419c19f10d65d50d1af641d7c7abba6ab323e8ea2c424f4e4b",
     "token_policy": "436713331a99dd419c19f10d65d50d1af641d7c7abba6ab323e8ea2c",
