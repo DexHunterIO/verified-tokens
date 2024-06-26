@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "f568bf8ad3271ffacd18078278dbd9e37c8b2fa6974531af1fe98b28546f626c6572": {
+    "token_id": "f568bf8ad3271ffacd18078278dbd9e37c8b2fa6974531af1fe98b28546f626c6572",
+    "token_policy": "f568bf8ad3271ffacd18078278dbd9e37c8b2fa6974531af1fe98b28",
+    "token_ascii": "Tobler",
+    "is_verified": true,
+    "decimals": "2",
+    "ticker": "TOBLER"
   }
 }
