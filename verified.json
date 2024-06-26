@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "4bcfd5be40de89313d6e53dde376fb690d267e50653fb8a3e0b26e5142727568": {
+    "token_id": "4bcfd5be40de89313d6e53dde376fb690d267e50653fb8a3e0b26e5142727568",
+    "token_policy": "4bcfd5be40de89313d6e53dde376fb690d267e50653fb8a3e0b26e51",
+    "token_ascii": "Bruh",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Bruh"
   }
 }
