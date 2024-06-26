@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "4a3e2ef98b1eb3baf87503c7d64de364aad212a85ce73bfd91e74dd2464f52454d414e": {
+    "token_id": "4a3e2ef98b1eb3baf87503c7d64de364aad212a85ce73bfd91e74dd2464f52454d414e",
+    "token_policy": "4a3e2ef98b1eb3baf87503c7d64de364aad212a85ce73bfd91e74dd2",
+    "token_ascii": "FOREMAN",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FOREMAN"
   }
 }
