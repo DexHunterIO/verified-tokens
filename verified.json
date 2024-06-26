@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "52d9948109a9d8e38ffdd51aed16ca195973c8c28a34e02c9dad60f34e6f74746f6461794d6f6e6164": {
+    "token_id": "52d9948109a9d8e38ffdd51aed16ca195973c8c28a34e02c9dad60f34e6f74746f6461794d6f6e6164",
+    "token_policy": "52d9948109a9d8e38ffdd51aed16ca195973c8c28a34e02c9dad60f3",
+    "token_ascii": "Not today Monad",
+    "is_verified": true,
+    "decimals": "3",
+    "ticker": "Gonad"
   }
 }
