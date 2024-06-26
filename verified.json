@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "b58556a204e97af3b11c5fdd0b80bd061c90d1a734f32b7215af828d4d617274696e42756c6c6973684f6e436861726c6573": {
+    "token_id": "b58556a204e97af3b11c5fdd0b80bd061c90d1a734f32b7215af828d4d617274696e42756c6c6973684f6e436861726c6573",
+    "token_policy": "b58556a204e97af3b11c5fdd0b80bd061c90d1a734f32b7215af828d",
+    "token_ascii": "Martin Bullish On Charles",
+    "is_verified": true,
+    "decimals": "4",
+    "ticker": "martinada"
   }
 }
