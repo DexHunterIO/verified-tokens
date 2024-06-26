@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "2fb2ffa26301585e573e01f4b5b1afe0d37968f195881c8c10a9efaf5072416461": {
+    "token_id": "2fb2ffa26301585e573e01f4b5b1afe0d37968f195881c8c10a9efaf5072416461",
+    "token_policy": "2fb2ffa26301585e573e01f4b5b1afe0d37968f195881c8c10a9efaf",
+    "token_ascii": "PrAda",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PrAda"
   }
 }
