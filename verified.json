@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "c7703c8ca8888a83aa8daed383df6c53a5e9aa5677d859add5c991604e6f6d6164": {
+    "token_id": "c7703c8ca8888a83aa8daed383df6c53a5e9aa5677d859add5c991604e6f6d6164",
+    "token_policy": "c7703c8ca8888a83aa8daed383df6c53a5e9aa5677d859add5c99160",
+    "token_ascii": "Nomad",
+    "is_verified": true,
+    "decimals": "3",
+    "ticker": "Nomad"
   }
 }
