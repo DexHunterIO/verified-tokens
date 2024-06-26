@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "53d9d8261fa2fa573d0ce766a89d27479730a7bf5a651f68d7787fdb4841534b454c4c": {
+    "token_id": "53d9d8261fa2fa573d0ce766a89d27479730a7bf5a651f68d7787fdb4841534b454c4c",
+    "token_policy": "53d9d8261fa2fa573d0ce766a89d27479730a7bf5a651f68d7787fdb",
+    "token_ascii": "HASKELL",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "HASKELL"
   }
 }
