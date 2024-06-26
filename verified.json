@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "7c8ac16e5effc0319e304aa42685b8770296ff25b4e31bcb3d1f8884436f6e6164": {
+    "token_id": "7c8ac16e5effc0319e304aa42685b8770296ff25b4e31bcb3d1f8884436f6e6164",
+    "token_policy": "7c8ac16e5effc0319e304aa42685b8770296ff25b4e31bcb3d1f8884",
+    "token_ascii": "Conad",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Conad"
   }
 }
