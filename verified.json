@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "676fe95d29c1fa198f86c862def5bf7a487c8abf04c3b0b53bdd1bf34759524f53": {
+    "token_id": "676fe95d29c1fa198f86c862def5bf7a487c8abf04c3b0b53bdd1bf34759524f53",
+    "token_policy": "676fe95d29c1fa198f86c862def5bf7a487c8abf04c3b0b53bdd1bf3",
+    "token_ascii": "GYROS",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "GYROS"
   }
 }
