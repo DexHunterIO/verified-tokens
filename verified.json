@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "0337d1728b7a90620abb7c6806114cef0401cf23a9abae9672c7eadd54686552617473": {
+    "token_id": "0337d1728b7a90620abb7c6806114cef0401cf23a9abae9672c7eadd54686552617473",
+    "token_policy": "0337d1728b7a90620abb7c6806114cef0401cf23a9abae9672c7eadd",
+    "token_ascii": "The Rats",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "RAT"
   }
 }
