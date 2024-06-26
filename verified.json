@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "a89c75721daffeb363970b31a783f9624cda222afe41a3633d5485214a61736f6e426f72636b49735468654b696e67": {
+    "token_id": "a89c75721daffeb363970b31a783f9624cda222afe41a3633d5485214a61736f6e426f72636b49735468654b696e67",
+    "token_policy": "a89c75721daffeb363970b31a783f9624cda222afe41a3633d548521",
+    "token_ascii": "JasonBorckIsTheKing",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "JASON"
   }
 }
