@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "52a67e0c06bbd9d464e7c3432502b00061d4f7495e4324853eb050bd4861776b54756168": {
+    "token_id": "52a67e0c06bbd9d464e7c3432502b00061d4f7495e4324853eb050bd4861776b54756168",
+    "token_policy": "52a67e0c06bbd9d464e7c3432502b00061d4f7495e4324853eb050bd",
+    "token_ascii": "Hawk Tuah",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Hawk"
   }
 }
