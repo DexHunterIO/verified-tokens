@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "b332169ea9a3d755dd924e4973295d99f4a518e92c2c7d195e8f0d3e434c4f5246": {
+    "token_id": "b332169ea9a3d755dd924e4973295d99f4a518e92c2c7d195e8f0d3e434c4f5246",
+    "token_policy": "b332169ea9a3d755dd924e4973295d99f4a518e92c2c7d195e8f0d3e",
+    "token_ascii": "CLORF",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CLF"
   }
 }
