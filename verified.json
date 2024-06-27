@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "5bf7c13a29ff2eac91324c05fb556a1e3ba77bdfbe1c0161b06b69804d41524c4f": {
+    "token_id": "5bf7c13a29ff2eac91324c05fb556a1e3ba77bdfbe1c0161b06b69804d41524c4f",
+    "token_policy": "5bf7c13a29ff2eac91324c05fb556a1e3ba77bdfbe1c0161b06b6980",
+    "token_ascii": "MARLO",
+    "is_verified": true,
+    "decimals": "6",
+    "ticker": "MARLO"
   }
 }
