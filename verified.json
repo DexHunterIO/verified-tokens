@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "a01a9ecff2986bebe3a977a2692c230e28b27a7f22e0cc502a32b21c43484144": {
+    "token_id": "a01a9ecff2986bebe3a977a2692c230e28b27a7f22e0cc502a32b21c43484144",
+    "token_policy": "a01a9ecff2986bebe3a977a2692c230e28b27a7f22e0cc502a32b21c",
+    "token_ascii": "CHAD",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CHAD"
   }
 }
