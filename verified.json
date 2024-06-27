@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+ "aaf267c77f09a5b4f006009a3235f3a9765660ccf2e6e1e0380303d54b65726d697420746865204675636b": {
+    "token_id": "aaf267c77f09a5b4f006009a3235f3a9765660ccf2e6e1e0380303d54b65726d697420746865204675636b",
+    "token_policy": "aaf267c77f09a5b4f006009a3235f3a9765660ccf2e6e1e0380303d5",
+    "token_ascii": "Kermit the Fuck",
+    "is_verified": true,
+    "decimals": "6",
+    "ticker": "FUCK"
   }
 }
