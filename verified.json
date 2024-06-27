@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "473d1a9a071e22a1711c760dcb3405a1888df4e5105bbc394206ffc6446f7261656d6f6e746865436174": {
+    "token_id": "473d1a9a071e22a1711c760dcb3405a1888df4e5105bbc394206ffc6446f7261656d6f6e746865436174",
+    "token_policy": "473d1a9a071e22a1711c760dcb3405a1888df4e5105bbc394206ffc6",
+    "token_ascii": "Doraemon the Cat",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DORAE"
   }
 }
