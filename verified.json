@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "dae5d63eb4940a5d2d5b5413612d3b89dd7ca61449d64a6ed126a2605069636b6c654a6f6e6573": {
+    "token_id": "dae5d63eb4940a5d2d5b5413612d3b89dd7ca61449d64a6ed126a2605069636b6c654a6f6e6573",
+    "token_policy": "dae5d63eb4940a5d2d5b5413612d3b89dd7ca61449d64a6ed126a260",
+    "token_ascii": "PickleJones",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PICKLE"
   }
 }
