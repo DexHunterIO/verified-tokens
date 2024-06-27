@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "2d96d654c3c10842e1ad3cc185cd68c121f364f58b423d8067ee33c7436f7270696f": {
+    "token_id": "2d96d654c3c10842e1ad3cc185cd68c121f364f58b423d8067ee33c7436f7270696f",
+    "token_policy": "2d96d654c3c10842e1ad3cc185cd68c121f364f58b423d8067ee33c7",
+    "token_ascii": "Corpio",
+    "is_verified": true,
+    "decimals": "4",
+    "ticker": "Corpio"
   }
 }
