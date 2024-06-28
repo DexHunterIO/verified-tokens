@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "dc9efa6aff5b8e17fc8fce8a998f5c3135f4bb7c45ff844f3f2cf6ab5452554d50414441": {
+    "token_id": "dc9efa6aff5b8e17fc8fce8a998f5c3135f4bb7c45ff844f3f2cf6ab5452554d50414441",
+    "token_policy": "dc9efa6aff5b8e17fc8fce8a998f5c3135f4bb7c45ff844f3f2cf6ab",
+    "token_ascii": "TRUMPADA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TRMP"
   }
 }
