@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "a982b6e2c51c9d2c8211b3b6ad4d2c35eb0e612aecb1c4981aa43ba250524553424f44454e": {
+    "token_id": "a982b6e2c51c9d2c8211b3b6ad4d2c35eb0e612aecb1c4981aa43ba250524553424f44454e",
+    "token_policy": "a982b6e2c51c9d2c8211b3b6ad4d2c35eb0e612aecb1c4981aa43ba2",
+    "token_ascii": "PRES BODEN",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BODEN"
   }
 }
