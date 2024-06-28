@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "c50611dc16221c070b75f883803f02ffe125d348d709a72cfd4010b4426173654d6f62696c65546f6b656e": {
+    "token_id": "c50611dc16221c070b75f883803f02ffe125d348d709a72cfd4010b4426173654d6f62696c65546f6b656e",
+    "token_policy": "c50611dc16221c070b75f883803f02ffe125d348d709a72cfd4010b4",
+    "token_ascii": "Base Mobile Token",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BaseWMT"
   }
 }
