@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "e3ce1a837a5dc14b00788c09a1db287e467386751513205e729834a5505245535452414d50": {
+    "token_id": "e3ce1a837a5dc14b00788c09a1db287e467386751513205e729834a5505245535452414d50",
+    "token_policy": "e3ce1a837a5dc14b00788c09a1db287e467386751513205e729834a5",
+    "token_ascii": "PRES TRAMP",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TRAMP"
   }
 }
