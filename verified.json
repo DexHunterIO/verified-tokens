@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "6169989d72d78a56ccbc17b0f4df5654c330f54fec387152e9c153124e696b65": {
+    "token_id": "6169989d72d78a56ccbc17b0f4df5654c330f54fec387152e9c153124e696b65",
+    "token_policy": "6169989d72d78a56ccbc17b0f4df5654c330f54fec387152e9c15312",
+    "token_ascii": "Nike",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Nike"
   }
 }
