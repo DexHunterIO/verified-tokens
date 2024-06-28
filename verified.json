@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "7445fff595cccf8f01daf1de78e313ac2bcf504219eee0dbe5245c404c41504554495445414e414c": {
+    "token_id": "7445fff595cccf8f01daf1de78e313ac2bcf504219eee0dbe5245c404c41504554495445414e414c",
+    "token_policy": "7445fff595cccf8f01daf1de78e313ac2bcf504219eee0dbe5245c40",
+    "token_ascii": "LAPETITEANAL",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PETITEANL"
   }
 }
