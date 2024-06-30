@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "fb8c3b16dc7ab982b90324584fd3b9694fc6088e6ad3f3a94223b1b547414e4a41": {
+    "token_id": "fb8c3b16dc7ab982b90324584fd3b9694fc6088e6ad3f3a94223b1b547414e4a41",
+    "token_policy": "fb8c3b16dc7ab982b90324584fd3b9694fc6088e6ad3f3a94223b1b5",
+    "token_ascii": "GANJA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "GANJA"
   }
 }
