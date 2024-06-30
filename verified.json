@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "593879f63058976c8c4c60ccaa2f7eaeb3e4ae5961a890936161f35745646f7474686545466c6f70": {
+    "token_id": "593879f63058976c8c4c60ccaa2f7eaeb3e4ae5961a890936161f35745646f7474686545466c6f70",
+    "token_policy": "593879f63058976c8c4c60ccaa2f7eaeb3e4ae5961a890936161f357",
+    "token_ascii": "Edot the E Flop",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "EFLOP"
   }
 }
