@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "a6ac1e01d74d67bf574d2444cc86cc3b31158a8a609bc905eb37e26c436869636b73646967746865506967": {
+    "token_id": "a6ac1e01d74d67bf574d2444cc86cc3b31158a8a609bc905eb37e26c436869636b73646967746865506967",
+    "token_policy": "a6ac1e01d74d67bf574d2444cc86cc3b31158a8a609bc905eb37e26c",
+    "token_ascii": "Chicks dig the Pig",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CDTP"
   }
 }
