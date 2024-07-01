@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "28b175fd0e4d9b74e00cb1a594c56e480edd2d1613f72e13c6b796f7476e6f6a656b": {
+    "token_id": "28b175fd0e4d9b74e00cb1a594c56e480edd2d1613f72e13c6b796f7476e6f6a656b",
+    "token_policy": "28b175fd0e4d9b74e00cb1a594c56e480edd2d1613f72e13c6b796f7",
+    "token_ascii": "Gnojek",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Gnojek"
   }
 }
