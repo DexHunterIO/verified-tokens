@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "e02272d8a60991b824fe4f0034ec57c884d4373434c23c19590024ce7567616e64616e6b6e75636b6c6573": {
+    "token_id": "e02272d8a60991b824fe4f0034ec57c884d4373434c23c19590024ce7567616e64616e6b6e75636b6c6573",
+    "token_policy": "e02272d8a60991b824fe4f0034ec57c884d4373434c23c19590024ce",
+    "token_ascii": "ugandan knuckles",
+    "is_verified": true,
+    "decimals": "3",
+    "ticker": "dawae"
   }
 }
