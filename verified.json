@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "af2b9f30a7e7f237dd481b9db34dead5ebebc062bfa591fe3038e79b5a6970706974795a6170706974795a6f6f646c655a6f72706c65": {
+    "token_id": "af2b9f30a7e7f237dd481b9db34dead5ebebc062bfa591fe3038e79b5a6970706974795a6170706974795a6f6f646c655a6f72706c65",
+    "token_policy": "af2b9f30a7e7f237dd481b9db34dead5ebebc062bfa591fe3038e79b",
+    "token_ascii": "Zippity Zappity Zoodle Zorple",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ZZZZ"
   }
 }
