@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "060c53411b53dbff974f2f086f4fb359fd508b9462a3bc87ec595509504947464c59": {
+    "token_id": "060c53411b53dbff974f2f086f4fb359fd508b9462a3bc87ec595509504947464c59",
+    "token_policy": "060c53411b53dbff974f2f086f4fb359fd508b9462a3bc87ec595509",
+    "token_ascii": "PIGFLY",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PIGFLY"
   }
 }
