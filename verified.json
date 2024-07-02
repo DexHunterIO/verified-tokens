@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "69b0fc55c8200588664ca98b23cf470cc9f6f56e2e854b6d265ec65a4c654e657a": {
+    "token_id": "69b0fc55c8200588664ca98b23cf470cc9f6f56e2e854b6d265ec65a4c654e657a",
+    "token_policy": "69b0fc55c8200588664ca98b23cf470cc9f6f56e2e854b6d265ec65a",
+    "token_ascii": "Le Nez",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NEZ"
   }
 }
