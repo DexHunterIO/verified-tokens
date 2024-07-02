@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "bf5a705246a2b754f2c2676f71272e7444317b6ef6c3384b64b9303341524641": {
+    "token_id": "bf5a705246a2b754f2c2676f71272e7444317b6ef6c3384b64b9303341524641",
+    "token_policy": "bf5a705246a2b754f2c2676f71272e7444317b6ef6c3384b64b93033",
+    "token_ascii": "ARFA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ARFA"
   }
 }
