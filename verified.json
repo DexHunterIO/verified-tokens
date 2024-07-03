@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "18ed5b7206f4f409b81f515f354121b47421ad95dfa8de5e188bddba5368697465436f696e": {
+    "token_id": "18ed5b7206f4f409b81f515f354121b47421ad95dfa8de5e188bddba5368697465436f696e",
+    "token_policy": "18ed5b7206f4f409b81f515f354121b47421ad95dfa8de5e188bddba",
+    "token_ascii": "ShiteCoin",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ShiteCoin"
   }
 }
