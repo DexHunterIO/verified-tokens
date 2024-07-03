@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "8716083bfb0976ea8c1aecb8db3c1772a1d4e8fae78d6fb1f3cc412a4e6572646b696e736f6e": {
+    "token_id": "8716083bfb0976ea8c1aecb8db3c1772a1d4e8fae78d6fb1f3cc412a4e6572646b696e736f6e",
+    "token_policy": "8716083bfb0976ea8c1aecb8db3c1772a1d4e8fae78d6fb1f3cc412a",
+    "token_ascii": "Nerdkinson",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NERD"
   }
 }
