@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "9ede211fe7b423c834e4a5048472f5ac25f4805b9a8bf927b870458a416469646173": {
+    "token_id": "9ede211fe7b423c834e4a5048472f5ac25f4805b9a8bf927b870458a416469646173",
+    "token_policy": "9ede211fe7b423c834e4a5048472f5ac25f4805b9a8bf927b870458a",
+    "token_ascii": "Adidas",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ADD"
   }
 }
