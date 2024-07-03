@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "d299a8d67e82fcfc1ccd9a76a24c7e6e82a93aa175d25cea3bb658eb46525547": {
+    "token_id": "d299a8d67e82fcfc1ccd9a76a24c7e6e82a93aa175d25cea3bb658eb46525547",
+    "token_policy": "d299a8d67e82fcfc1ccd9a76a24c7e6e82a93aa175d25cea3bb658eb",
+    "token_ascii": "FRUG",
+    "is_verified": true,
+    "decimals": "3",
+    "ticker": "FRUG"
   }
 }
