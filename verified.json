@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "68a468b57dee09fe2e147dff39c40399affde611dc973ba43093b6955375706572466c79": {
+    "token_id": "68a468b57dee09fe2e147dff39c40399affde611dc973ba43093b6955375706572466c79",
+    "token_policy": "68a468b57dee09fe2e147dff39c40399affde611dc973ba43093b695",
+    "token_ascii": "SuperFly",
+    "is_verified": true,
+    "decimals": "2",
+    "ticker": "SFLY"
   }
 }
