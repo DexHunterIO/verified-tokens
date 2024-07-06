@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "6e3400b92b732b621b88dd344e391d1b25daa5f3e2423af9c4c8b1dd446f6e616c644a5472756d70": {
+    "token_id": "6e3400b92b732b621b88dd344e391d1b25daa5f3e2423af9c4c8b1dd446f6e616c644a5472756d70",
+    "token_policy": "6e3400b92b732b621b88dd344e391d1b25daa5f3e2423af9c4c8b1dd",
+    "token_ascii": "Donald J Trump",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DJT"
   }
 }
