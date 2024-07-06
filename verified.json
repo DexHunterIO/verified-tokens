@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "864b8b5610f4c4b31b0b08ae2e3b1a2600f2c3d29556fc628b9d477d424f524b": {
+    "token_id": "864b8b5610f4c4b31b0b08ae2e3b1a2600f2c3d29556fc628b9d477d424f524b",
+    "token_policy": "864b8b5610f4c4b31b0b08ae2e3b1a2600f2c3d29556fc628b9d477d",
+    "token_ascii": "BORK",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BORK"
   }
 }
