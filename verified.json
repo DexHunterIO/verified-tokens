@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "02904bbd3ba987fb5ba8d0c0e78d049833174ee3befc66680aaed46c4d634a6f62": {
+    "token_id": "02904bbd3ba987fb5ba8d0c0e78d049833174ee3befc66680aaed46c4d634a6f62",
+    "token_policy": "02904bbd3ba987fb5ba8d0c0e78d049833174ee3befc66680aaed46c",
+    "token_ascii": "McJob",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "McJob"
   }
 }
