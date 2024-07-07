@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "1c4dd2176785d515108774ac04c5ec9e3116ce895ee016830dbaf51646696e616c506f6f6c54657374": {
+    "token_id": "1c4dd2176785d515108774ac04c5ec9e3116ce895ee016830dbaf51646696e616c506f6f6c54657374",
+    "token_policy": "1c4dd2176785d515108774ac04c5ec9e3116ce895ee016830dbaf516",
+    "token_ascii": "FinalPoolTest",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FPT"
   }
 }
