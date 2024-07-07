@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "c15495207de066e24570563cdcef30f188e153c6e207eae50c526dfb4d616b654d7943617446616d6f7573": {
+    "token_id": "c15495207de066e24570563cdcef30f188e153c6e207eae50c526dfb4d616b654d7943617446616d6f7573",
+    "token_policy": "c15495207de066e24570563cdcef30f188e153c6e207eae50c526dfb",
+    "token_ascii": "Make MyCat Famous",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MYCAT"
   }
 }
