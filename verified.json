@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "2ed95d012cc35af14b73845c45504e52c147f2dde31f64deb512001e424144454e": {
+    "token_id": "2ed95d012cc35af14b73845c45504e52c147f2dde31f64deb512001e424144454e",
+    "token_policy": "2ed95d012cc35af14b73845c45504e52c147f2dde31f64deb512001e",
+    "token_ascii": "BADEN",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BADEN"
   }
 }
