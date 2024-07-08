@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "4f6a2ce314b42d0347fc95b4dd63b8c35b39dbe5cf3db80cd56affc750756666696e": {
+    "token_id": "4f6a2ce314b42d0347fc95b4dd63b8c35b39dbe5cf3db80cd56affc750756666696e",
+    "token_policy": "4f6a2ce314b42d0347fc95b4dd63b8c35b39dbe5cf3db80cd56affc7",
+    "token_ascii": "Puffin",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PUFF"
   }
 }
