@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "cc27c5588f5c6a86dc298b0e05ed1eb15bfcad8e5f44889a91f1480c4b444f54": {
+    "token_id": "cc27c5588f5c6a86dc298b0e05ed1eb15bfcad8e5f44889a91f1480c4b444f54",
+    "token_policy": "cc27c5588f5c6a86dc298b0e05ed1eb15bfcad8e5f44889a91f1480c",
+    "token_ascii": "KDOT",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "KDOT"
   }
 }
