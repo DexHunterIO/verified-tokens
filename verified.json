@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "8c5f87af0662799d38dc070b06d4415f7c2314ee9fbfcd3df560c16d57414c444f": {
+    "token_id": "8c5f87af0662799d38dc070b06d4415f7c2314ee9fbfcd3df560c16d57414c444f",
+    "token_policy": "8c5f87af0662799d38dc070b06d4415f7c2314ee9fbfcd3df560c16d",
+    "token_ascii": "WALDO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "WALDO"
   }
 }
