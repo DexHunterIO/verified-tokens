@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "fd43c5e4d80bdda0989d210938747130dc9c2cf1385fea049db194564e494b454749524c": {
+    "token_id": "fd43c5e4d80bdda0989d210938747130dc9c2cf1385fea049db194564e494b454749524c",
+    "token_policy": "fd43c5e4d80bdda0989d210938747130dc9c2cf1385fea049db19456",
+    "token_ascii": "NIKEGIRL",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NIKEGIRL"
   }
 }
