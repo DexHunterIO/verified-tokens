@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "5c3111ac1016d32141ef260c43e44b7279ea25dd22c7af726e44e9a64d6f6e6579476c69746368": {
+    "token_id": "5c3111ac1016d32141ef260c43e44b7279ea25dd22c7af726e44e9a64d6f6e6579476c69746368",
+    "token_policy": "5c3111ac1016d32141ef260c43e44b7279ea25dd22c7af726e44e9a6",
+    "token_ascii": "Money Glitch",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "GLITCH"
   }
 }
