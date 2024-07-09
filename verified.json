@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "065562552d980c275e6000eb1c9eb9100a7c6c21e1043f86c82d29fd5269646c65746f6b656e": {
+    "token_id": "065562552d980c275e6000eb1c9eb9100a7c6c21e1043f86c82d29fd5269646c65746f6b656e",
+    "token_policy": "065562552d980c275e6000eb1c9eb9100a7c6c21e1043f86c82d29fd",
+    "token_ascii": "Ridletoken",
+    "is_verified": true,
+    "decimals": "6",
+    "ticker": "RidlTok"
   }
 }
