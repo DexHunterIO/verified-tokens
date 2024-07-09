@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "998917deb33d880edf2594a19f81800b54db030e93774e4fc497381e4e697073": {
+    "token_id": "998917deb33d880edf2594a19f81800b54db030e93774e4fc497381e4e697073",
+    "token_policy": "998917deb33d880edf2594a19f81800b54db030e93774e4fc497381e",
+    "token_ascii": "Nips",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Nips"
   }
 }
