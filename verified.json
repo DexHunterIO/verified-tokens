@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "7fd79892567b12b8a4fe3befc41786322d40a9680a0509b158e8e1b946414b44414b": {
+    "token_id": "7fd79892567b12b8a4fe3befc41786322d40a9680a0509b158e8e1b946414b44414b",
+    "token_policy": "7fd79892567b12b8a4fe3befc41786322d40a9680a0509b158e8e1b9",
+    "token_ascii": "FAKDAK",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FAKDAK"
   }
 }
