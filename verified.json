@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "6fbca533157ec2d42ceba740a316c0d717e79ad5abaa2bb4720c66404d4f544f": {
+    "token_id": "6fbca533157ec2d42ceba740a316c0d717e79ad5abaa2bb4720c66404d4f544f",
+    "token_policy": "6fbca533157ec2d42ceba740a316c0d717e79ad5abaa2bb4720c6640",
+    "token_ascii": "MOTO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MOTO"
   }
 }
