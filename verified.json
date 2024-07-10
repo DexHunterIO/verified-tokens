@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "5b4105cadadf8c7ac85740e010795f58247d774f02e8c4b219dc33d95255474759": {
+    "token_id": "5b4105cadadf8c7ac85740e010795f58247d774f02e8c4b219dc33d95255474759",
+    "token_policy": "5b4105cadadf8c7ac85740e010795f58247d774f02e8c4b219dc33d9",
+    "token_ascii": "RUGGY",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "RGY"
   }
 }
