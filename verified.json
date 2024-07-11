@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "2f87fbf1adbab2077eb4afd8a2054e99ee7ac12d5dea395419f892d3447253434f5250494f4e": {
+    "token_id": "2f87fbf1adbab2077eb4afd8a2054e99ee7ac12d5dea395419f892d3447253434f5250494f4e",
+    "token_policy": "2f87fbf1adbab2077eb4afd8a2054e99ee7ac12d5dea395419f892d3",
+    "token_ascii": "DrSCORPION",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SCORPION"
   }
 }
