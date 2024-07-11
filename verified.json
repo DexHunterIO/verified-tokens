@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "338f4396cb8ce2c537f1f215a0074e358aa5bb1ccbd42e07a06536be436f7374636f486f74446f67": {
+    "token_id": "338f4396cb8ce2c537f1f215a0074e358aa5bb1ccbd42e07a06536be436f7374636f486f74446f67",
+    "token_policy": "338f4396cb8ce2c537f1f215a0074e358aa5bb1ccbd42e07a06536be",
+    "token_ascii": "Costco Hot Dog",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "hotdog"
   }
 }
