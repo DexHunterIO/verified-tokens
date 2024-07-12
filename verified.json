@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "9a16c25ced18f9d77d307b00854b92d8f754fb8ba4c86e08f8a70bcb437279426162794272657474": {
+    "token_id": "9a16c25ced18f9d77d307b00854b92d8f754fb8ba4c86e08f8a70bcb437279426162794272657474",
+    "token_policy": "9a16c25ced18f9d77d307b00854b92d8f754fb8ba4c86e08f8a70bcb",
+    "token_ascii": "Cry Baby Brett",
+    "is_verified": true,
+    "decimals": "1",
+    "ticker": "CBB"
   }
 }
