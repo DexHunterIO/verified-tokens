@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "a31a63777c647d1859aad5953fba351e83c0ff0c48c74c4db9614bfa534f4c4f4e43415244414e4f": {
+    "token_id": "a31a63777c647d1859aad5953fba351e83c0ff0c48c74c4db9614bfa534f4c4f4e43415244414e4f",
+    "token_policy": "a31a63777c647d1859aad5953fba351e83c0ff0c48c74c4db9614bfa",
+    "token_ascii": "SOL ON CARDANO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SOL"
   }
 }
