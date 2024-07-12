@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "b90f3fb81a6d856955ba59394ab65dc765dc62773dd974be7ddaf58943414d": {
+    "token_id": "b90f3fb81a6d856955ba59394ab65dc765dc62773dd974be7ddaf58943414d",
+    "token_policy": "b90f3fb81a6d856955ba59394ab65dc765dc62773dd974be7ddaf589",
+    "token_ascii": "CAM",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CAM"
   }
 }
