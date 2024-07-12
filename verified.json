@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "add0682189b0aea3e6ac63dd4aca58bfdf9b488c025ef0a527d0d006436861726c6573": {
+    "token_id": "add0682189b0aea3e6ac63dd4aca58bfdf9b488c025ef0a527d0d006436861726c6573",
+    "token_policy": "add0682189b0aea3e6ac63dd4aca58bfdf9b488c025ef0a527d0d006",
+    "token_ascii": "Charles",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Charles"
   }
 }
