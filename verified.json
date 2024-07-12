@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "fc09a9e98559dae13571724c18a19839d7125ce1b5b3e8121794f21f4f72656f436174": {
+    "token_id": "fc09a9e98559dae13571724c18a19839d7125ce1b5b3e8121794f21f4f72656f436174",
+    "token_policy": "fc09a9e98559dae13571724c18a19839d7125ce1b5b3e8121794f21f",
+    "token_ascii": "Oreo Cat",
+    "is_verified": true,
+    "decimals": "1",
+    "ticker": "Oreo"
   }
 }
