@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "239709765fd8e0ca75816db5b457998a913ea52bbb492b5466dc4eea534f4c414e41": {
+    "token_id": "239709765fd8e0ca75816db5b457998a913ea52bbb492b5466dc4eea534f4c414e41",
+    "token_policy": "239709765fd8e0ca75816db5b457998a913ea52bbb492b5466dc4eea",
+    "token_ascii": "SOLANA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SOL"
   }
 }
