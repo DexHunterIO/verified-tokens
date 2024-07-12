@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "e69ffcf781d4d92931625457d03b0c1dd2da88fc8936a58ccbba661b576f726c644d656d65546f6b656e": {
+    "token_id": "e69ffcf781d4d92931625457d03b0c1dd2da88fc8936a58ccbba661b576f726c644d656d65546f6b656e",
+    "token_policy": "e69ffcf781d4d92931625457d03b0c1dd2da88fc8936a58ccbba661b",
+    "token_ascii": "World Meme Token ",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "WMT"
   }
 }
