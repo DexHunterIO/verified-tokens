@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "b88739dc3622105273d9edaf5dbda5dfde29d016a87c7bde7eff1452464f4d4f4f4e414441": {
+    "token_id": "b88739dc3622105273d9edaf5dbda5dfde29d016a87c7bde7eff1452464f4d4f4f4e414441",
+    "token_policy": "b88739dc3622105273d9edaf5dbda5dfde29d016a87c7bde7eff1452",
+    "token_ascii": "FOMO ON ADA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FOMO"
   }
 }
