@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "a18d7d6097b4b2e9d150df94914f051fa449503524fe276204105fc3436f6d6d756e69747944756d70696e67416761696e": {
+    "token_id": "a18d7d6097b4b2e9d150df94914f051fa449503524fe276204105fc3436f6d6d756e69747944756d70696e67416761696e",
+    "token_policy": "a18d7d6097b4b2e9d150df94914f051fa449503524fe276204105fc3",
+    "token_ascii": "Community Dumping Again",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CDA"
   }
 }
