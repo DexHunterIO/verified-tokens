@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "2cf476ed5ada258baa68bb98b328e4f353fb573bb490a6b4d160796e464a42": {
+    "token_id": "2cf476ed5ada258baa68bb98b328e4f353fb573bb490a6b4d160796e464a42",
+    "token_policy": "2cf476ed5ada258baa68bb98b328e4f353fb573bb490a6b4d160796e",
+    "token_ascii": "FJB",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FJB"
   }
 }
