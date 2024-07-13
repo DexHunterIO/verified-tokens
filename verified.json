@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "9291fc34cb71b91efd8c5844686e600de1ff71dc44698858b219128343414e544b494c4c5452554d50": {
+    "token_id": "9291fc34cb71b91efd8c5844686e600de1ff71dc44698858b219128343414e544b494c4c5452554d50",
+    "token_policy": "9291fc34cb71b91efd8c5844686e600de1ff71dc44698858b2191283",
+    "token_ascii": "CANT KILL TRUMP",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CKT"
   }
 }
