@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "41668348e0640696f1ba6292960cba8ac3a2c9daedc4058a1e6c5a5a426162795472756d70546f6b656e": {
+    "token_id": "41668348e0640696f1ba6292960cba8ac3a2c9daedc4058a1e6c5a5a426162795472756d70546f6b656e",
+    "token_policy": "41668348e0640696f1ba6292960cba8ac3a2c9daedc4058a1e6c5a5a",
+    "token_ascii": "Baby Trump Token",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "YUGE"
   }
 }
