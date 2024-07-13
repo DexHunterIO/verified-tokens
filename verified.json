@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "8c6731a025a13210d6ba5f3ea5222ec5c39d095ce1c723c8e38b7cc443415244414e4f4b4559": {
+    "token_id": "8c6731a025a13210d6ba5f3ea5222ec5c39d095ce1c723c8e38b7cc443415244414e4f4b4559",
+    "token_policy": "8c6731a025a13210d6ba5f3ea5222ec5c39d095ce1c723c8e38b7cc4",
+    "token_ascii": "CARDANO KEY",
+    "is_verified": true,
+    "decimals": "3",
+    "ticker": "KEY"
   }
 }
