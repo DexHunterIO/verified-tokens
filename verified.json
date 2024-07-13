@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "d0f6027413816e943f87047acff3238b3cda75d4385459db16b84276436861726c657354616b696e674f766572": {
+    "token_id": "d0f6027413816e943f87047acff3238b3cda75d4385459db16b84276436861726c657354616b696e674f766572",
+    "token_policy": "d0f6027413816e943f87047acff3238b3cda75d4385459db16b84276",
+    "token_ascii": "Charles Taking Over",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CTO"
   }
 }
