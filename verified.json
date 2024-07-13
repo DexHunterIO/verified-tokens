@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "a62d31b4908ec8605cabe5ecd5b2197f00178b02392563895ffa4acb42524f4b414c49": {
+    "token_id": "a62d31b4908ec8605cabe5ecd5b2197f00178b02392563895ffa4acb42524f4b414c49",
+    "token_policy": "a62d31b4908ec8605cabe5ecd5b2197f00178b02392563895ffa4acb",
+    "token_ascii": "BROKALI",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BROK"
   }
 }
