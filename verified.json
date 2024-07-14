@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "f50a6b01124122b197bc8d3d258889fb53bca2aa43fb594367a8c7c95452554d505346495354": {
+    "token_id": "f50a6b01124122b197bc8d3d258889fb53bca2aa43fb594367a8c7c95452554d505346495354",
+    "token_policy": "f50a6b01124122b197bc8d3d258889fb53bca2aa43fb594367a8c7c9",
+    "token_ascii": "TRUMPS FIST",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FIST"
   }
 }
