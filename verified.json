@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "51df07d9094edaeefcb0403a29d5629228350f97c8b356223838c19e4d616b65416d65726963614772656174416761696e": {
+    "token_id": "51df07d9094edaeefcb0403a29d5629228350f97c8b356223838c19e4d616b65416d65726963614772656174416761696e",
+    "token_policy": "51df07d9094edaeefcb0403a29d5629228350f97c8b356223838c19e",
+    "token_ascii": "Make America Great Again",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MAGA"
   }
 }
