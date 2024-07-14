@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "82c5dcd8a687278426332d266d8d10f54d284a991491c9f187516ac3505650": {
+    "token_id": "82c5dcd8a687278426332d266d8d10f54d284a991491c9f187516ac3505650",
+    "token_policy": "82c5dcd8a687278426332d266d8d10f54d284a991491c9f187516ac3",
+    "token_ascii": "PVP",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PVP"
   }
 }
