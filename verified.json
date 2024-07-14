@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "f060c599b5405066ea0051b42da10dabe982022f39e11d4304c5cab053686f6f7461426f64656e": {
+    "token_id": "f060c599b5405066ea0051b42da10dabe982022f39e11d4304c5cab053686f6f7461426f64656e",
+    "token_policy": "f060c599b5405066ea0051b42da10dabe982022f39e11d4304c5cab0",
+    "token_ascii": "Shoota Boden",
+    "is_verified": true,
+    "decimals": "2",
+    "ticker": "Shoota"
   }
 }
