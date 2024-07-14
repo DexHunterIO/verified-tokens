@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "59492752ddfa1c77284f48a02f017ce221fdb9aca7cc6519266b1955434e4e4a4f4b45": {
+    "token_id": "59492752ddfa1c77284f48a02f017ce221fdb9aca7cc6519266b1955434e4e4a4f4b45",
+    "token_policy": "59492752ddfa1c77284f48a02f017ce221fdb9aca7cc6519266b1955",
+    "token_ascii": "CNN JOKE",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CNN"
   }
 }
