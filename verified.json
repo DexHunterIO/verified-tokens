@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "1a948427e81dfa8b35f4c4bbb2e2cff78d931c05f32cb9c34f495c5e426574636f696e": {
+    "token_id": "1a948427e81dfa8b35f4c4bbb2e2cff78d931c05f32cb9c34f495c5e426574636f696e",
+    "token_policy": "1a948427e81dfa8b35f4c4bbb2e2cff78d931c05f32cb9c34f495c5e",
+    "token_ascii": "Betcoin",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Betcoin"
   }
 }
