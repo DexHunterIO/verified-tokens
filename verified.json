@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "6774a7f6a50013c4e35698bde807c2eac5943ce4005691010830b9d84d6172726f636f": {
+    "token_id": "6774a7f6a50013c4e35698bde807c2eac5943ce4005691010830b9d84d6172726f636f",
+    "token_policy": "6774a7f6a50013c4e35698bde807c2eac5943ce4005691010830b9d8",
+    "token_ascii": "Marroco",
+    "is_verified": true,
+    "decimals": "3",
+    "ticker": "Marroco"
   }
 }
