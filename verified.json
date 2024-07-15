@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "ca815bab3c8e2785c15c26f861960c24d3b50fe1e4437455d90feed056414e4345": {
+    "token_id": "ca815bab3c8e2785c15c26f861960c24d3b50fe1e4437455d90feed056414e4345",
+    "token_policy": "ca815bab3c8e2785c15c26f861960c24d3b50fe1e4437455d90feed0",
+    "token_ascii": "VANCE",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "VANCE"
   }
 }
