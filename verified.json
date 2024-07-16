@@ -46,6 +46,13 @@
     "ticker": "DISS",
     "decimals": 0
   },
+  "097f37ef3f64a7967c645cb2a40b67594b0f6f4d187d654ff927403753717565616b": {
+    "token_id": "097f37ef3f64a7967c645cb2a40b67594b0f6f4d187d654ff927403753717565616b",
+    "token_policy": "097f37ef3f64a7967c645cb2a40b67594b0f6f4d187d654ff9274037",
+    "token_ascii": "Squeak",
+    "is_verified": true,
+    "ticker": "Squeak"
+  },
   "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54": {
     "token_id": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54",
     "token_policy": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb00",
