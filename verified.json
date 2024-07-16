@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "c0391ea50c49a61984342fa06af0c2cbb3ae2b49b53f9ae5b34c15b6427579546865446970": {
+    "token_id": "c0391ea50c49a61984342fa06af0c2cbb3ae2b49b53f9ae5b34c15b6427579546865446970",
+    "token_policy": "c0391ea50c49a61984342fa06af0c2cbb3ae2b49b53f9ae5b34c15b6",
+    "token_ascii": "Buy The Dip",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DIP"
   }
 }
