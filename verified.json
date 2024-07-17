@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "bb5a7d8e8667d05b25d609b313364bcd9814d95b2eb21be501eaeedb436861726c65737352616e6368": {
+    "token_id": "bb5a7d8e8667d05b25d609b313364bcd9814d95b2eb21be501eaeedb436861726c65737352616e6368",
+    "token_policy": "bb5a7d8e8667d05b25d609b313364bcd9814d95b2eb21be501eaeedb",
+    "token_ascii": "Charless Ranch",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Ranch"
   }
 }
