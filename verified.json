@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "0575eb08767c251d40eeb2ab8337f6b3cbe6db235a73022334f5c5864e494b454348414e": {
+    "token_id": "0575eb08767c251d40eeb2ab8337f6b3cbe6db235a73022334f5c5864e494b454348414e",
+    "token_policy": "0575eb08767c251d40eeb2ab8337f6b3cbe6db235a73022334f5c586",
+    "token_ascii": "NIKECHAN",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NIKECHAN"
   }
 }
