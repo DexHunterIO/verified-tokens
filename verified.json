@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "e55fffa0d1d031c5abbe24de834bc08e2e5871cc3220847a592463f24d4f504152": {
+    "token_id": "e55fffa0d1d031c5abbe24de834bc08e2e5871cc3220847a592463f24d4f504152",
+    "token_policy": "e55fffa0d1d031c5abbe24de834bc08e2e5871cc3220847a592463f2",
+    "token_ascii": "MOPAR",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MOPAR"
   }
 }
