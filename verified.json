@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "268ba53159da8961e79072f2d0831d5b61209ee7bf03d58d79181dfd4e696b65414952": {
+    "token_id": "268ba53159da8961e79072f2d0831d5b61209ee7bf03d58d79181dfd4e696b65414952",
+    "token_policy": "268ba53159da8961e79072f2d0831d5b61209ee7bf03d58d79181dfd",
+    "token_ascii": "NikeAIR",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "AIR"
   }
 }
