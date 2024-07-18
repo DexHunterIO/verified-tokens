@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "c5396628891f76c4893ceefd9e5ef4cbaf1ddcd24826a3553888a9f0436861726c65735374726177": {
+    "token_id": "c5396628891f76c4893ceefd9e5ef4cbaf1ddcd24826a3553888a9f0436861726c65735374726177",
+    "token_policy": "c5396628891f76c4893ceefd9e5ef4cbaf1ddcd24826a3553888a9f0",
+    "token_ascii": "Charles Straw",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Straw"
   }
 }
