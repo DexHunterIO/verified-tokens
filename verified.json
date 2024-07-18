@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "589a615bd79a6ce9cc75c65b6f8047c6e373ef84306fb110203269284772617373": {
+    "token_id": "589a615bd79a6ce9cc75c65b6f8047c6e373ef84306fb110203269284772617373",
+    "token_policy": "589a615bd79a6ce9cc75c65b6f8047c6e373ef84306fb11020326928",
+    "token_ascii": "Grass",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "GRASS"
   }
 }
