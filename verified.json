@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "8aae2d3d20c41091420bc5a716d8e098a753c0ba86332ef49641dd9d5472756d704669676874": {
+    "token_id": "8aae2d3d20c41091420bc5a716d8e098a753c0ba86332ef49641dd9d5472756d704669676874",
+    "token_policy": "8aae2d3d20c41091420bc5a716d8e098a753c0ba86332ef49641dd9d",
+    "token_ascii": "Trump Fight",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FIGHT"
   }
 }
