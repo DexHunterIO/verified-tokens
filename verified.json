@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "2d938e32c68b109291b8967f5c13db83da0853f176861f9779f9a933506f747479": {
+    "token_id": "2d938e32c68b109291b8967f5c13db83da0853f176861f9779f9a933506f747479",
+    "token_policy": "2d938e32c68b109291b8967f5c13db83da0853f176861f9779f9a933",
+    "token_ascii": "Potty",
+    "is_verified": true,
+    "decimals": "3",
+    "ticker": "Potty"
   }
 }
