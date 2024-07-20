@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "09de0282493bc2b62a231e434eaa624e856cce6938f947689258ac14646174636f696e": {
+    "token_id": "09de0282493bc2b62a231e434eaa624e856cce6938f947689258ac14646174636f696e",
+    "token_policy": "09de0282493bc2b62a231e434eaa624e856cce6938f947689258ac14",
+    "token_ascii": "datcoin",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DAT"
   }
 }
