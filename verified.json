@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "fef1664e2a62d2d257058eca3340626fca63fed6e4ab7c486d171d3253656372657453657276696365": {
+    "token_id": "fef1664e2a62d2d257058eca3340626fca63fed6e4ab7c486d171d3253656372657453657276696365",
+    "token_policy": "fef1664e2a62d2d257058eca3340626fca63fed6e4ab7c486d171d32",
+    "token_ascii": "SecretService",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CIA"
   }
 }
