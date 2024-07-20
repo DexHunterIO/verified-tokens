@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "34d2ef024b37df68ec4a76c187054c5ef14386a6a459c030ab5d7bec435543415241434841": {
+    "token_id": "34d2ef024b37df68ec4a76c187054c5ef14386a6a459c030ab5d7bec435543415241434841",
+    "token_policy": "34d2ef024b37df68ec4a76c187054c5ef14386a6a459c030ab5d7bec",
+    "token_ascii": "CUCARACHA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CUCA"
   }
 }
