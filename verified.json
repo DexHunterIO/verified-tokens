@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "07ef4c1e582cec613d97d3ca0e8399fdfe8155736580fdee1705133d56616e79": {
+    "token_id": "07ef4c1e582cec613d97d3ca0e8399fdfe8155736580fdee1705133d56616e79",
+    "token_policy": "07ef4c1e582cec613d97d3ca0e8399fdfe8155736580fdee1705133d",
+    "token_ascii": "Vany",
+    "is_verified": true,
+    "decimals": "3",
+    "ticker": "VN"
   }
 }
