@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "84624ec9771a92e5d4f41b794c98eefd15ab28e6310c28063c6949b754757264436f696e": {
+    "token_id": "84624ec9771a92e5d4f41b794c98eefd15ab28e6310c28063c6949b754757264436f696e",
+    "token_policy": "84624ec9771a92e5d4f41b794c98eefd15ab28e6310c28063c6949b7",
+    "token_ascii": "Turd Coin",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Turd"
   }
 }
