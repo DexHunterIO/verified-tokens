@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "a19d560c976cb8dd977881b11e63b294ab65dc5f22219089d4111a3b456c6f6e": {
+    "token_id": "a19d560c976cb8dd977881b11e63b294ab65dc5f22219089d4111a3b456c6f6e",
+    "token_policy": "a19d560c976cb8dd977881b11e63b294ab65dc5f22219089d4111a3b",
+    "token_ascii": "Elon",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Elon"
   }
 }
