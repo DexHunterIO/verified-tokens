@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "0411fdd6dbfc5aedac7a1fb68688e756e1de99426ff68d67a475b950484f534849": {
+    "token_id": "0411fdd6dbfc5aedac7a1fb68688e756e1de99426ff68d67a475b950484f534849",
+    "token_policy": "0411fdd6dbfc5aedac7a1fb68688e756e1de99426ff68d67a475b950",
+    "token_ascii": "HOSHI",
+    "is_verified": true,
+    "ticker": "HOSHI",
+    "decimals": 0
   }
 }
