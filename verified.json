@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "e9d074e074789211981d7a509058ceddff54f8fb6cb60c69fa6518ac4a4f45564552": {
+    "token_id": "e9d074e074789211981d7a509058ceddff54f8fb6cb60c69fa6518ac4a4f45564552",
+    "token_policy": "e9d074e074789211981d7a509058ceddff54f8fb6cb60c69fa6518ac",
+    "token_ascii": "JOEVER",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "JOEVER"
   }
 }
