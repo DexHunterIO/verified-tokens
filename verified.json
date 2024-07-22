@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "3e17ab23022a0ee4bbe72f17c905a6646371aa94de5d5088813d312f4b49544c4552": {
+    "token_id": "3e17ab23022a0ee4bbe72f17c905a6646371aa94de5d5088813d312f4b49544c4552",
+    "token_policy": "3e17ab23022a0ee4bbe72f17c905a6646371aa94de5d5088813d312f",
+    "token_ascii": "KITLER",
+    "is_verified": true,
+    "decimals": "6",
+    "ticker": "KITLER"
   }
 }
