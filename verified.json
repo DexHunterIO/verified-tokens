@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "e7e81fa2823be251ec1e481e1d5abbc40d08252f91b31a4e342685a553637265616d6f": {
+    "token_id": "e7e81fa2823be251ec1e481e1d5abbc40d08252f91b31a4e342685a553637265616d6f",
+    "token_policy": "e7e81fa2823be251ec1e481e1d5abbc40d08252f91b31a4e342685a5",
+    "token_ascii": "Screamo",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SCREAM"
   }
 }
