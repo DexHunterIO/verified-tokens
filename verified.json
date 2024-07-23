@@ -3648,5 +3648,14 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
-  }
+  },
+  "688ed5ff22e2a339bad9069aca27ac8aa30cdc03fe0cc343c1b103f345474f": {
+    "token_id": "688ed5ff22e2a339bad9069aca27ac8aa30cdc03fe0cc343c1b103f345474f",
+    "token_policy": "688ed5ff22e2a339bad9069aca27ac8aa30cdc03fe0cc343c1b103f3",
+    "token_ascii": "EGOMANIA",
+    "is_verified": true,
+    "decimals": "7",
+    "ticker": "EGO"
+  },
+  
 }
