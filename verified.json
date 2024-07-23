@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "ff857e10baf77369fb74945be018fea426a170db2311297e1632444e4d616b654144414772656174416761696e": {
+    "token_id": "ff857e10baf77369fb74945be018fea426a170db2311297e1632444e4d616b654144414772656174416761696e",
+    "token_policy": "ff857e10baf77369fb74945be018fea426a170db2311297e1632444e",
+    "token_ascii": "Make ADA Great Again ",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MAGA"
   }
 }
