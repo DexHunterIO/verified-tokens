@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "accfda65a283ce05a937b8d17396a083f2f1a1789fe21a2cc2adb32557616c727573576966486174": {
+    "token_id": "accfda65a283ce05a937b8d17396a083f2f1a1789fe21a2cc2adb32557616c727573576966486174",
+    "token_policy": "accfda65a283ce05a937b8d17396a083f2f1a1789fe21a2cc2adb325",
+    "token_ascii": "WalrusWifHat ",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "WAL"
   }
 }
