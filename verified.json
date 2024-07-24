@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "c3e326e826386f9fcf259dfd04a2878d1bbdee789245c1a6faac6a06537465704d6f6d": {
+    "token_id": "c3e326e826386f9fcf259dfd04a2878d1bbdee789245c1a6faac6a06537465704d6f6d",
+    "token_policy": "c3e326e826386f9fcf259dfd04a2878d1bbdee789245c1a6faac6a06",
+    "token_ascii": "StepMom",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "StepMom"
   }
 }
