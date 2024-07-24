@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "ed5517ccf67c60004355cee3c546c77226cd89a04b3aaeae6a65589e4d6f6d": {
+    "token_id": "ed5517ccf67c60004355cee3c546c77226cd89a04b3aaeae6a65589e4d6f6d",
+    "token_policy": "ed5517ccf67c60004355cee3c546c77226cd89a04b3aaeae6a65589e",
+    "token_ascii": "Mom",
+    "is_verified": true,
+    "decimals": "5",
+    "ticker": "MOM"
   }
 }
