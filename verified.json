@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "ea678e561762b7ebc564e5fc01258f4fa706563f393d52419fc01c9c4d616b6543617264616e6f4772656174416761696e": {
+    "token_id": "ea678e561762b7ebc564e5fc01258f4fa706563f393d52419fc01c9c4d616b6543617264616e6f4772656174416761696e",
+    "token_policy": "ea678e561762b7ebc564e5fc01258f4fa706563f393d52419fc01c9c",
+    "token_ascii": "MakeCardanoGreatAgain",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MCGA"
   }
 }
