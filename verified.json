@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "69f6201dd6b28e21f433d32a9cfe98dbb715f13aff8d2667359cff4b496e666c75656e636572": {
+    "token_id": "69f6201dd6b28e21f433d32a9cfe98dbb715f13aff8d2667359cff4b496e666c75656e636572",
+    "token_policy": "69f6201dd6b28e21f433d32a9cfe98dbb715f13aff8d2667359cff4b",
+    "token_ascii": "Influencer",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Influence"
   }
 }
