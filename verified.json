@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "e3dba6a2a7fdb128334c120a7ae7701884a35714cc9d6e6b63115f88434554415244494f": {
+    "token_id": "e3dba6a2a7fdb128334c120a7ae7701884a35714cc9d6e6b63115f88434554415244494f",
+    "token_policy": "e3dba6a2a7fdb128334c120a7ae7701884a35714cc9d6e6b63115f88",
+    "token_ascii": "CETARDIO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CETARDIO"
   }
 }
