@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "c0c3dded0805ceec22e212a8ba4cf785807bb6707b63c3c3eb59851652697a7a436f696e": {
+    "token_id": "c0c3dded0805ceec22e212a8ba4cf785807bb6707b63c3c3eb59851652697a7a436f696e",
+    "token_policy": "c0c3dded0805ceec22e212a8ba4cf785807bb6707b63c3c3eb598516",
+    "token_ascii": "Rizz Coin",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Rizz"
   }
 }
