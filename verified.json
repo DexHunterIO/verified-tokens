@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "05c4bcecccff054c9aefff8bdc310e1edb8baa0756d912b47ae45d694d65656d": {
+    "token_id": "05c4bcecccff054c9aefff8bdc310e1edb8baa0756d912b47ae45d694d65656d",
+    "token_policy": "05c4bcecccff054c9aefff8bdc310e1edb8baa0756d912b47ae45d69",
+    "token_ascii": "Meem",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Meem"
   }
 }
