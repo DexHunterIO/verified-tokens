@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "9993fd10677388726e1919da731c84e38d03f9510391f86b69fa5bb154414241524e414b": {
+    "token_id": "9993fd10677388726e1919da731c84e38d03f9510391f86b69fa5bb154414241524e414b",
+    "token_policy": "9993fd10677388726e1919da731c84e38d03f9510391f86b69fa5bb1",
+    "token_ascii": "TABARNAK",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TBNK"
   }
 }
