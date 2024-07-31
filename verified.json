@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "74a6ad72586a57c5b67e6061357d6b791417de926aad2a1f45b7e88c4e4549524f": {
+    "token_id": "74a6ad72586a57c5b67e6061357d6b791417de926aad2a1f45b7e88c4e4549524f",
+    "token_policy": "74a6ad72586a57c5b67e6061357d6b791417de926aad2a1f45b7e88c",
+    "token_ascii": "NEIRO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NEIRO"
   }
 }
