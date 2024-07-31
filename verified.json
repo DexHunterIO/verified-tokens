@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "f1a1d975982b9e494a3b26847405d90fcb3eeddb50a054642367b80b444541444e494b45": {
+    "token_id": "f1a1d975982b9e494a3b26847405d90fcb3eeddb50a054642367b80b444541444e494b45",
+    "token_policy": "f1a1d975982b9e494a3b26847405d90fcb3eeddb50a054642367b80b",
+    "token_ascii": "DEADNIKE",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DEADNIKE"
   }
 }
