@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "2f0bcb189d685c54e16116e323ec2a634c66a9813e35367ab32ddc3546726565646f6d4865726f73": {
+    "token_id": "2f0bcb189d685c54e16116e323ec2a634c66a9813e35367ab32ddc3546726565646f6d4865726f73",
+    "token_policy": "2f0bcb189d685c54e16116e323ec2a634c66a9813e35367ab32ddc35",
+    "token_ascii": "FreedomHeros",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Freedom"
   }
 }
