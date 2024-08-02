@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "5e718a2eb30469b733b07a7306821949002de991697b5b472b2b3f1c534341414d424c4553": {
+    "token_id": "5e718a2eb30469b733b07a7306821949002de991697b5b472b2b3f1c534341414d424c4553",
+    "token_policy": "5e718a2eb30469b733b07a7306821949002de991697b5b472b2b3f1c",
+    "token_ascii": "SCAAMBLES",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SCAAMBLES"
   }
 }
