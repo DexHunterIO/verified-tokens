@@ -3641,6 +3641,13 @@
     "decimals": "0",
     "ticker": "Hardano"
   },
+  "633f2e2c5280417c6b76055eda54fc07de984c122c01573ea4a9e823": {
+    "token_id": "633f2e2c5280417c6b76055eda54fc07de984c122c01573ea4a9e823",
+    "token_policy": "633f2e2c5280417c6b76055eda54fc07de984c122c01573ea4a9e823",
+    "token_ascii": "Catnip",
+    "is_verified": true,
+    "ticker": "Catnip"
+  },
   "cf3be2c0cfaa6a0f3d7003e8576094ad092d4f6d8db42fa88531b69a42554c4c": {
     "token_id": "cf3be2c0cfaa6a0f3d7003e8576094ad092d4f6d8db42fa88531b69a42554c4c",
     "token_policy": "cf3be2c0cfaa6a0f3d7003e8576094ad092d4f6d8db42fa88531b69a",
