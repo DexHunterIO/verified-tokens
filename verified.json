@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "dd7388eeddae188a880a874dabb8549bb9d8fd51ac8c7f7fba5fd27e4861707079436174": {
+    "token_id": "dd7388eeddae188a880a874dabb8549bb9d8fd51ac8c7f7fba5fd27e4861707079436174",
+    "token_policy": "dd7388eeddae188a880a874dabb8549bb9d8fd51ac8c7f7fba5fd27e",
+    "token_ascii": "HappyCat",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Happy"
   }
 }
