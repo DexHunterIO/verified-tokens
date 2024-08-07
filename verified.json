@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "c559454d37d1f229ac66636ccdcf0bfde2f46af0f4b69c67780bcf314a454554455250414e": {
+    "token_id": "c559454d37d1f229ac66636ccdcf0bfde2f46af0f4b69c67780bcf314a454554455250414e",
+    "token_policy": "c559454d37d1f229ac66636ccdcf0bfde2f46af0f4b69c67780bcf31",
+    "token_ascii": "JEETER PAN",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "JEET"
   }
 }
