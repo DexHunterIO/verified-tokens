@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "440d8cbb07856d595becedd7e8e2149693de3a5019e8c4e4a4702e554a45455453504152524f57": {
+    "token_id": "440d8cbb07856d595becedd7e8e2149693de3a5019e8c4e4a4702e554a45455453504152524f57",
+    "token_policy": "440d8cbb07856d595becedd7e8e2149693de3a5019e8c4e4a4702e55",
+    "token_ascii": "JEETSPARROW",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SPARROW"
   }
 }
