@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "22cc9d1de66c8aabff6bdc2154d00e927bb2b4ab250d3ada7df391d14348414e474841524453504f524b": {
+    "token_id": "22cc9d1de66c8aabff6bdc2154d00e927bb2b4ab250d3ada7df391d14348414e474841524453504f524b",
+    "token_policy": "22cc9d1de66c8aabff6bdc2154d00e927bb2b4ab250d3ada7df391d1",
+    "token_ascii": "CHANG HARD SPORK",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CHANG"
   }
 }
