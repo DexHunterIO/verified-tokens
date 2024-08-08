@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "ff70654af4b5058ba0e7fa468b9768de3ed2eef7de3703d8c3e3cb9046616c6c696e67436861726c6573": {
+    "token_id": "ff70654af4b5058ba0e7fa468b9768de3ed2eef7de3703d8c3e3cb9046616c6c696e67436861726c6573",
+    "token_policy": "ff70654af4b5058ba0e7fa468b9768de3ed2eef7de3703d8c3e3cb90",
+    "token_ascii": "Falling Charles",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Falling"
   }
 }
