@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "b4f3c361a27f7e1394b33ae3dbd8f5799c955003f30ccf66728fd01c44656572616e64446f67": {
+    "token_id": "b4f3c361a27f7e1394b33ae3dbd8f5799c955003f30ccf66728fd01c44656572616e64446f67",
+    "token_policy": "b4f3c361a27f7e1394b33ae3dbd8f5799c955003f30ccf66728fd01c",
+    "token_ascii": "Deer and Dog",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DeerDog"
   }
 }
