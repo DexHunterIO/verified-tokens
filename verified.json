@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "6cc611ad14294afc9393ddf2630f4623cd64049579c31b2071582ce64e49514142": {
+    "token_id": "6cc611ad14294afc9393ddf2630f4623cd64049579c31b2071582ce64e49514142",
+    "token_policy": "6cc611ad14294afc9393ddf2630f4623cd64049579c31b2071582ce6",
+    "token_ascii": "NIQAB",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NIQAB"
   }
 }
