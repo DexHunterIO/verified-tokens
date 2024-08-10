@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "028bf3b39ec4df8467983d9fd92cbfcac372d1e97cb70c6de7582f1c4672656e626f6273": {
+    "token_id": "028bf3b39ec4df8467983d9fd92cbfcac372d1e97cb70c6de7582f1c4672656e626f6273",
+    "token_policy": "028bf3b39ec4df8467983d9fd92cbfcac372d1e97cb70c6de7582f1c",
+    "token_ascii": "Frenbobs",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Frenbobs"
   }
 }
