@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "555f3d8896d50996de14b9628af3d044d30d99ba533c5fb0248cddd1436f6e74726f6c6c65724472696674": {
+    "token_id": "555f3d8896d50996de14b9628af3d044d30d99ba533c5fb0248cddd1436f6e74726f6c6c65724472696674",
+    "token_policy": "555f3d8896d50996de14b9628af3d044d30d99ba533c5fb0248cddd1",
+    "token_ascii": "Controller Drift",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Drift"
   }
 }
