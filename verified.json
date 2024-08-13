@@ -3648,5 +3648,13 @@
     "is_verified": true,
     "decimals": "3",
     "ticker": "BULL"
+  },
+  "34b46dde1e742f9435d05b0ed4c7161df95ab4bbe9c1c4eb2f0b1c3a456c6f6e64547275736b": {
+    "token_id": "34b46dde1e742f9435d05b0ed4c7161df95ab4bbe9c1c4eb2f0b1c3a456c6f6e64547275736b",
+    "token_policy": "34b46dde1e742f9435d05b0ed4c7161df95ab4bbe9c1c4eb2f0b1c3a",
+    "token_ascii": "Elond Trusk",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TRUSK"
   }
 }
