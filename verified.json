@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "55b9fdec85427a7b8f9cd85c44aa3c5685e0a6842d1fac09def5a24e4d75736b4b696e736f6e": {
+    "token_id": "55b9fdec85427a7b8f9cd85c44aa3c5685e0a6842d1fac09def5a24e4d75736b4b696e736f6e",
+    "token_policy": "55b9fdec85427a7b8f9cd85c44aa3c5685e0a6842d1fac09def5a24e",
+    "token_ascii": "MuskKinson",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MUKK"
   }
 }
