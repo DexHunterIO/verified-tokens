@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "851aa94174170667ace08ad1c2be40d8fffa9d1fc83090e758a655034d6f6e6b6579506f78": {
+    "token_id": "851aa94174170667ace08ad1c2be40d8fffa9d1fc83090e758a655034d6f6e6b6579506f78",
+    "token_policy": "851aa94174170667ace08ad1c2be40d8fffa9d1fc83090e758a65503",
+    "token_ascii": "MonkeyPox",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MPOX"
   }
 }
