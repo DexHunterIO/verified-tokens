@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "788c510a90a3dbe648cf40ab46a11ad1b51c37409663ea302e815a6a5553446f64": {
+    "token_id": "788c510a90a3dbe648cf40ab46a11ad1b51c37409663ea302e815a6a5553446f64",
+    "token_policy": "788c510a90a3dbe648cf40ab46a11ad1b51c37409663ea302e815a6a",
+    "token_ascii": "USDod",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "USDOD"
   }
 }
