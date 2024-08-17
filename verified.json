@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "cffb17fb4047419d21b25973d35d709ccb0571e2cafd9ae98cef8a11436875636b4e6f72726973": {
+    "token_id": "cffb17fb4047419d21b25973d35d709ccb0571e2cafd9ae98cef8a11436875636b4e6f72726973",
+    "token_policy": "cffb17fb4047419d21b25973d35d709ccb0571e2cafd9ae98cef8a11",
+    "token_ascii": "Chuck Norris",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Chuck"
   }
 }
