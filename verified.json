@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "95bb414d49ea3372f37568c1b168d5e2df6ca7cc7c5364a98e8060b9426f6d6261436c616174": {
+    "token_id": "95bb414d49ea3372f37568c1b168d5e2df6ca7cc7c5364a98e8060b9426f6d6261436c616174",
+    "token_policy": "95bb414d49ea3372f37568c1b168d5e2df6ca7cc7c5364a98e8060b9",
+    "token_ascii": "BombaClaat",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Bomba"
   }
 }
