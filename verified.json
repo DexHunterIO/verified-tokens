@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "ff6b8ea89ccc9b93e5c1ce56deea93a8ecd6e552ae27b1f986563936446f6e67": {
+    "token_id": "ff6b8ea89ccc9b93e5c1ce56deea93a8ecd6e552ae27b1f986563936446f6e67",
+    "token_policy": "ff6b8ea89ccc9b93e5c1ce56deea93a8ecd6e552ae27b1f986563936",
+    "token_ascii": "Dong",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Dong"
   }
 }
