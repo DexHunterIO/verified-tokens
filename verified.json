@@ -66,6 +66,13 @@
     "token_policy": "279f842c33eed9054b9e3c70cd6a3b32298259c24b78b895cb41d91a",
     "token_ascii": "Fortuna",
     "is_verified": true,
+    "ticker": "V1TUNA"
+  },
+  "c981fc98e761e3bb44ae35e7d97ae6227f684bcb6f50a636753da48e54554e41": {
+    "token_id": "c981fc98e761e3bb44ae35e7d97ae6227f684bcb6f50a636753da48e54554e41",
+    "token_policy": "c981fc98e761e3bb44ae35e7d97ae6227f684bcb6f50a636753da48e",
+    "token_ascii": "Fortuna",
+    "is_verified": true,
     "ticker": "TUNA"
   },
   "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34424f4f4b": {
