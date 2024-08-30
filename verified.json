@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "b25987179397c3aff776625d72c6fee30cbb6988d1f1d5790941f73d4b616e616e546f6b656e": {
+    "token_id": "b25987179397c3aff776625d72c6fee30cbb6988d1f1d5790941f73d4b616e616e546f6b656e",
+    "token_policy": "b25987179397c3aff776625d72c6fee30cbb6988d1f1d5790941f73d",
+    "token_ascii": "Kanan Token ",
+    "is_verified": true,
+    "decimals": "6",
+    "ticker": "KNT"
   }
 }
