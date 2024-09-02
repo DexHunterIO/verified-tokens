@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "49ebc39802d74a5f02b39754934112c6019ec435c12dcf1a640c7a8e57414c4c4554": {
+    "token_id": "49ebc39802d74a5f02b39754934112c6019ec435c12dcf1a640c7a8e57414c4c4554",
+    "token_policy": "49ebc39802d74a5f02b39754934112c6019ec435c12dcf1a640c7a8e",
+    "token_ascii": "WALLET",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "EMPTY"
   }
 }
