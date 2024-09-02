@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "642d7f177f0c8aa9f09c43299c4e1a95088622672801475999546e8b436f696e426974": {
+    "token_id": "642d7f177f0c8aa9f09c43299c4e1a95088622672801475999546e8b436f696e426974",
+    "token_policy": "642d7f177f0c8aa9f09c43299c4e1a95088622672801475999546e8b",
+    "token_ascii": "CoinBit",
+    "is_verified": true,
+    "decimals": "2",
+    "ticker": "CBT"
   }
 }
