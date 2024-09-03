@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "eaf47481e47582b5ed604a38d232c18491cfa71472027613c71c0fdc534e4147": {
+    "token_id": "eaf47481e47582b5ed604a38d232c18491cfa71472027613c71c0fdc534e4147",
+    "token_policy": "eaf47481e47582b5ed604a38d232c18491cfa71472027613c71c0fdc",
+    "token_ascii": "SNAG",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SNAG"
   }
 }
