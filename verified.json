@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "76f69df3bcd3b9ce34df2aefd8028f251ede4ced13138eb80b4322085472656e636879": {
+    "token_id": "76f69df3bcd3b9ce34df2aefd8028f251ede4ced13138eb80b4322085472656e636879",
+    "token_policy": "76f69df3bcd3b9ce34df2aefd8028f251ede4ced13138eb80b432208",
+    "token_ascii": "Trenchy",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Trenchy"
   }
 }
