@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "c98b3db1c284d0fadf6074e34e0ce92264cb12b3d13eebd279fac2aa53706c61736869735472617368": {
+    "token_id": "c98b3db1c284d0fadf6074e34e0ce92264cb12b3d13eebd279fac2aa53706c61736869735472617368",
+    "token_policy": "c98b3db1c284d0fadf6074e34e0ce92264cb12b3d13eebd279fac2aa",
+    "token_ascii": "Splash is Trash",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TRASH"
   }
 }
