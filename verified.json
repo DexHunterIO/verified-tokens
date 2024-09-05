@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "d08103eeb21fe24e4d9fe7dd2234ef8420d155b0decd6c660e4fa36f537563617373": {
+    "token_id": "d08103eeb21fe24e4d9fe7dd2234ef8420d155b0decd6c660e4fa36f537563617373",
+    "token_policy": "d08103eeb21fe24e4d9fe7dd2234ef8420d155b0decd6c660e4fa36f",
+    "token_ascii": "Sucass",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Sucass"
   }
 }
