@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "26fd96881114982de171b4cb7c312d381769a076354a0aac29fb4eff4d7247726579746865436174": {
+    "token_id": "26fd96881114982de171b4cb7c312d381769a076354a0aac29fb4eff4d7247726579746865436174",
+    "token_policy": "26fd96881114982de171b4cb7c312d381769a076354a0aac29fb4eff",
+    "token_ascii": "Mr Grey the Cat",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MRGREY"
   }
 }
