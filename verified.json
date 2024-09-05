@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "d19ec38e6da66cac5069855f36404218ae7a426d0ac64ca31414c20a534e454b": {
+    "token_id": "d19ec38e6da66cac5069855f36404218ae7a426d0ac64ca31414c20a534e454b",
+    "token_policy": "d19ec38e6da66cac5069855f36404218ae7a426d0ac64ca31414c20a",
+    "token_ascii": "SNEK",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SAD"
   }
 }
