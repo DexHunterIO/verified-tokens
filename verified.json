@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "48574d213731b60d1ff4f9b587d4ff21b47bb0a33c94e82c04251a16596f796f": {
+    "token_id": "48574d213731b60d1ff4f9b587d4ff21b47bb0a33c94e82c04251a16596f796f",
+    "token_policy": "48574d213731b60d1ff4f9b587d4ff21b47bb0a33c94e82c04251a16",
+    "token_ascii": "Yoyo ",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Yoyo"
   }
 }
