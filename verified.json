@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "7eb8024463255817cbf63305e174eec95fe067c56c516c4ebab3e7675456": {
+    "token_id": "7eb8024463255817cbf63305e174eec95fe067c56c516c4ebab3e7675456",
+    "token_policy": "7eb8024463255817cbf63305e174eec95fe067c56c516c4ebab3e767",
+    "token_ascii": "TV",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TV"
   }
 }
