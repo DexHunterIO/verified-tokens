@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "061ab705c83edc9af060e55786bdabc99a54b45949a23e4809793f7f536e61726b794475636b": {
+    "token_id": "061ab705c83edc9af060e55786bdabc99a54b45949a23e4809793f7f536e61726b794475636b",
+    "token_policy": "061ab705c83edc9af060e55786bdabc99a54b45949a23e4809793f7f",
+    "token_ascii": "SnarkyDuck",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "SDUK"
   }
 }
