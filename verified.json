@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "bd40b6f03ab9f84ebd1924be37c0981fa6dfad59cdf256aa0e3e99254672696564536872696d70": {
+    "token_id": "bd40b6f03ab9f84ebd1924be37c0981fa6dfad59cdf256aa0e3e99254672696564536872696d70",
+    "token_policy": "bd40b6f03ab9f84ebd1924be37c0981fa6dfad59cdf256aa0e3e9925",
+    "token_ascii": "Fried Shrimp",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SHRIMP"
   }
 }
