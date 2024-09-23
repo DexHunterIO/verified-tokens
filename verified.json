@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "61eb0b3061df9bb14a0ba85525b58863bb23b6ec7fac0dd4a6a2e4fe54756c69704d616e6961": {
+    "token_id": "61eb0b3061df9bb14a0ba85525b58863bb23b6ec7fac0dd4a6a2e4fe54756c69704d616e6961",
+    "token_policy": "61eb0b3061df9bb14a0ba85525b58863bb23b6ec7fac0dd4a6a2e4fe",
+    "token_ascii": "Tulip Mania",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "TLIPMNIA"
   }
 }
