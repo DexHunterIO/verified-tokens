@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "cb20d9d0cc4ed320dd72791e4532af22b7b235fbe23fb2ac6a5152034d6f6f44656e676f6e414441": {
+    "token_id": "cb20d9d0cc4ed320dd72791e4532af22b7b235fbe23fb2ac6a5152034d6f6f44656e676f6e414441",
+    "token_policy": "cb20d9d0cc4ed320dd72791e4532af22b7b235fbe23fb2ac6a515203",
+    "token_ascii": "MooDeng on ADA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MOODENG"
   }
 }
