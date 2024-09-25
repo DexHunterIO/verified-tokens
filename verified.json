@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "eb4bf1ed07623dd229aa44f2d82cbbea39db27f7c6e953096b8c138d6570636f6d70616e79": {
+    "token_id": "eb4bf1ed07623dd229aa44f2d82cbbea39db27f7c6e953096b8c138d6570636f6d70616e79",
+    "token_policy": "eb4bf1ed07623dd229aa44f2d82cbbea39db27f7c6e953096b8c138d",
+    "token_ascii": "epcompany",
+    "is_verified": true,
+    "decimals": "5",
+    "ticker": "epco"
   }
 }
