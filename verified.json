@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "fee21e20bd4bf29194504ed7a5de37856ef15d824004b6c5e0c6101246726564": {
+    "token_id": "fee21e20bd4bf29194504ed7a5de37856ef15d824004b6c5e0c6101246726564",
+    "token_policy": "fee21e20bd4bf29194504ed7a5de37856ef15d824004b6c5e0c61012",
+    "token_ascii": "Fred",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Fred"
   }
 }
