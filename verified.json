@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "367e8dfe8a2964f2dc1c9b0a8c3937cccfa357fcb97d66b92d82c9bd4d4147413437": {
+    "token_id": "367e8dfe8a2964f2dc1c9b0a8c3937cccfa357fcb97d66b92d82c9bd4d4147413437",
+    "token_policy": "367e8dfe8a2964f2dc1c9b0a8c3937cccfa357fcb97d66b92d82c9bd",
+    "token_ascii": "MAGA47",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MAGA47"
   }
 }
