@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "06276710ca2c4ac8834885fc774c76e6bd862c443b60763670227660504f4c4c": {
+    "token_id": "06276710ca2c4ac8834885fc774c76e6bd862c443b60763670227660504f4c4c",
+    "token_policy": "06276710ca2c4ac8834885fc774c76e6bd862c443b60763670227660",
+    "token_ascii": "POLL",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "POLL"
   }
 }
