@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "3ef23265aad75f280231012d401d41e84eab85f447f233db65e10aee544f50444f47": {
+    "token_id": "3ef23265aad75f280231012d401d41e84eab85f447f233db65e10aee544f50444f47",
+    "token_policy": "3ef23265aad75f280231012d401d41e84eab85f447f233db65e10aee",
+    "token_ascii": "TOPDOG",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TOPDOG"
   }
 }
