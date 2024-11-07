@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "cf0d4de8ddb546b31fd122b409c974e325bed64eb0291d63111e13d35a4150": {
+    "token_id": "cf0d4de8ddb546b31fd122b409c974e325bed64eb0291d63111e13d35a4150",
+    "token_policy": "cf0d4de8ddb546b31fd122b409c974e325bed64eb0291d63111e13d3",
+    "token_ascii": "ZAP",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ZAP"
   }
 }
