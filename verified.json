@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "5a62ded0c1c70b1bb4b8c81510d2e7433d39530f91cdc5b8241a4893426f64656761": {
+    "token_id": "5a62ded0c1c70b1bb4b8c81510d2e7433d39530f91cdc5b8241a4893426f64656761",
+    "token_policy": "5a62ded0c1c70b1bb4b8c81510d2e7433d39530f91cdc5b8241a4893",
+    "token_ascii": "Bodega",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Bodega"
   }
 }
