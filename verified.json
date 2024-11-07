@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "08efa9be31e631665de20d7e979bd3aad83099e58108d41e83dd2f044d63446f6e616c6473446f67": {
+    "token_id": "08efa9be31e631665de20d7e979bd3aad83099e58108d41e83dd2f044d63446f6e616c6473446f67",
+    "token_policy": "08efa9be31e631665de20d7e979bd3aad83099e58108d41e83dd2f04",
+    "token_ascii": "McDonaldsDog",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "McDOG"
   }
 }
