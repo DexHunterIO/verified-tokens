@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "1d17c9aa9a823a47bb9be9c63cdc7281a61815224057aea19c3f56654d4548": {
+    "token_id": "1d17c9aa9a823a47bb9be9c63cdc7281a61815224057aea19c3f56654d4548",
+    "token_policy": "1d17c9aa9a823a47bb9be9c63cdc7281a61815224057aea19c3f5665",
+    "token_ascii": "MEH",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MEH"
   }
 }
