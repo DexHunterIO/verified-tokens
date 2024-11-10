@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "082cff9bc88976ccc08941f2b265346841321a37e1599be86bc05e614b6574616d696e65776f6c66": {
+    "token_id": "082cff9bc88976ccc08941f2b265346841321a37e1599be86bc05e614b6574616d696e65776f6c66",
+    "token_policy": "082cff9bc88976ccc08941f2b265346841321a37e1599be86bc05e61",
+    "token_ascii": "Ketamine wolf",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Ket"
   }
 }
