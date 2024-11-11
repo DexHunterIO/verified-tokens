@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "fc8039d0e98de5fcb9d8bfc86b146a8f7ae49f304052f279ca460f8441434f555354494f": {
+    "token_id": "fc8039d0e98de5fcb9d8bfc86b146a8f7ae49f304052f279ca460f8441434f555354494f",
+    "token_policy": "fc8039d0e98de5fcb9d8bfc86b146a8f7ae49f304052f279ca460f84",
+    "token_ascii": "ACOUSTIO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ACOUSTIO"
   }
 }
