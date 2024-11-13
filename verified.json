@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "c1c982b0f2792029ac889505e81d84aea86e6acb92fa7e88485da65e504554415244": {
+    "token_id": "c1c982b0f2792029ac889505e81d84aea86e6acb92fa7e88485da65e504554415244",
+    "token_policy": "c1c982b0f2792029ac889505e81d84aea86e6acb92fa7e88485da65e",
+    "token_ascii": "PETARD",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PETARD"
   }
 }
