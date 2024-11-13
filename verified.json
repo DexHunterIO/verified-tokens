@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "a2bafc074bcc9a6484a6bfbc540e4ee18e192e30268668a277c79665424f4e4b534b59": {
+    "token_id": "a2bafc074bcc9a6484a6bfbc540e4ee18e192e30268668a277c79665424f4e4b534b59",
+    "token_policy": "a2bafc074bcc9a6484a6bfbc540e4ee18e192e30268668a277c79665",
+    "token_ascii": "BONKSKY",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BONKSKY"
   }
 }
