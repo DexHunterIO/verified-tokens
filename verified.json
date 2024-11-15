@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "65785d4639db088d20f8d87c5f0554c6bb74ff0de1658b07225c4e3e4e6965747a73636865": {
+    "token_id": "65785d4639db088d20f8d87c5f0554c6bb74ff0de1658b07225c4e3e4e6965747a73636865",
+    "token_policy": "65785d4639db088d20f8d87c5f0554c6bb74ff0de1658b07225c4e3e",
+    "token_ascii": "Nietzsche",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "NZC"
   }
 }
