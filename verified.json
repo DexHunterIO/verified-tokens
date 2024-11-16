@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "2493b15de7cf0d0e22f099da02242bdb6e5898ee2a5e87e125ca780c4d6f75736579": {
+    "token_id": "2493b15de7cf0d0e22f099da02242bdb6e5898ee2a5e87e125ca780c4d6f75736579",
+    "token_policy": "2493b15de7cf0d0e22f099da02242bdb6e5898ee2a5e87e125ca780c",
+    "token_ascii": "Mousey",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Mousey"
   }
 }
