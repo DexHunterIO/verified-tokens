@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "707e7bc5ff06baefeb5ed3678e796c9d5aa8c7a8dd12faab8f1469b143617264616e6f43726f636f": {
+    "token_id": "707e7bc5ff06baefeb5ed3678e796c9d5aa8c7a8dd12faab8f1469b143617264616e6f43726f636f",
+    "token_policy": "707e7bc5ff06baefeb5ed3678e796c9d5aa8c7a8dd12faab8f1469b1",
+    "token_ascii": "CardanoCroco ",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CROCO"
   }
 }
