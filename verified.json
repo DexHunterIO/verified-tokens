@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "98809fedffa52158230948c0e71f86348578a875780062b2c11d9543416d65726963616e53746577": {
+    "token_id": "98809fedffa52158230948c0e71f86348578a875780062b2c11d9543416d65726963616e53746577",
+    "token_policy": "98809fedffa52158230948c0e71f86348578a875780062b2c11d9543",
+    "token_ascii": "AmericanStew",
+    "is_verified": true,
+    "decimals": "7",
+    "ticker": "STEW"
   }
 }
