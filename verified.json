@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "a766620029459e60e04312d4d40d1fa5ff24df96e1f3fb02c00e7ef542454552524556494557": {
+    "token_id": "a766620029459e60e04312d4d40d1fa5ff24df96e1f3fb02c00e7ef542454552524556494557",
+    "token_policy": "a766620029459e60e04312d4d40d1fa5ff24df96e1f3fb02c00e7ef5",
+    "token_ascii": "BEER REVIEW",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BEER"
   }
 }
