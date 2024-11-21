@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "dfc55fd88deeff37bd4fef24e07d0778fde62ffea5ad8fd3758fa37f534e41494c42524f": {
+    "token_id": "dfc55fd88deeff37bd4fef24e07d0778fde62ffea5ad8fd3758fa37f534e41494c42524f",
+    "token_policy": "dfc55fd88deeff37bd4fef24e07d0778fde62ffea5ad8fd3758fa37f",
+    "token_ascii": "SNAILBRO",
+    "is_verified": true,
+    "decimals": "3",
+    "ticker": "SNAILBRO"
   }
 }
