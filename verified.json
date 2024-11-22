@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "61b43088f9d0ec1c8e23985c7ab104800251b1aa769d5bd3af4661b84d454c444f574e": {
+    "token_id": "61b43088f9d0ec1c8e23985c7ab104800251b1aa769d5bd3af4661b84d454c444f574e",
+    "token_policy": "61b43088f9d0ec1c8e23985c7ab104800251b1aa769d5bd3af4661b8",
+    "token_ascii": "MELDOWN",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MELDOWN"
   }
 }
