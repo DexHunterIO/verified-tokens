@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "447802da68b169f34bdd820d019170805bfff582cc236a58b71d69b8544152444f": {
+    "token_id": "447802da68b169f34bdd820d019170805bfff582cc236a58b71d69b8544152444f",
+    "token_policy": "447802da68b169f34bdd820d019170805bfff582cc236a58b71d69b8",
+    "token_ascii": "TARDO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TARDO"
   }
 }
