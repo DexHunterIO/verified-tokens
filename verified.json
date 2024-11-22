@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "b5ea581381d4969b98e863e4b89af964206568a1db6ee2d5005194544a656e7574": {
+    "token_id": "b5ea581381d4969b98e863e4b89af964206568a1db6ee2d5005194544a656e7574",
+    "token_policy": "b5ea581381d4969b98e863e4b89af964206568a1db6ee2d500519454",
+    "token_ascii": "Jenut",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Jenut"
   }
 }
