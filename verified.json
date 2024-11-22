@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "fbb9ec6a3cd586be0ee920b1c526df1f4a2523f8db090c1ddb1028044d7574616e746f706961": {
+    "token_id": "fbb9ec6a3cd586be0ee920b1c526df1f4a2523f8db090c1ddb1028044d7574616e746f706961",
+    "token_policy": "fbb9ec6a3cd586be0ee920b1c526df1f4a2523f8db090c1ddb102804",
+    "token_ascii": "Mutantopia",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MTP"
   }
 }
