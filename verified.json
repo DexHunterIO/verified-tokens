@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "5f7c6b39e21fff55909adb5848e034d12bd69bfc97a2e0aed030a52e504550454e5554": {
+    "token_id": "5f7c6b39e21fff55909adb5848e034d12bd69bfc97a2e0aed030a52e504550454e5554",
+    "token_policy": "5f7c6b39e21fff55909adb5848e034d12bd69bfc97a2e0aed030a52e",
+    "token_ascii": "PEPENUT",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PEPENUT"
   }
 }
