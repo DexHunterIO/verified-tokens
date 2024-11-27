@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "28e28f17a647da4f4c1f0b233cb861427be987cd2996c4427529288c50726f6d657468657573": {
+    "token_id": "28e28f17a647da4f4c1f0b233cb861427be987cd2996c4427529288c50726f6d657468657573",
+    "token_policy": "28e28f17a647da4f4c1f0b233cb861427be987cd2996c4427529288c",
+    "token_ascii": "Prometheus",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ProAI"
   }
 }
