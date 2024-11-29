@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "d95db0ba7cf19ae175327f54138b070074d5240b7118a18622982aaf4e696365426f7973": {
+    "token_id": "d95db0ba7cf19ae175327f54138b070074d5240b7118a18622982aaf4e696365426f7973",
+    "token_policy": "d95db0ba7cf19ae175327f54138b070074d5240b7118a18622982aaf",
+    "token_ascii": "Nice Boys",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NiceBoys"
   }
 }
