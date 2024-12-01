@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "a6daaffe5fe9efd4783c2f767b8c812e8037c80d9234a7a2c4559f8e536b656c6c79446f6f6473436162616c": {
+    "token_id": "a6daaffe5fe9efd4783c2f767b8c812e8037c80d9234a7a2c4559f8e536b656c6c79446f6f6473436162616c",
+    "token_policy": "a6daaffe5fe9efd4783c2f767b8c812e8037c80d9234a7a2c4559f8e",
+    "token_ascii": "Skelly Doods Cabal",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Cabal"
   }
 }
