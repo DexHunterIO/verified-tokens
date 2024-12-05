@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b434f434b": {
+    "token_id": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b434f434b",
+    "token_policy": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b",
+    "token_ascii": "COCK",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "COCK"
   }
 }
