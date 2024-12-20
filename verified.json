@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "93a91b4bd1678b0edd0d9c9ad6264764a4e8452bb926a892f90c7a1441646164656e67": {
+    "token_id": "93a91b4bd1678b0edd0d9c9ad6264764a4e8452bb926a892f90c7a1441646164656e67",
+    "token_policy": "93a91b4bd1678b0edd0d9c9ad6264764a4e8452bb926a892f90c7a14",
+    "token_ascii": "Adadeng",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ADENG"
   }
 }
