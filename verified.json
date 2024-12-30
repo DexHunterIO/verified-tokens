@@ -3656,5 +3656,12 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "827b5e0311fceb798c9e865eeec55ac33a2c89a0b5e5ef8174e643274348494c4c5452554d50": {
+    "token_id": "827b5e0311fceb798c9e865eeec55ac33a2c89a0b5e5ef8174e643274348494c4c5452554d50",
+    "token_policy": "827b5e0311fceb798c9e865eeec55ac33a2c89a0b5e5ef8174e64327",
+    "token_ascii": "CHILL TRUMP",
+    "is_verified": true,
+    "decimals": "0"
   }
 }
