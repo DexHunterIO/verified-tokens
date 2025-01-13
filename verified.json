@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "ca7b9d861e9ec0ecccf234794d28282c50fb2cd5ade20e77da0086cb427574747374756666": {
+    "token_id": "ca7b9d861e9ec0ecccf234794d28282c50fb2cd5ade20e77da0086cb427574747374756666",
+    "token_policy": "ca7b9d861e9ec0ecccf234794d28282c50fb2cd5ade20e77da0086cb",
+    "token_ascii": "Buttstuff",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BUTTSTUFF"
   }
 }
