@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "bef7091e12fc7f537211f897b2256bef596de8e5fa38a68904f8f6715175657374476f6c64": {
+    "token_id": "bef7091e12fc7f537211f897b2256bef596de8e5fa38a68904f8f6715175657374476f6c64",
+    "token_policy": "bef7091e12fc7f537211f897b2256bef596de8e5fa38a68904f8f671",
+    "token_ascii": "Quest Gold",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "QSTG"
   }
 }
