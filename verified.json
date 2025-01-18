@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "fa3bec8ab6b0f820ea73d412993a5092599995f3776bd4c9b87943475361696e74436861726c6573": {
+    "token_id": "fa3bec8ab6b0f820ea73d412993a5092599995f3776bd4c9b87943475361696e74436861726c6573",
+    "token_policy": "fa3bec8ab6b0f820ea73d412993a5092599995f3776bd4c9b8794347",
+    "token_ascii": "Saint Charles",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SAINT"
   }
 }
