@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "e6f23ed602a87825a82e7d7ae38820fcc852280776a126a5511f1d004d454c414e4941": {
+    "token_id": "e6f23ed602a87825a82e7d7ae38820fcc852280776a126a5511f1d004d454c414e4941",
+    "token_policy": "e6f23ed602a87825a82e7d7ae38820fcc852280776a126a5511f1d00",
+    "token_ascii": "MELANIA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MELANIA"
   }
 }
