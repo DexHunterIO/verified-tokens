@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "8327d7d0478bf3b2094f8054ebc1e8e839144f8860eaa9d0cb3ede8f4956414e4b41": {
+    "token_id": "8327d7d0478bf3b2094f8054ebc1e8e839144f8860eaa9d0cb3ede8f4956414e4b41",
+    "token_policy": "8327d7d0478bf3b2094f8054ebc1e8e839144f8860eaa9d0cb3ede8f",
+    "token_ascii": "IVANKA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "IVANKA"
   }
 }
