@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "e4fa7db81f14e88c4324cc7bf39f727fa390166de27e276e872eddec4b72616b656e": {
+    "token_id": "e4fa7db81f14e88c4324cc7bf39f727fa390166de27e276e872eddec4b72616b656e",
+    "token_policy": "e4fa7db81f14e88c4324cc7bf39f727fa390166de27e276e872eddec",
+    "token_ascii": "Kraken",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Kraken"
   }
 }
