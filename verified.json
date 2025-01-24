@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "40f5defba0df7b28b00f16dba0dd3e2b641ea10f23a156d923e2291243727970746f536f636b7a": {
+    "token_id": "40f5defba0df7b28b00f16dba0dd3e2b641ea10f23a156d923e2291243727970746f536f636b7a",
+    "token_policy": "40f5defba0df7b28b00f16dba0dd3e2b641ea10f23a156d923e22912",
+    "token_ascii": "Crypto Sockz",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ockz"
   }
 }
