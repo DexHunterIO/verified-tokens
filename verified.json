@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "bd596d5ca21c0c3b4ba9514ccd7825383d408ca1d6ba320f6ebc06765361766554696d6554726164696e67": {
+    "token_id": "bd596d5ca21c0c3b4ba9514ccd7825383d408ca1d6ba320f6ebc06765361766554696d6554726164696e67",
+    "token_policy": "bd596d5ca21c0c3b4ba9514ccd7825383d408ca1d6ba320f6ebc0676",
+    "token_ascii": "SaveTimeTrading",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "INCRX"
   }
 }
