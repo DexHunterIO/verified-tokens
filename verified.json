@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "7f6099e44bdef2574b2df1997cbd048bc2a926cbf13ed894e377c6c5454c544f4b454e": {
+    "token_id": "7f6099e44bdef2574b2df1997cbd048bc2a926cbf13ed894e377c6c5454c544f4b454e",
+    "token_policy": "7f6099e44bdef2574b2df1997cbd048bc2a926cbf13ed894e377c6c5",
+    "token_ascii": " EL TOKEN",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "EL"
   }
 }
