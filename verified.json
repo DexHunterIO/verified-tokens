@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "2f938be694e8c6bedf63cb7e1f8f1140c41aee93bb8387ea6a3a8fdc436861726c657344697368427261696e": {
+    "token_id": "2f938be694e8c6bedf63cb7e1f8f1140c41aee93bb8387ea6a3a8fdc436861726c657344697368427261696e",
+    "token_policy": "2f938be694e8c6bedf63cb7e1f8f1140c41aee93bb8387ea6a3a8fdc",
+    "token_ascii": "Charles DishBrain",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CharlesDB"
   }
 }
