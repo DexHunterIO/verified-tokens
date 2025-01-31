@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "32e47c56675688390e97efdeaa2eddb9d7c80a7a19e88ad0a77970d34f6666696369616c436861726c65736d656d6532": {
+    "token_id": "32e47c56675688390e97efdeaa2eddb9d7c80a7a19e88ad0a77970d34f6666696369616c436861726c65736d656d6532",
+    "token_policy": "32e47c56675688390e97efdeaa2eddb9d7c80a7a19e88ad0a77970d3",
+    "token_ascii": "Official Charles meme 2",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Charles2"
   }
 }
