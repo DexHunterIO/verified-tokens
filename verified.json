@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "093341d950d6b9efeb8c5b5e37f933d2045bbadbeec647ade59d6e10544845554e504f50554c4152454c": {
+    "token_id": "093341d950d6b9efeb8c5b5e37f933d2045bbadbeec647ade59d6e10544845554e504f50554c4152454c",
+    "token_policy": "093341d950d6b9efeb8c5b5e37f933d2045bbadbeec647ade59d6e10",
+    "token_ascii": "THEUNPOPULAREL",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "popularel"
   }
 }
