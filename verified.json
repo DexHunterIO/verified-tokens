@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "82ac7b5b22f293ab4e42719ce94df3284b681eb8d90f79b850af88b6435542414e": {
+    "token_id": "82ac7b5b22f293ab4e42719ce94df3284b681eb8d90f79b850af88b6435542414e",
+    "token_policy": "82ac7b5b22f293ab4e42719ce94df3284b681eb8d90f79b850af88b6",
+    "token_ascii": "CUBAN",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CUBAN"
   }
 }
