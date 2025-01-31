@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "4794c2168fee844bf9ebe249078cfae31e5adeed5b2207f17c310d924d454c4f4e": {
+    "token_id": "4794c2168fee844bf9ebe249078cfae31e5adeed5b2207f17c310d924d454c4f4e",
+    "token_policy": "4794c2168fee844bf9ebe249078cfae31e5adeed5b2207f17c310d92",
+    "token_ascii": "MELON",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MELON"
   }
 }
