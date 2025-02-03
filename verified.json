@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "3f3fa34870b0983af520b3048becb38ca9e030220ea16ed618ba0053476f646c6f766573796f75": {
+    "token_id": "3f3fa34870b0983af520b3048becb38ca9e030220ea16ed618ba0053476f646c6f766573796f75",
+    "token_policy": "3f3fa34870b0983af520b3048becb38ca9e030220ea16ed618ba0053",
+    "token_ascii": "God loves you",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "GLY"
   }
 }
