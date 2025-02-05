@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "9f3c5ed72155fb494bb80251b93fe3393908058c14f9e5e6949569ee4d454d454649": {
+    "token_id": "9f3c5ed72155fb494bb80251b93fe3393908058c14f9e5e6949569ee4d454d454649",
+    "token_policy": "9f3c5ed72155fb494bb80251b93fe3393908058c14f9e5e6949569ee",
+    "token_ascii": "MEMEFI",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MEMEFI"
   }
 }
