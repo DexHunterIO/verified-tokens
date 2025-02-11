@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "7b8852a4fac95f7c56df812dbfb1eb9a6bb19ac2f1ed1e4c55251f6d4f4646494349414c4445455a594d454d45": {
+    "token_id": "7b8852a4fac95f7c56df812dbfb1eb9a6bb19ac2f1ed1e4c55251f6d4f4646494349414c4445455a594d454d45",
+    "token_policy": "7b8852a4fac95f7c56df812dbfb1eb9a6bb19ac2f1ed1e4c55251f6d",
+    "token_ascii": "OFFICIAL DEEZY MEME",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DEEZY"
   }
 }
