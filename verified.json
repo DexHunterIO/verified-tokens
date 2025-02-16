@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "0c01f94b34e8fc6d5fdf19a0eab0f3bb2ba6813c46eb1178080e683e425241494e": {
+    "token_id": "0c01f94b34e8fc6d5fdf19a0eab0f3bb2ba6813c46eb1178080e683e425241494e",
+    "token_policy": "0c01f94b34e8fc6d5fdf19a0eab0f3bb2ba6813c46eb1178080e683e",
+    "token_ascii": "BRAIN",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BRAIN"
   }
 }
