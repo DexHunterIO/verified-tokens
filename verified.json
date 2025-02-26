@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "a7d720b8da02ebded963853367f13e817e4901a4cd16744b8249163f5452554d504149": {
+    "token_id": "a7d720b8da02ebded963853367f13e817e4901a4cd16744b8249163f5452554d504149",
+    "token_policy": "a7d720b8da02ebded963853367f13e817e4901a4cd16744b8249163f",
+    "token_ascii": "TRUMPAI",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TRAI"
   }
 }
