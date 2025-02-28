@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "e20fc16b1f9995732636e8b6b6f66cda2bfabce4119c41acce872434436f756e74436c6f776e": {
+    "token_id": "e20fc16b1f9995732636e8b6b6f66cda2bfabce4119c41acce872434436f756e74436c6f776e",
+    "token_policy": "e20fc16b1f9995732636e8b6b6f66cda2bfabce4119c41acce872434",
+    "token_ascii": "CountClown",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CLOWN"
   }
 }
