@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "810720ab21d99c54fc38c572ea87195b3c7c830b75ea343f9939d6b34348494341": {
+    "token_id": "810720ab21d99c54fc38c572ea87195b3c7c830b75ea343f9939d6b34348494341",
+    "token_policy": "810720ab21d99c54fc38c572ea87195b3c7c830b75ea343f9939d6b3",
+    "token_ascii": "CHICA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CIC"
   }
 }
