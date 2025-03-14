@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "332dfb4241a05d45cf92527db0a061eb8cd52d35caf9035da3db12fe536e656b6f6e64436f6d696e67": {
+    "token_id": "332dfb4241a05d45cf92527db0a061eb8cd52d35caf9035da3db12fe536e656b6f6e64436f6d696e67",
+    "token_policy": "332dfb4241a05d45cf92527db0a061eb8cd52d35caf9035da3db12fe",
+    "token_ascii": "SnekondComing",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SNK2"
   }
 }
