@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "98235b24a1de627a603b3d3bbe32a925fcb4e1d5e1ddd9e5655d288843415244414e4f475054": {
+    "token_id": "98235b24a1de627a603b3d3bbe32a925fcb4e1d5e1ddd9e5655d288843415244414e4f475054",
+    "token_policy": "98235b24a1de627a603b3d3bbe32a925fcb4e1d5e1ddd9e5655d2888",
+    "token_ascii": "CARDANO GPT",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CGI"
   }
 }
