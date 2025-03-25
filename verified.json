@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "95c4c1c3dc0fe64736b25c5d3c21569ac3e765e68c28957fae5f159a4e657264614149": {
+    "token_id": "95c4c1c3dc0fe64736b25c5d3c21569ac3e765e68c28957fae5f159a4e657264614149",
+    "token_policy": "95c4c1c3dc0fe64736b25c5d3c21569ac3e765e68c28957fae5f159a",
+    "token_ascii": "Nerda AI",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NERDA"
   }
 }
