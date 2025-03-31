@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "3d9fd609d6c18c1c378c3ca512e4089e17bbc545b7566b7dcf410b7852756b694c616273": {
+    "token_id": "3d9fd609d6c18c1c378c3ca512e4089e17bbc545b7566b7dcf410b7852756b694c616273",
+    "token_policy": "3d9fd609d6c18c1c378c3ca512e4089e17bbc545b7566b7dcf410b78",
+    "token_ascii": "RukiLabs",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Ruki"
   }
 }
