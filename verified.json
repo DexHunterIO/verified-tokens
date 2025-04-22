@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "5f1d60322fa732804b343b95c17aa4543e6a04fde528703be860450d534e554b": {
+    "token_id": "5f1d60322fa732804b343b95c17aa4543e6a04fde528703be860450d534e554b",
+    "token_policy": "5f1d60322fa732804b343b95c17aa4543e6a04fde528703be860450d",
+    "token_ascii": "SNUK",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SNUK"
   }
 }
