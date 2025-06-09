@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "e15cfc7376a4d6709c4fd241bb97ad6691a4130dfd65b254c77b4962465544434f494e": {
+    "token_id": "e15cfc7376a4d6709c4fd241bb97ad6691a4130dfd65b254c77b4962465544434f494e",
+    "token_policy": "e15cfc7376a4d6709c4fd241bb97ad6691a4130dfd65b254c77b4962",
+    "token_ascii": "FUDCOIN",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FUD"
   }
 }
