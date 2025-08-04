@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "505dacc55ec1693ba86d2424c9f8372c485d04c124869347c1e744a26d757a6f6e": {
+    "token_id": "505dacc55ec1693ba86d2424c9f8372c485d04c124869347c1e744a26d757a6f6e",
+    "token_policy": "505dacc55ec1693ba86d2424c9f8372c485d04c124869347c1e744a2",
+    "token_ascii": "muzon",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "mzn"
   }
 }
