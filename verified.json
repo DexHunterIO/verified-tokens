@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "d6d18559c28d43fec33aee1c1fe8a17ad7bb0efd7d5db222c370a9234a55504954455253434f4f4b": {
+    "token_id": "d6d18559c28d43fec33aee1c1fe8a17ad7bb0efd7d5db222c370a9234a55504954455253434f4f4b",
+    "token_policy": "d6d18559c28d43fec33aee1c1fe8a17ad7bb0efd7d5db222c370a923",
+    "token_ascii": "JUPITERS COOK",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "JUP"
   }
 }
