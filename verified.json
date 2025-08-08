@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "fda52a6797bd056804381fbbf974a47ec938eb3c0909dfb6fc7556824c6f6f70695472616465": {
+    "token_id": "fda52a6797bd056804381fbbf974a47ec938eb3c0909dfb6fc7556824c6f6f70695472616465",
+    "token_policy": "fda52a6797bd056804381fbbf974a47ec938eb3c0909dfb6fc755682",
+    "token_ascii": "LoopiTrade",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "LOOPI"
   }
 }
