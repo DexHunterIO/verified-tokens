@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "ca75f7439d1ecaf5417738e85c911b97e622746c78a37f2ca0eae5536d616f62616c6c": {
+    "token_id": "ca75f7439d1ecaf5417738e85c911b97e622746c78a37f2ca0eae5536d616f62616c6c",
+    "token_policy": "ca75f7439d1ecaf5417738e85c911b97e622746c78a37f2ca0eae553",
+    "token_ascii": "maoball",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "mao"
   }
 }
