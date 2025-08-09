@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "0f45690f28e7d07ca6fa1a9d86253ec2f973a13b1ecfbfc0b6eed18a4261746d6174636f696e": {
+    "token_id": "0f45690f28e7d07ca6fa1a9d86253ec2f973a13b1ecfbfc0b6eed18a4261746d6174636f696e",
+    "token_policy": "0f45690f28e7d07ca6fa1a9d86253ec2f973a13b1ecfbfc0b6eed18a",
+    "token_ascii": "Batmatcoin",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BMC"
   }
 }
