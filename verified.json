@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "83c43e3f078869ef712d958c74c53a5177144c45de3746bdb43cf6934b6174746f4b616174": {
+    "token_id": "83c43e3f078869ef712d958c74c53a5177144c45de3746bdb43cf6934b6174746f4b616174",
+    "token_policy": "83c43e3f078869ef712d958c74c53a5177144c45de3746bdb43cf693",
+    "token_ascii": "Katto Kaat",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "KATTO"
   }
 }
