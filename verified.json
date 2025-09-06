@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "63fa34b8a71996b3736bb2a0d5de4aad81722f6fa06536540b34c6124e41444f": {
+    "token_id": "63fa34b8a71996b3736bb2a0d5de4aad81722f6fa06536540b34c6124e41444f",
+    "token_policy": "63fa34b8a71996b3736bb2a0d5de4aad81722f6fa06536540b34c612",
+    "token_ascii": "NADO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "NADO"
   }
 }
