@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "9cb5968d9ec688d6d742afbf1cd04aff5538a53e9ecb61e44e7558f5456b616e73": {
+    "token_id": "9cb5968d9ec688d6d742afbf1cd04aff5538a53e9ecb61e44e7558f5456b616e73",
+    "token_policy": "9cb5968d9ec688d6d742afbf1cd04aff5538a53e9ecb61e44e7558f5",
+    "token_ascii": "Ekans",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Ekans"
   }
 }
