@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "e52205f76d061710ea764ca7213d9340d753f879c1ce6f6b2d7b4a6b546865506c616173": {
+    "token_id": "e52205f76d061710ea764ca7213d9340d753f879c1ce6f6b2d7b4a6b546865506c616173",
+    "token_policy": "e52205f76d061710ea764ca7213d9340d753f879c1ce6f6b2d7b4a6b",
+    "token_ascii": "The Plaas",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PLAAS"
   }
 }
