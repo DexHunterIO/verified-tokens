@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "9a1664fd26bc02bba9670464364643b7e48f2ff396c3d1ac26b3b33454484554455155494c41434f": {
+    "token_id": "9a1664fd26bc02bba9670464364643b7e48f2ff396c3d1ac26b3b33454484554455155494c41434f",
+    "token_policy": "9a1664fd26bc02bba9670464364643b7e48f2ff396c3d1ac26b3b334",
+    "token_ascii": "THE TEQUILA CO ",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TEQ"
   }
 }
